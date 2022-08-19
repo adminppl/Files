@@ -625,10 +625,10 @@ HBL-V2-WL,Wonderly Brightening Serum Body Lotion Royale 300 ml
 HBL-V3-WL,Wonderly Brightening Serum Body Lotion Voyage 300 ml
 HBL-V4-WL,Wonderly Brightening Serum Body Lotion Amore 300 ml
 HBL-V5-WL,Wonderly Brightening Serum Exfoliating Lotion Mode 300 ml
-HBW-BBSBAT-WL,Wonderly Brightening Body Shower Youthful Hydrating Amore 300 ml
-HBW-BBSYHA-WL,Wonderly Brightening Body Shower Youthful Hydrating Fearless 300 ml
-HBW-BBSYHB-WL,Wonderly Brightening Body Shower Youthful Hydrating Royale 300 ml
-HBW-BBSYHC-WL,Wonderly Brightening Body Shower Youthful Hydrating Voyage 300 ml
+HBW-BBSBAT-WL,Wonderly Brightening Serum Body Wash Amore 315 ml
+HBW-BBSYHA-WL,Wonderly Brightening Serum Body Wash Fearless 315 ml
+HBW-BBSYHB-WL,Wonderly Brightening Serum Body Wash Royale 315 ml
+HBW-BBSYHC-WL,Wonderly Brightening Serum Body Wash Voyage 315 ml
 HBW-BWN1A-BD,Biodef Natural Protection Mint + Sea Salt Body Wash Antiseptik Alami Botol 275 ml
 HBW-BWN1C-BD,Biodef Natural Protection Mint + Green Tea Body Wash Antiseptik Alami Botol 275 ml
 HBW-BWN1D-BD,Biodef Natural Protection Mint + Yuzu Body Wash Antiseptik Alami Botol 275 ml
@@ -699,7 +699,7 @@ HT-P1SRL-P450,Putri SPA Relaxing Hair Tonic (Lavender) 450 ML (Pc(s))
 HT-P1Y1-P2,Putri With Nusilk Technology Hair Tonic (Normal) 2 L (Pc(s))
 HT-P1Y1-P200,Putri With Nusilk Technology Hair Tonic (Normal) 200 ML (pc(s))
 HT-P1Y1-P450,Putri With Nusilk Technology Hair Tonic (Normal) 450 ML (pc(s))
-HWB-EBSSSP-WL,Wonderly Exfoliating Body Shower Acne Purifying Mode 300 ml
+HWB-EBSSSP-WL,onderly Brightening Exfoliating Body Wash Mode 315 ml
 L-CHC01-MO,MAKE OVER Color Hypnose Creamy Lipmatte 01 Charm 4.3 g
 L-CHC02-MO,MAKE OVER Color Hypnose Creamy Lipmatte 02 Flirt 4.3 g
 L-CHC03-MO,MAKE OVER Color Hypnose Creamy Lipmatte 03 Allure 4.3 g
@@ -712,6 +712,12 @@ L-CHC09-MO,MAKE OVER Color Hypnose Creamy Lipmatte 09 Undercover 4.3 g
 L-CHC10-MO,MAKE OVER Color Hypnose Creamy Lipmatte 10 Bewitched 4.3 g
 L-CHC11-MO,MAKE OVER Color Hypnose Creamy Lipmatte 11 Adore 4.3 g
 L-CHC12-MO,MAKE OVER Color Hypnose Creamy Lipmatte 12 Magnet 4.3 g
+L-CLADC01-W,Wardah Colorfit Last All Day Lip Paint 00. Alluring Jakarta
+L-CLADC02-W,Wardah Colorfit Last All Day Lip Paint 13. Dubai Lux
+L-CLADC03-W,Wardah Colorfit Last All Day Lip Paint 14. Royal London
+L-CLADC04-W,Wardah Colorfit Last All Day Lip Paint 15. Dazzling New York
+L-CLADC05-W,Wardah Colorfit Last All Day Lip Paint 16. Kuala Lumpur Joy
+L-CLADC06-W,Wardah Colorfit Last All Day Lip Paint 17. Tokyo Breeze
 L-CLSA-W,Wardah Crystallure Precious Rouge Matte Stain 01 Peach Soleil 5.5 ml
 L-CLSB-W,Wardah Crystallure Precious Rouge Matte Stain 02 Brique Promenade 5.5 ml
 L-CLSC-W,Wardah Crystallure Precious Rouge Matte Stain 03 Prune Virtue 5.5 ml
@@ -1182,7 +1188,7 @@ MASK-EEAL-W6GR,Wardah EyeXpert Aqua Lash Mascara 6 gr (Pc(s))
 MASK-EEPC-W7GR,Wardah EyeXpert Perfectcurl Mascara 7 gr (Pc(s))
 MASK-EEVE-W7GR,Wardah EyeXpert The Volume Expert Mascara 7 gr (Pc(s))
 MASK-EL-MO,Make Over Lash Impulse Waterproof Mascara 8 g
-MASK-EXPMM-W,Wardah EyeXpert Liftlasting Waterproof Mascara
+MASK-EXPMM-W,Wardah EYEXPERT Liftlast Waterproof Mascara 8 ml
 MASK-OMG-OMG,OMG Oh My Glam SuperFiller Waterproof Mascara 6.5 g
 MASK-SLA-EM5GR,Emina Star Lash Aqua Mascara 5 gr (Pc(s))
 MASK-SMU-EM,Emina Squeeze Me Up Mascara 8 g
@@ -1823,7 +1829,6 @@ TC-FC-MO14G,MAKE OVER Face Contour Kit 14 g (Pc(s))
 TC-IPMFPF11-W13G,Wardah Instaperfect MATTE FIT Powder Foundation 11. Fair 13 g
 TC-IPMFPF12-W13G,Wardah Instaperfect MATTE FIT Powder Foundation 12. Ivory 13 g
 TC-IPMFPF13-W13G,Wardah Instaperfect MATTE FIT Powder Foundation 13. Beige 13 g
-TC-IPMFPF14-W13G,Wardah Instaperfect MATTE FIT Powder Foundation 14. CRÉME13 g
 TC-IPPF01-W,Instaperfect Matte Fit Powder Foundation 11 Fair Pink 13 g
 TC-IPPF02-W,Instaperfect Matte Fit Powder Foundation 22 Light Ivory 13 g
 TC-IPPF03-W,Instaperfect Matte Fit Powder Foundation 32 True Beige 13 g
