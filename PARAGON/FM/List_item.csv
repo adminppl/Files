@@ -140,7 +140,6 @@ BUT-W0O-W50ML,Wardah Creamy Body Butter With Olive 50 ml (pc(s))
 BUT-W0P-W50ML,Wardah Creamy Body Butter With Passion Fruit 50 ml (pc(s))
 BUT-W0R-W50ML,Wardah Creamy Body Butter With Rose 50 ml (pc(s))
 BUT-W0S-W50ML,Wardah Creamy Body Butter With Strawberry 50 ml (pc(s))
-BUT-W3O-W150ML,Wardah Creamy Body Butter With Olive 150 ml (Pc(s))
 C-P1-P450,Putri Cold Wave 450 ML (Pc(s))
 CB-P1A-P240,Putri Natural Creambath Avocado 240 ML (Pc(s))
 CB-P1A-P720,Putri Natural Creambath Avocado 720 ML (Pc(s))
@@ -224,7 +223,6 @@ CUS-IPC-W,Instaperfect Skincover Air Cushion 32 True Beige 11 g
 CUS-IPD-W,Instaperfect Skincover Air Cushion 33 Warm Olive 11 g
 CUS-IPE-W,Instaperfect Skincover Air Cushion 43 Creme Sand 11 g
 CUS-IPF-W,Instaperfect Skincover Air Cushion 52 Almond 11 g
-CUS-IPMB13-W15G,Wardah Instaperfect MINERALIGHT MATTE BB Cushion 13. BEIGE 15 g
 CUS-PDMCC31-MO,MAKE OVER Powerstay Demi-Matte Cover Cushion C31 Pink Beige
 CUS-PDMCC41-MO,MAKE OVER Powerstay Demi-Matte Cover Cushion C41 Cool Sand
 CUS-PDMCC62-MO,MAKE OVER Powerstay Demi-Matte Cover Cushion C62 Rich Cocoa
@@ -551,7 +549,6 @@ FT-MPBHA-EM,Emina Ms. Pimple Acne Solution Exfoliating Toner 100 ml
 FT-NDATE-W,Wardah Nature Daily Aloe Hydramild Essence Toner 100 mL
 FT-NFSGSEH30-L,LABORÉ Sensitive Skin Care NFS GentleBiome Hydration Toner 30 ml
 FT-PHASN1-EM,Emina Ms. Pimple Acne Solution Face Toner 50 ml
-FT-PHASN2-EM,Emina Ms. Pimple Acne Solution Face Toner 100 ml
 FT-PHPRA-TA,Tavi 2 Phase Pre Acne Toner 100 ml
 FT-PSTE-MO,Make Over Powerskin Toner Essence 100 ml
 FT-RIHT-W,Wardah Hydra Rose Petal Infused Toner 100 ml
@@ -895,7 +892,6 @@ L-IPMC03-W3G,Wardah Instaperfect MATTECENTRIC Lip Crayon 03 Honor 3 g
 L-IPMC04-W3G,Wardah Instaperfect MATTECENTRIC Lip Crayon 04 Joy 3 g
 L-IPMC05-W3G,Wardah Instaperfect MATTECENTRIC Lip Crayon 05 Sense 3 g
 L-IPMC06-W3G,Wardah Instaperfect MATTECENTRIC Lip Crayon 06 Soul 3 g
-L-IPMLMP01-W5.5G,Wardah Instaperfect MATTESETTER Lip Matte Paint 01. GLEE 5.5 g
 L-IPMLMP06-W,Wardah Instaperfect MATTESETTER Lip Matte Paint 06. FLAIR 5.5 g
 L-IPMLMP07-W,Wardah Instaperfect MATTESETTER Lip Matte Paint 07. DAZZLE 5.5 g
 L-IPMLMP08-W,Wardah Instaperfect MATTESETTER Lip Matte Paint 08. EDGE 5.5 g
@@ -928,6 +924,12 @@ L-LTA-OMG,OMG Oh My Glam Juicy Kiss Lip Tint Serum – 01 Juicy Strawberry
 L-LTB-OMG,OMG Oh My Glam Juicy Kiss Lip Tint Serum – 02 Juicy Grapefruit
 L-LTC-OMG,OMG Oh My Glam Juicy Kiss Lip Tint Serum – 03 Juicy Peach
 L-LTD-OMG,OMG Oh My Glam Juicy Kiss Lip Tint Serum – 04 Juicy Plum
+L-MC01-EM,Emina Mattecrush 01 Bunny Hop
+L-MC02-EM,Emina Mattecrush 02 Mauve Squirrel
+L-MC03-EM,Emina Mattecrush 03 Red Panda
+L-MC04-EM,Emina Mattecrush 04 Salmon Fam
+L-MC05-EM,Emina Mattecrush 05 Morrocan Camel
+L-MC06-EM,Emina Mattecrush 06 Racoon Paw
 L-MLCA-OMG,OMG OH MY GLAM Matte Kiss Lip Cream 01 Dreamy 3 g
 L-MLCB-OMG,OMG OH MY GLAM Matte Kiss Lip Cream 02 Juicy 3 g
 L-MLCC-OMG,OMG OH MY GLAM Matte Kiss Lip Cream 03 Flame 3 g
@@ -1075,7 +1077,6 @@ L-SMULMA-EM,Emina Squeeze Me Up Lip Matte 01 Have a Picnic 6.5 g
 L-SMULMB-EM,Emina Squeeze Me Up Lip Matte 02 Bake a Cookie 6.5 g
 L-SMULMC-EM,Emina Squeeze Me Up Lip Matte 03 City Cycling 6.5 g
 L-SMULMD-EM,Emina Squeeze Me Up Lip Matte 04 Lil Dancing 6.5 g
-L-SR13CC-EM,Emina Sugar Rush Lipstick 13 Choco Cherry 3.8 g
 L-SR14MB-EM,Emina Sugar Rush Lipstick 14 Molten Brownie 3.8 g
 L-SR15MC-EM,Emina Sugar Rush Lipstick 15 Maple Crunch 3.8 g
 L-SR16PD-EM,Emina Sugar Rush Lipstick 16 Peach Drops 3.8 g
@@ -1248,6 +1249,8 @@ MY-CONLBBL02-W,Malaysia Wardah Lightening Liquid Concealer 02 Beige 7 g (Blister
 MY-CONSMULCA-EM,Malaysia Emina Squeeze Me Up Liquid Concealer Light 8 g
 MY-CONSMULCB-EM,Malaysia Emina Squeeze Me Up Liquid Concealer Natural 8 g
 MY-CONSMULCC-EM,Malaysia Emina Squeeze Me Up Liquid Concealer Caramel 8 g
+MY-CUS-IPB-W,Malaysia Instaperfect Skincover Air Cushion 22 Light Ivory 11 g
+MY-CUS-IPD-W,Malaysia Instaperfect Skincover Air Cushion 33 Warm Olive 11 g
 MY-CUSCLCA-W,Malaysia Wardah Colorfit Perfect Glow Cushion 11C Pink Fair
 MY-CUSCLCB-W,Malaysia Wardah Colorfit Perfect Glow Cushion 22N Light Ivory 
 MY-CUSCLCC-W,Malaysia Wardah Colorfit Perfect Glow Cushion 23W Warm Ivory
@@ -1256,6 +1259,13 @@ MY-CUSCLCE-W,Malaysia Wardah Colorfit Perfect Glow Cushion 33W Olive Beige
 MY-CUSCLCF-W,Malaysia Wardah Colorfit Perfect Glow Cushion 42N Neutral Sand
 MY-CUSCLCG-W,Malaysia Wardah Colorfit Perfect Glow Cushion 43W Golden Sand
 MY-CUSCLCH-W,Malaysia Wardah Colorfit Perfect Glow Cushion 52N Almond
+MY-CUSIPA-W,Malaysia Instaperfect Skincover Air Cushion 11 Fair Pink 11 g
+MY-CUSIPC-W,Malaysia Instaperfect Skincover Air Cushion 32 True Beige 11 g
+MY-CUSIPE-W,Malaysia Instaperfect Skincover Air Cushion 43 Creme Sand 11 g
+MY-CUSIPF-W,Malaysia Instaperfect Skincover Air Cushion 52 Almond 11 g
+MY-CUSR2EFC01-W,Malaysia Wardah Exclusive Flawless Cover Cushion 01 Light Beige 15 g
+MY-CUSR2EFC02-W,Malaysia Wardah Exclusive Flawless Cover Cushion 02 Honey Beige 15 g
+MY-CUSR2EFC03-W,Malaysia Wardah Exclusive Flawless Cover Cushion 03 Sandy Beige 15 g
 MY-CUSR2EFC04-W,Malaysia Wardah Exclusive Flawless Cover Cushion 04 Natural 15 g
 MY-EBABBL-EM,Malaysia Emina Agent of Brow Black 1.2 gr (Pc(s))
 MY-EBABBR-EM,Malaysia Emina Agent of Brow Brown 1.2 gr (Pc(s))
@@ -1455,6 +1465,23 @@ MY-LNLCB-EM,Malaysia Emina Poppin’ Matte 02 To Be Honest
 MY-LNLCC-EM,Malaysia Emina Poppin’ Matte 01 Lowkey
 MY-LNLCD-EM,Malaysia Emina Poppin’ Matte 03 Game On
 MY-LNLCE-EM,Malaysia Emina Poppin’ Matte 05 Easy Peasy
+MY-LRIPEI01-W,Malaysia Instaperfect Everlast Intense Matte Liquid 01 EXCEPTIONAL 4.2 g
+MY-LRIPEI02-W,Malaysia Instaperfect Everlast Intense Matte Liquid 02 TIMELESS 4.2 g
+MY-LRIPEI03-W,Malaysia Instaperfect Everlast Intense Matte Liquid 03 SURREAL 4.2 g
+MY-LRIPEI04-W,Malaysia Instaperfect Everlast Intense Matte Liquid 04 GRANDE 4.2 g
+MY-LRIPEI05-W,Malaysia Instaperfect Everlast Intense Matte Liquid 05 SPLENDID 4.2 g
+MY-LRIPEI06-W,Malaysia Instaperfect Everlast Intense Matte Liquid 06 AUTHENTIC 4.2 g
+MY-LRIPEI07-W,Malaysia Instaperfect Everlast Intense Matte Liquid 07 EFFORTLESS 4.2 g
+MY-LRIPEI08-W,Malaysia Instaperfect Everlast Intense Matte Liquid 08 DASHING 4.2 g
+MY-LRRIPLMP01-W,Malaysia Instaperfect MATTESETTER Lip Matte Paint 01. GLEE 5.5 g
+MY-LRRIPLMP02-W,Malaysia Instaperfect MATTESETTER Lip Matte Paint 02. DEAR 5.5 g
+MY-LRRIPLMP03-W,Malaysia Instaperfect MATTESETTER Lip Matte Paint 03. CHIC 5.5 g
+MY-LRRIPLMP04-W,Malaysia Instaperfect MATTESETTER Lip Matte Paint 04. VIBE 5.5 g
+MY-LRRIPLMP05-W,Malaysia Instaperfect MATTESETTER Lip Matte Paint 05. HYPE 5.5 g
+MY-LRRIPLMP06-W,Malaysia Instaperfect MATTESETTER Lip Matte Paint 06. FLAIR 5.5 g
+MY-LRRIPLMP07-W,Malaysia Instaperfect MATTESETTER Lip Matte Paint 07. DAZZLE 5.5 g
+MY-LRRIPLMP08-W,Malaysia Instaperfect MATTESETTER Lip Matte Paint 08. EDGE 5.5 g
+MY-LRRIPLMP09-W,Malaysia Instaperfect MATTESETTER Lip Matte Paint 09. ICON 5.5 g
 MY-LSLWCA-W,Malaysia Wardah Colorfit Last All Day Lip Paint 12 Berry Lasting 4.2 g
 MY-LSLWCB-W,Malaysia Wardah Colorfit Last All Day Lip Paint 11 Everlast Pink 4.2 g
 MY-LSLWCC-W,Malaysia Wardah Colorfit Last All Day Lip Paint 10 Forever Mauve 4.2 g
@@ -1523,6 +1550,7 @@ MY-PRFRELF01-W,Twin Pack Malaysia Wardah Exclusive Liquid Foundation 01 Light Be
 MY-PRFRELF02-W,Twin Pack Malaysia Wardah Exclusive Liquid Foundation 02 Sheer Pink
 MY-PRHDSSK-W,"Malaysia Wardah Hydra Rose Dewy Skin Starter Kit (Facial Wash 20 ml, Toner 50 ml, Day Gel 8 ml)"
 MY-PRMPR-EM,Malaysia Emina Pore Ranger 20 ml (Pc(s))
+MY-PRMRRIPSP-W,Wardah Instaperfect POREFECTION Skin Primer REVAMP 20 ml
 MY-PRTCRE02-W,Twin Pack Malaysia Wardah Exclusive Two Way Cake 02 Light Beige 12 g
 MY-PRTCRE04-W,Twin Pack Malaysia Wardah Exclusive Two Way Cake 04 Natural 12 g
 MY-RAASTG-W,Malaysia Wardah Acnederm Acne Spot Gel 15 ml
@@ -1665,6 +1693,10 @@ MY-SSSB45-EM,Malaysia Emina Sun Battle SPF 45 PA+++
 MY-SSSBAT30-EM,Malaysia Emina Sun Battle SPF 30 PA+++
 MY-SSSBSP30-EM,Malaysia Emina Skin Buddy Sun Protection SPF 30 PA+++ 60 ml
 MY-SSUVSLMSN-W,Malaysia Wardah UV Shield Light Matte Sun Stick 22 g
+MY-TCIPPF01-W,Malaysia Instaperfect Matte Fit Powder Foundation 11 Fair Pink 13 g
+MY-TCIPPF02-W,Malaysia Instaperfect Matte Fit Powder Foundation 22 Light Ivory 13 g
+MY-TCIPPF03-W,Malaysia Instaperfect Matte Fit Powder Foundation 32 True Beige 13 g
+MY-TCIPPF04-W,Malaysia Instaperfect Matte Fit Powder Foundation 33 Warm Olive 13 g
 MY-TCR2E01-W,Malaysia Wardah Exclusive Two Way Cake 01 Sheer Pink 12 g
 MY-TCR2E02-W,Malaysia Wardah Exclusive Two Way Cake 02 Light Beige 12 g
 MY-TCR2E03-W,Malaysia Wardah Exclusive Two Way Cake 03 Sandy Beige 12 g
@@ -1774,7 +1806,6 @@ SRM-BSS-EM,Emina Bright Stuff Face Serum 30 ml
 SRM-BSSN2-EM,Emina Bright Stuff Face Serum 7.5 ml
 SRM-CAB-W,Wardah Crystallure Supreme Activating Booster Essence 30 ml
 SRM-CD-W17ML,Wardah C-Defense Serum 17 ml (Pc(s))
-SRM-CDSI-W,Wardah C-Defense Serum 17 ml
 SRM-CSAE-W,Wardah Crystallure Supreme Advanced Eye Serum 15 ml
 SRM-CSRO-W,Wardah Crystallure Supreme Revitalizing Oil Serum 30 ml
 SRM-DB-WL,Wonderly Advanced Brightening Face Serum 15 ml
@@ -1826,9 +1857,6 @@ TC-CPLS02-W,Wardah CRYSTALLURE Precious Luminizing Silk Powder Foundation 12 IVO
 TC-CPLS03-W,Wardah CRYSTALLURE Precious Luminizing Silk Powder Foundation 13 BEIGE 12 g
 TC-CPLS04-W,Wardah CRYSTALLURE Precious Luminizing Silk Powder Foundation 14 CREME 12 g
 TC-FC-MO14G,MAKE OVER Face Contour Kit 14 g (Pc(s))
-TC-IPMFPF11-W13G,Wardah Instaperfect MATTE FIT Powder Foundation 11. Fair 13 g
-TC-IPMFPF12-W13G,Wardah Instaperfect MATTE FIT Powder Foundation 12. Ivory 13 g
-TC-IPMFPF13-W13G,Wardah Instaperfect MATTE FIT Powder Foundation 13. Beige 13 g
 TC-IPPF01-W,Instaperfect Matte Fit Powder Foundation 11 Fair Pink 13 g
 TC-IPPF02-W,Instaperfect Matte Fit Powder Foundation 22 Light Ivory 13 g
 TC-IPPF03-W,Instaperfect Matte Fit Powder Foundation 32 True Beige 13 g
@@ -1891,10 +1919,6 @@ TC-RE02-W,Wardah Exclusive Two Way Cake 02 Light Beige 12 g
 TC-RE03-W,Wardah Exclusive Two Way Cake 03 Sandy Beige 12 g
 TC-RE04-W,Wardah Exclusive Two Way Cake 04 Natural 12 g
 TC-RE05-W,Wardah Exclusive Two Way Cake 05 Coffee Beige 12 g
-TC-RIPMFPF11-W,Wardah Refill Instaperfect MATTE FIT Powder Foundation 11. FAIR 13 g
-TC-RIPMFPF12-W,Wardah Refill Instaperfect MATTE FIT Powder Foundation 12. IVORY 13 g
-TC-RIPMFPF13-W,Wardah Refill Instaperfect MATTE FIT Powder Foundation 13. BEIGE 13 g
-TC-RIPMFPF14-W,Wardah Refill Instaperfect MATTE FIT Powder Foundation 14. CRÉME13 g
 TC-RIPPF01-W,Instaperfect Refill Matte Fit Powder Foundation 11 Fair Pink 13 g
 TC-RIPPF02-W,Instaperfect Refill Matte Fit Powder Foundation 22 Light Ivory 13 g
 TC-RIPPF03-W,Instaperfect Refill Matte Fit Powder Foundation 32 True Beige 13 g
