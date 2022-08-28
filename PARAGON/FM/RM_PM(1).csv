@@ -9,12 +9,15 @@
 "DUS-SMULCCR1-E","Packaging Material","","Draft","Draft","Draft","Draft","Draft","Draft"
 "DUS-SMULCLR1-E","Packaging Material","","Draft","Draft","Draft","Draft","Draft","Draft"
 "DUS-SMULCNR1-E","Packaging Material","","Draft","Draft","Draft","Draft","Draft","Draft"
+<<<<<<< HEAD
 "ENV-NFSBLAR0-WL","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
 "ENV-NFSBLFR0-WL","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
 "ENV-NFSBLER0-WL","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
 "ENV-NFSBLRR0-WL","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
 "ENV-NFSBLVR0-WL","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
 "ENV-NFSER0-ELL","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
+=======
+>>>>>>> 2db25547756355c900eab9ee5df5b1942dad592a
 "KB-BPU5LR1-P","Packaging Material","","Draft","Draft","Draft","Draft","Draft","Draft"
 "KB-P250R1-P","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
 "KB-PHS200R1-P","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
@@ -72,6 +75,7 @@
 "STIC-QRMFMPR1-E","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
 "STIC-QRMFMRR1-E","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
 "STIC-QRMFTTOR1-E","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
+<<<<<<< HEAD
 "STIC-VDMCW04R0-E","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
 "STIC-VIBBM01R1-W","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
 "STIC-VIBBM02R1-W","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
@@ -79,4 +83,9 @@
 "STIC-VTCPFTSNR0-T","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
 "STIC-VTCPFTSLR0-T","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
 "TUBE-NFSBSRE-ELL","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
+=======
+"STIC-VIBBM01R1-W","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
+"STIC-VIBBM02R1-W","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
+"STIC-VPWLF24HW32-MO","Packaging Material","","Waiting for Approval","Waiting for Approval","Draft","Draft","Draft","Draft"
+>>>>>>> 2db25547756355c900eab9ee5df5b1942dad592a
 "PUFF-TWCSR0-MO","Packaging Material","","Draft","Draft","Draft","Draft","Draft","Draft"
