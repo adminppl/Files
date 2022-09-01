@@ -101,8 +101,6 @@ JTK06,TC-TCEC1-W14GR/0,STD,RR01,TC-TCEC1-W14GR,,,Wardah Tester Container Exclusi
 JTK01,TC-PMW33-MO12G/20,STD,PR01,TC-PMW33-MO12G,,TC-PMW33-BULK,MAKE OVER Powerstay Matte Powder Foundation W33 Honey Beige 12 g,,Make Over Powerstay Matte Powder Foundation W33 Honey Beige,NOMINAL_LINE,1,20,20,20,1200,1236
 JTK04,L-CM05-EM5.5GR/45,STD,SR02,L-CM05-EM5.5GR,,L-CM05-BULK,Emina Creamatte 05 Flamingo 5.5 gr (Pc(s)),,Emina Creamatte 05 Flamingo,SECONDARY_LINE,1,45,45,44,7488,7560
 JTK04,L-CM05-EM5.5GR/15,STD,SR09,L-CM05-EM5.5GR,,L-CM05-BULK,Emina Creamatte 05 Flamingo 5.5 gr (Pc(s)),,Emina Creamatte 05 Flamingo,NOMINAL_LINE,1,15,15,14,2304,2373
-JTK04,CON-CPADC02-W/15,STD,SR09,CON-CPADC02-W,,CON-CPADC02-BULK,WARDAH CRYSTALLURE Precious All Day Corrective Concealer 12 BEIGE1.9 ml,,WARDAH CRYSTALLURE Precious All Day Corrective Concealer 02,SECONDARY_LINE,1,15,15,14,6480,6610
-JTK04,CON-CPADC02-W/0.75,STD,SR09,CON-CPADC02-W,,CON-CPADC02-BULK,WARDAH CRYSTALLURE Precious All Day Corrective Concealer 12 BEIGE1.9 ml,,WARDAH CRYSTALLURE Precious All Day Corrective Concealer 02,NOMINAL_LINE,1,0.75,0.75,0.5,144,156
 JTK04,L-TMLC2-OMG/225,COPACKING,SR13,L-TMLC2-OMG,L-TMLCO-OMG,L-MLCO-BULK,OMG OH MY GLAM Tester Matte Kiss Lip Cream 01-15 52.5 g,OMG OH MY GLAM Tester Matte Kiss Lip Cream 15 Espresso 3.5 g,OMG Oh My Glam Matte Kiss Lip Cream 15,NOMINAL_LINE,1,225,15,14,3600,3665
 JTK04,L-TMLC2-OMG/225,COPACKING,SR13,L-TMLC2-OMG,L-TMLCN-OMG,L-MLCN-BULK,OMG OH MY GLAM Tester Matte Kiss Lip Cream 01-15 52.5 g,OMG OH MY GLAM Tester Matte Kiss Lip Cream 14 Cappuccino 3.5 g,OMG Oh My Glam Matte Kiss Lip Cream 14,NOMINAL_LINE,1,225,15,14,3600,3665
 JTK04,L-TMLC2-OMG/225,COPACKING,SR13,L-TMLC2-OMG,L-TMLCM-OMG,L-MLCM-BULK,OMG OH MY GLAM Tester Matte Kiss Lip Cream 01-15 52.5 g,OMG OH MY GLAM Tester Matte Kiss Lip Cream 13 Latte 3.5 g,OMG Oh My Glam Matte Kiss Lip Cream 13,NOMINAL_LINE,1,225,15,14,3600,3665
@@ -196,8 +194,8 @@ JTK06,B-W2TESFBBLP-W8GR/0,STD,RR01,B-W2TESFBBLP-W8GR,,,Wardah Tester Everyday Sh
 JTK02,L-EVCL01-W5.5G/150,STD,LR15,L-EVCL01-W5.5G,,L-EVCL01-BULK,"Wardah Everyday Cheek and Lip Tint 01 Red, Set, Glow! 5.5 g",,"Wardah Everyday Cheek and Lip Tint 01 Red, Set, Glow !",SECONDARY_LINE,1,150,150,135,22464,23588
 JTK02,L-EVCL01-W5.5G/120,STD,LR15,L-EVCL01-W5.5G,,L-EVCL01-BULK,"Wardah Everyday Cheek and Lip Tint 01 Red, Set, Glow! 5.5 g",,"Wardah Everyday Cheek and Lip Tint 01 Red, Set, Glow !",SECONDARY_LINE,1,120,120,120,17856,18392
 JTK02,L-EVCL01-W5.5G/100,STD,LR15,L-EVCL01-W5.5G,,L-EVCL01-BULK,"Wardah Everyday Cheek and Lip Tint 01 Red, Set, Glow! 5.5 g",,"Wardah Everyday Cheek and Lip Tint 01 Red, Set, Glow !",NOMINAL_LINE,1,100,100,85,14976,15426
-JTK02,L-EVCL01-W5.5G/50,STD,LR15,L-EVCL01-W5.5G,,L-EVCL01-BULK,"Wardah Everyday Cheek and Lip Tint 01 Red, Set, Glow! 5.5 g",,"Wardah Everyday Cheek and Lip Tint 01 Red, Set, Glow !",NOMINAL_LINE,1,50,50,50,6606,7636
 JTK02,L-EVCL01-W5.5G/50,STD,LR15,L-EVCL01-W5.5G,,L-EVCL01-BULK,"Wardah Everyday Cheek and Lip Tint 01 Red, Set, Glow! 5.5 g",,"Wardah Everyday Cheek and Lip Tint 01 Red, Set, Glow !",SECONDARY_LINE,1,50,50,50,6606,7636
+JTK02,L-EVCL01-W5.5G/50,STD,LR15,L-EVCL01-W5.5G,,L-EVCL01-BULK,"Wardah Everyday Cheek and Lip Tint 01 Red, Set, Glow! 5.5 g",,"Wardah Everyday Cheek and Lip Tint 01 Red, Set, Glow !",NOMINAL_LINE,1,50,50,50,6606,7636
 JTK02,BOTP-HTGIN450RE-P/0,SFGPack,LR13,BOTP-HTGIN450RE-P,,,Botol Print Hair Tonic Ginseng 450 ml rev-1 Putri,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,BOTP-HTGIN450RE-P/0,SFGPack,LR13,BOTP-HTGIN450RE-P,,,Botol Print Hair Tonic Ginseng 450 ml rev-1 Putri,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,M-BSTUC-EM/1000,STD,LR02,M-BSTUC-EM,,M-BSTUC-BULK,Emina Bright Stuff Tone Up Cream 20 ml,,Bright Stuff Tone up Cream,NOMINAL_LINE,1,1000,1000,1000,44446,45446
@@ -219,7 +217,6 @@ JTK06,B-W2TELFP03-W30GR/0,STD,RR01,B-W2TELFP03-W30GR,,,Wardah Tester Container E
 JTK02,WARN-C394433CB0-BULK/5,SFGBulk,LR19,WARN-C394433CB0-BULK,,,Monokrom Lipcream C39-4433,,,NOMINAL_LINE,1,5,5,5,0,0
 JTK02,WL-P1-P100/600,STD,LR01,WL-P1-P100,,WL--BULK,Putri Wet Look 100 ML (Pc(s)),,Bulk Wet Look,NOMINAL_LINE,1,600,600,577,5560,5715
 JTK02,WL-P1-P100/200,STD,LR01,WL-P1-P100,,WL--BULK,Putri Wet Look 100 ML (Pc(s)),,Bulk Wet Look,SECONDARY_LINE,1,200,200,175,1203,1303
-JTK01,B-R3L02B-W/100,STD,PR01,B-R3L02B-W,,B-R3L02B-BULK,Wardah Lightening Matte Powder 02 Beige 20 g,,Wardah Lightening Matte Powder 02 Beige,NOMINAL_LINE,1,100,100,100,4648,4787
 JTK06,MY-LEMC15-W4G/0,STD,RR01,MY-LEMC15-W4G,,,Malaysia Wardah Exclusive Matte Lip Cream 15 Pinky Plumise 4 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,L-GS05-EM/90,STD,LR01,L-GS05-EM,,L-GS05-BULK,Emina Glossy Stain 05 Spring Dazzle 3 g,,Emina Glossy Stain 05 Spring Dazzle,NOMINAL_LINE,1,90,90,90,24250,24978
 JTK02,L-GS05-EM/90,STD,LR01,L-GS05-EM,,L-GS05-BULK,Emina Glossy Stain 05 Spring Dazzle 3 g,,Emina Glossy Stain 05 Spring Dazzle,NOMINAL_LINE,1,90,90,90,24250,24978
@@ -253,12 +250,12 @@ JTK02,F-LLFM-W/180,STD,LR10,F-LLFM-W,,F-LLF01-BULK,Wardah Lightening Liquid Foun
 JTK02,F-LLFM-W/150,STD,LR20,F-LLFM-W,,F-LLF01-BULK,Wardah Lightening Liquid Foundation 01. Light Beige 6 ml,,Wardah Lightening Liquid Foundation 01. Light Beige bulk,SECONDARY_LINE,1,150,150,135,17143,17657
 JTK02,F-LLFM-W/120,STD,LR10,F-LLFM-W,,F-LLF01-BULK,Wardah Lightening Liquid Foundation 01. Light Beige 6 ml,,Wardah Lightening Liquid Foundation 01. Light Beige bulk,NOMINAL_LINE,1,120,120,105,11538,11885
 JTK02,F-LUC01-MO33ML/240,STD,LR15,F-LUC01-MO33ML,,F-LUC01-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 01 Ochre 33 ml (Pc(s)),,Ultra Cover Liquid Matt Foundation 01 Orche Bulk,SECONDARY_LINE,1,240,240,240,6560,6660
-JTK02,F-LUC01-MO33ML/240,STD,LR15,F-LUC01-MO33ML,,F-LUC01-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 01 Ochre 33 ml (Pc(s)),,Ultra Cover Liquid Matt Foundation 01 Orche Bulk,NOMINAL_LINE,1,240,240,240,6560,6660
 JTK02,F-LUC01-MO33ML/240,STD,LR05,F-LUC01-MO33ML,,F-LUC01-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 01 Ochre 33 ml (Pc(s)),,Ultra Cover Liquid Matt Foundation 01 Orche Bulk,SECONDARY_LINE,1,240,240,240,6560,6660
+JTK02,F-LUC01-MO33ML/240,STD,LR15,F-LUC01-MO33ML,,F-LUC01-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 01 Ochre 33 ml (Pc(s)),,Ultra Cover Liquid Matt Foundation 01 Orche Bulk,NOMINAL_LINE,1,240,240,240,6560,6660
 JTK02,F-LUC01-MO33ML/120,STD,LR15,F-LUC01-MO33ML,,F-LUC01-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 01 Ochre 33 ml (Pc(s)),,Ultra Cover Liquid Matt Foundation 01 Orche Bulk,SECONDARY_LINE,1,120,120,116,4414,4547
+JTK01,TC-W3RELI3-W12G/100,STD,PR01,TC-W3RELI3-W12G,,TC-W1C3-BULK,Wardah Refill Evd Lum Two Way Cake 03 Ivory 12 g (Pc(s)),,Luminous Two Way Cake 03,SECONDARY_LINE,1,100,100,100,7614,7714
 JTK01,TC-W3RELI3-W12G/60,STD,PR01,TC-W3RELI3-W12G,,TC-W1C3-BULK,Wardah Refill Evd Lum Two Way Cake 03 Ivory 12 g (Pc(s)),,Luminous Two Way Cake 03,NOMINAL_LINE,1,60,60,60,4176,4301
 JTK01,TC-W3RELI3-W12G/40,STD,PR01,TC-W3RELI3-W12G,,TC-W1C3-BULK,Wardah Refill Evd Lum Two Way Cake 03 Ivory 12 g (Pc(s)),,Luminous Two Way Cake 03,SECONDARY_LINE,1,40,40,40,3024,3114
-JTK01,TC-W3RELI3-W12G/100,STD,PR01,TC-W3RELI3-W12G,,TC-W1C3-BULK,Wardah Refill Evd Lum Two Way Cake 03 Ivory 12 g (Pc(s)),,Luminous Two Way Cake 03,SECONDARY_LINE,1,100,100,100,7614,7714
 JTK02,FW-3IN1PCEC-KA/1000,STD,LR02,FW-3IN1PCEC-KA,,FW-3IN1PC-BULK,Kahf Triple Action Oil and Comedo Defense Face Wash with Eyecatch 100 ml,,Kahf Triple Action Oil and Comedo Defense Face Wash,NOMINAL_LINE,1,1000,1000,970,8850,9990
 JTK02,FM-NDOPB-W/120,STD,LR15,FM-NDOPB-W,,FM-NDOPB-BULK,Wardah Nature Daily Orange Pomelo Brightening Wash Off Capsule Mask 10 ml,,Face Mask Nature Daily Orange Pomelo Brightening Bulk (Kg),SECONDARY_LINE,1,120,120,105,8752,9421
 JTK02,FM-NDOPB-W/50,STD,LR15,FM-NDOPB-W,,FM-NDOPB-BULK,Wardah Nature Daily Orange Pomelo Brightening Wash Off Capsule Mask 10 ml,,Face Mask Nature Daily Orange Pomelo Brightening Bulk (Kg),NOMINAL_LINE,1,50,50,50,3542,3650
@@ -311,9 +308,9 @@ JTK06,MY-TLM05-W3.8G/0,STD,RR01,MY-TLM05-W3.8G,,,Wardah Tester Matte Lipstick 05
 JTK02,CUS-EFC01-W/120,STD,LR05,CUS-EFC01-W,,CUS-EFC01-BULK,Wardah Exclusive Flawless Cover Cushion 01 Light Beige 15 g,,Exclusive flawless cover cushion 01 light beige,NOMINAL_LINE,1,120,120,120,6192,6378
 JTK02,CUS-EFC01-W/30,STD,LR04,CUS-EFC01-W,,CUS-EFC01-BULK,Wardah Exclusive Flawless Cover Cushion 01 Light Beige 15 g,,Exclusive flawless cover cushion 01 light beige,SECONDARY_LINE,1,30,30,23,1392,1462
 JTK06,MY-TLIM11-W2.3G/0,STD,RR01,MY-TLIM11-W2.3G,,,Wardah Tester Intense Matte Lipstick 11 Choco Town 2.3 g,,,NOMINAL_LINE,,0,0,0,1,1
+JTK02,F-LUC08-MO33ML/30,STD,LR04,F-LUC08-MO33ML,,F-LUC08-BULK,Make Over Ultra Cover Liquid Matt Foundation 08 Pearl 33 ml (Pc(s)),,Ultracover Liquid Matt Foundation 08 Pearl,SECONDARY_LINE,1,30,30,29,699,720
 JTK02,F-LUC08-MO33ML/150,STD,LR15,F-LUC08-MO33ML,,F-LUC08-BULK,Make Over Ultra Cover Liquid Matt Foundation 08 Pearl 33 ml (Pc(s)),,Ultracover Liquid Matt Foundation 08 Pearl,SECONDARY_LINE,1,150,150,135,3620,3801
 JTK02,F-LUC08-MO33ML/120,STD,LR15,F-LUC08-MO33ML,,F-LUC08-BULK,Make Over Ultra Cover Liquid Matt Foundation 08 Pearl 33 ml (Pc(s)),,Ultracover Liquid Matt Foundation 08 Pearl,NOMINAL_LINE,1,120,120,116,3332,3432
-JTK02,F-LUC08-MO33ML/30,STD,LR04,F-LUC08-MO33ML,,F-LUC08-BULK,Make Over Ultra Cover Liquid Matt Foundation 08 Pearl 33 ml (Pc(s)),,Ultracover Liquid Matt Foundation 08 Pearl,SECONDARY_LINE,1,30,30,29,699,720
 JTK02,LW-P1-P720/600,STD,LR15,LW-P1-P720,,LW-Z-BULK,Putri Olive Body Scrub 720 ML (Pc(s)),,Bulk Lulur Wangi Zaitun,SECONDARY_LINE,1,600,600,580,768,868
 JTK02,LW-P1-P720/400,STD,LR15,LW-P1-P720,,LW-Z-BULK,Putri Olive Body Scrub 720 ML (Pc(s)),,Bulk Lulur Wangi Zaitun,SECONDARY_LINE,1,400,400,370,528,555
 JTK02,LW-P1-P720/200,STD,LR15,LW-P1-P720,,LW-Z-BULK,Putri Olive Body Scrub 720 ML (Pc(s)),,Bulk Lulur Wangi Zaitun,NOMINAL_LINE,1,200,200,194,204,304
@@ -364,11 +361,11 @@ JTK02,EO-BOLC01-B/25,STD,LR11,EO-BOLC01-B,,EO-BOLC-BULK,Beyondly Essential Blend
 JTK02,EO-BOLC01-B/25,STD,LR18,EO-BOLC01-B,,,Beyondly Essential Blend Oil Balancia 10 ml,,,SECONDARY_LINE,1,25,25,25,0,0
 JTK02,EO-BOLC01-B/0,STD,LR06,EO-BOLC01-B,,EO-BOLC-BULK,Beyondly Essential Blend Oil Balancia 10 ml,,Beyondly Essential Oil Balancia,SECONDARY_LINE,,0,0,0,2555,2600
 JTK06,EL-NFSESL-W/0,STD,RR01,EL-NFSESL-W,,,Sample Pajangan Wardah NFS Eyexpert Staylast Liquid Eyeliner 3.5 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,4023,4104
-JTK04,TES-LEVLCR-W/75,COPACKING,SR13,TES-LEVLCR-W,,L-EVLCR3-BULK,Wardah Tester Everyday! Matte Lip Shot,,Wardah Everyday! Matte Lip Shot 03 #nowplaying,NOMINAL_LINE,5,75,15,13.5,5904,6081
-JTK04,TES-LEVLCR-W/75,COPACKING,SR13,TES-LEVLCR-W,,L-EVLCR5-BULK,Wardah Tester Everyday! Matte Lip Shot,,Wardah Everyday! Matte Lip Shot 05 #mood,NOMINAL_LINE,1,75,15,13.5,5904,6081
 JTK04,TES-LEVLCR-W/75,COPACKING,SR13,TES-LEVLCR-W,,L-EVLCR4-BULK,Wardah Tester Everyday! Matte Lip Shot,,Wardah Everyday! Matte Lip Shot 04 #ootd,NOMINAL_LINE,2,75,15,13.5,5904,6081
-JTK04,TES-LEVLCR-W/75,COPACKING,SR13,TES-LEVLCR-W,,L-EVLCR2-BULK,Wardah Tester Everyday! Matte Lip Shot,,Wardah Everyday! Matte Lip Shot 02 #throwback,NOMINAL_LINE,4,75,15,13.5,5904,6081
+JTK04,TES-LEVLCR-W/75,COPACKING,SR13,TES-LEVLCR-W,,L-EVLCR5-BULK,Wardah Tester Everyday! Matte Lip Shot,,Wardah Everyday! Matte Lip Shot 05 #mood,NOMINAL_LINE,1,75,15,13.5,5904,6081
 JTK04,TES-LEVLCR-W/75,COPACKING,SR13,TES-LEVLCR-W,,L-EVLCR1-BULK,Wardah Tester Everyday! Matte Lip Shot,,Wardah Everyday! Matte Lip Shot 01 #fyp,NOMINAL_LINE,3,75,15,13.5,5904,6081
+JTK04,TES-LEVLCR-W/75,COPACKING,SR13,TES-LEVLCR-W,,L-EVLCR2-BULK,Wardah Tester Everyday! Matte Lip Shot,,Wardah Everyday! Matte Lip Shot 02 #throwback,NOMINAL_LINE,4,75,15,13.5,5904,6081
+JTK04,TES-LEVLCR-W/75,COPACKING,SR13,TES-LEVLCR-W,,L-EVLCR3-BULK,Wardah Tester Everyday! Matte Lip Shot,,Wardah Everyday! Matte Lip Shot 03 #nowplaying,NOMINAL_LINE,5,75,15,13.5,5904,6081
 JTK02,F-RVLPWW30-MO/200,STD,LR04,F-RVLPWW30-MO,,F-RVLPWW30-BULK,MAKE OVER Powerstay 24H Weightless Liquid Foundation W30 Creme Beige 33 ml,,MAKE OVER Powerstay 24H Weightless Liquid Foundation W30 Creme Beige,NOMINAL_LINE,1,200,200,200,4225,4352
 JTK02,F-RVLPWW30-MO/120,STD,LR04,F-RVLPWW30-MO,,F-RVLPWW30-BULK,MAKE OVER Powerstay 24H Weightless Liquid Foundation W30 Creme Beige 33 ml,,MAKE OVER Powerstay 24H Weightless Liquid Foundation W30 Creme Beige,SECONDARY_LINE,1,120,120,105,2160,2230
 JTK02,MY-UVSESG-W/1000,STD,LR02,MY-UVSESG-W,,SS-UVSDS-BULK,Malaysia Wardah UV Shield Essential Sunscreen Gel SPF 30 40 ml,,Wardah UV Shield Essential Sunscreen Gel SPF 30,NOMINAL_LINE,1,1000,1000,1000,21363,22004
@@ -498,8 +495,8 @@ JTK02,F-RVLPWC62-MO/50,STD,LR04,F-RVLPWC62-MO,,F-RVLPWC62-BULK,MAKE OVER Powerst
 JTK02,F-RVLPWC62-MO/15,STD,LR04,F-RVLPWC62-MO,,F-RVLPWC62-BULK,MAKE OVER Powerstay 24H Weightless Liquid Foundation C62 Rich Cocoa 33 ml,,MAKE OVER Powerstay 24H Weightless Liquid Foundation C62 Rich Cocoa,NOMINAL_LINE,1,15,15,14,175,180
 JTK06,MY-TLE46-W3.8G/0,STD,RR01,MY-TLE46-W3.8G,,,Wardah Tester Exclusive Lipstick 46 Chic Magenta 3.8 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,TC-TLECNC4-W10G/0,STD,RR01,TC-TLECNC4-W10G,,,Wardah Tester Container Lightening Two Way Cake Extra Cover 04 Natural 10 g,,,NOMINAL_LINE,,0,0,0,1,1
-JTK02,L-CLCLS4-W/350,STD,LR04,L-CLCLS4-W,,L-CLCLS4-BULK,Wardah Colorfit Fresh Matte Lip Ink 04 Speedster 4 g,,Wardah Colorfit Fresh Matte Lip Ink 04 Speedster,NOMINAL_LINE,1,350,350,338,77109,78109
 JTK02,L-CLCLS4-W/350,STD,LR04,L-CLCLS4-W,,L-CLCLS4-BULK,Wardah Colorfit Fresh Matte Lip Ink 04 Speedster 4 g,,Wardah Colorfit Fresh Matte Lip Ink 04 Speedster,SECONDARY_LINE,1,350,350,338,77109,78109
+JTK02,L-CLCLS4-W/350,STD,LR04,L-CLCLS4-W,,L-CLCLS4-BULK,Wardah Colorfit Fresh Matte Lip Ink 04 Speedster 4 g,,Wardah Colorfit Fresh Matte Lip Ink 04 Speedster,NOMINAL_LINE,1,350,350,338,77109,78109
 JTK06,EB-IPBB3M01-W/0,STD,RR01,EB-IPBB3M01-W,,,Wardah Instaperfect BOOKMARK BROWFESSIONAL 3D Brow Mascara 01. BROWN 5.5 g,,,NOMINAL_LINE,,0,0,0,8687,8706
 JTK04,L-IM13-W2.3G/3,STD,SR09,L-IM13-W2.3G,,L-IM13-BULK,Wardah Intense Matte Lipstick 13 Yummy Brownie 2.3 g (Pc(s)),,Intense Matte Lipstick 13 Yummy Brownie,NOMINAL_LINE,1,3,3,2.75,1078,1100
 JTK06,TC-W2TELLB1-W12G/0,STD,RR01,TC-W2TELLB1-W12G,,,Wardah Tester Container Evd Lum Two Way Cake 01 Light Beige 12 g,,,NOMINAL_LINE,,0,0,0,1,1
@@ -542,7 +539,6 @@ JTK06,L-W2THIP1-W3.8GR/0,STD,RR01,L-W2THIP1-W3.8GR,,,Wardah Tester Container Hyd
 JTK04,WARN-TITOTS-MONEL/1,SFGBulk,SR03,WARN-TITOTS-MONEL,,,Monokrom Elastomer Titan OTS,,,NOMINAL_LINE,1,1,1,0.75,0,0
 JTK06,MY-FCLCMG-W/0,STD,RR01,MY-FCLCMG-W,,,Malaysia Wardah Colorfit Matte Foundation 42N Neutral Sand 25 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,HBW-BBSYHB-WL/3000,STD,LR02,HBW-BBSYHB-WL,,HBW-BBSYHB-BULK,Wonderly Brightening Serum Body Wash Royale 315 ml,,Wonderly Brightening Body Shower Youthful Hydrating Royale,NOMINAL_LINE,1,3000,3000,2910,9375,9529
-JTK01,TC-R3LEC04-W/40,STD,PR01,TC-R3LEC04-W,,TC-R3LEC04-BULK,Wardah Lightening Powder Foundation Extra Cover 04 Natural 10 g,,Wardah Lightening Powder Foundation Extra Cover 04 Natural,NOMINAL_LINE,1,40,40,40,2880,2966
 JTK06,MY-EBEXPMBD01-W/0,STD,RR01,MY-EBEXPMBD01-W,,,Malaysia Wardah Eyexpert Matic Brow Definer 01 LIGHT BROWN 0.25 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,A-SATG-W15ML/600,STD,LR15,A-SATG-W15ML,,A-SATG-BULK,Wardah Acnederm Acne Spot Treatment Gel 15 ml (Pc(s)),,Wardah Acnederm Acne Spot Treatment Gel,SECONDARY_LINE,1,600,600,600,34909,35909
 JTK02,A-SATG-W15ML/300,STD,LR15,A-SATG-W15ML,,A-SATG-BULK,Wardah Acnederm Acne Spot Treatment Gel 15 ml (Pc(s)),,Wardah Acnederm Acne Spot Treatment Gel,NOMINAL_LINE,1,300,300,300,17680,18211
@@ -616,10 +612,10 @@ JTK04,L-PTMC05-MO/45,STD,SR09,L-PTMC05-MO,,L-PTMC05-BULK,MAKE OVER Powerstay Tra
 JTK04,L-PTMC05-MO/15,STD,SR09,L-PTMC05-MO,,L-PTMC05-BULK,MAKE OVER Powerstay Transferproof Matte Lip Cream B05 Fired Up 7 g,,Make Over Powerstay Transferproof Matte Lip Cream B05 Fired Up,NOMINAL_LINE,1,15,15,14,1870,1964
 JTK02,HWB-EBSSSP-WL/2000,STD,LR02,HWB-EBSSSP-WL,,HWB-EBSSSP-BULK,Wonderly Brightening Exfoliating Body Wash Mode 315 ml,,Wonderly Exfoliating Body Shower Acne Purifying Mode,NOMINAL_LINE,1,2000,2000,1910,6285,6470
 JTK01,ES-SPS-MO2G/1,STD,PR09,ES-SPS-MO2G,,ES-SPS-BULK,MAKE OVER Sparkling Powder Silver 2 g (Pc(s)),,Sparkling Powder Silver,NOMINAL_LINE,1,1,1,1,430,455
-JTK06,"F-W2TDF-W4,5GR/0",STD,RR01,"F-W2TDF-W4,5GR",,,"Wardah Tester Double Function Kit 4,5 gr (Pc(s))",,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,F-BWMM02-EM/200,STD,LR04,F-BWMM02-EM,,F-BWMM02-BULK,Emina Bare with Me Mineral Mild Foundation 02 Natural 30 ml,,Emina Bare with Me Mineral Mild Foundation 02 Natural,SECONDARY_LINE,1,200,200,200,5450,5777
 JTK02,F-BWMM02-EM/150,STD,LR04,F-BWMM02-EM,,F-BWMM02-BULK,Emina Bare with Me Mineral Mild Foundation 02 Natural 30 ml,,Emina Bare with Me Mineral Mild Foundation 02 Natural,NOMINAL_LINE,1,150,150,141,4200,4410
 JTK02,F-BWMM02-EM/30,STD,LR04,F-BWMM02-EM,,F-BWMM02-BULK,Emina Bare with Me Mineral Mild Foundation 02 Natural 30 ml,,Emina Bare with Me Mineral Mild Foundation 02 Natural,SECONDARY_LINE,1,30,30,26,686,786
+JTK06,"F-W2TDF-W4,5GR/0",STD,RR01,"F-W2TDF-W4,5GR",,,"Wardah Tester Double Function Kit 4,5 gr (Pc(s))",,,NOMINAL_LINE,,0,0,0,1,1
 JTK01,"ES-W1A-W3,3GR/42",COPACKING,PR03,"ES-W1A-W3,3GR","ES-W1A-03-RP-W1,1GR",ES-W1A-03 BULK,"Wardah Eye Shadow A 3,3 gr (pc(s))",Refill Press Eye Shadow Wardah A 03,EYE SHADOW A 03,NOMINAL_LINE,3,42,14,14,9000,9150
 JTK01,"ES-W1A-W3,3GR/42",COPACKING,PR03,"ES-W1A-W3,3GR","ES-W1A-02-RP-W1,1GR",ES-W1A-02 BULK,"Wardah Eye Shadow A 3,3 gr (pc(s))",Refill Press Eye Shadow Wardah A 02,EYE SHADOW A 02,NOMINAL_LINE,2,42,14,14,9000,9150
 JTK01,"ES-W1A-W3,3GR/42",COPACKING,PR03,"ES-W1A-W3,3GR","ES-W1A-01-RP-W1,1GR",ES-W1A-01 BULK,"Wardah Eye Shadow A 3,3 gr (pc(s))",Refill Press Eye Shadow Wardah A 01 (Pc(s)),EYE SHADOW A 01,NOMINAL_LINE,1,42,14,14,9000,9150
@@ -633,8 +629,6 @@ JTK06,F-W2TELSB03-W20ML/0,STD,RR01,F-W2TELSB03-W20ML,,,Wardah Tester Exclusive L
 JTK04,L-PTMCDB-MO/15,,,L-PTMCDB-MO,,L-PTMCDB-BULK,MAKE OVER Powerstay Transferproof Matte Lip Cream B202 Skye-Hi 7 g,,MAKE OVER Powerstay Transferproof Matte Lip Cream B202 Skye-Hi,NOMINAL_LINE,1,15,15,14,1608,1627
 JTK04,L-PS03-MO/80,STD,SR09,L-PS03-MO,,L-PS03-BULK,MAKE OVER Powerstay Superlast Lip Cream 03 6 g,,MAKE OVER Powerstay Superlast Lip Cream 03,NOMINAL_LINE,1,80,80,78,11800,12036
 JTK06,A-W2TG-W15ML/0,STD,RR01,A-W2TG-W15ML,,,Tester Wardah Acne Treatment Gel 15 ml,,,NOMINAL_LINE,,0,0,0,1,1
-JTK01,B-W3ELFP01-W30G/300,STD,PR01,B-W3ELFP01-W30G,,B-W1T3LFP01-BULK,Wardah Evd Lum Face Powder 01 Light Beige 30 g (Pc(s)),,Luminous Face Powder 01,SECONDARY_LINE,1,300,300,300,9576,9863
-JTK01,B-W3ELFP01-W30G/100,STD,PR01,B-W3ELFP01-W30G,,B-W1T3LFP01-BULK,Wardah Evd Lum Face Powder 01 Light Beige 30 g (Pc(s)),,Luminous Face Powder 01,NOMINAL_LINE,1,100,100,100,3120,3214
 JTK02,F-LPWN10-MO33ML/240,STD,LR04,F-LPWN10-MO33ML,,F-LPWN10-BULK,MAKE OVER Powerstay Weightless Liquid Foundation N10 Marble 33 ml,,Powerstay Weightless LF N10 Marble,SECONDARY_LINE,1,240,240,215,4675,4909
 JTK02,F-LPWN10-MO33ML/240,STD,LR04,F-LPWN10-MO33ML,,F-LPWN10-BULK,MAKE OVER Powerstay Weightless Liquid Foundation N10 Marble 33 ml,,Powerstay Weightless LF N10 Marble,SECONDARY_LINE,1,240,240,215,4675,4909
 JTK02,F-LPWN10-MO33ML/90,STD,LR05,F-LPWN10-MO33ML,,F-LPWN10-BULK,MAKE OVER Powerstay Weightless Liquid Foundation N10 Marble 33 ml,,Powerstay Weightless LF N10 Marble,NOMINAL_LINE,1,90,90,86.4,2460,2560
@@ -660,7 +654,7 @@ JTK04,L-CLADC06-W/15,STD,SR09,L-CLADC06-W,,L-CLADC06-BULK,Wardah Colorfit Last A
 JTK04,DUSS-EMLC09H-W/0,SFGPack,SR12,DUSS-EMLC09H-W,,,Dus Sticker Exclusive Matte Lip Cream 09 (Hologram) W,,,NOMINAL_LINE,1,0,0,0,18688,18688
 JTK01,MY-BDMCP01-EM/60,STD,PR01,MY-BDMCP01-EM,,B-DMCP01-BULK,Malaysia Emina Daily Matte Compact Powder 01 Light 11 g,,EMINA Daily Matte Compact Powder 01 Light,NOMINAL_LINE,1,60,60,60,4968,5117
 JTK06,MY-BDMCP01-EM/0,STD,RR01,MY-BDMCP01-EM,,,Malaysia Emina Daily Matte Compact Powder 01 Light 11 g,,,NOMINAL_LINE,,0,0,0,1,1
-JTK02,CM-LCC-W/1000,STD,LR01,CM-LCC-W,,CM-LCC-BULK,Wardah Lightening Cleansing Milk 100 ml,,Wardah Lightening Cleansing Milk,NOMINAL_LINE,1,1000,1000,970,9170,9446
+JTK02,CM-LCC-W/1000,STD,LR01,CM-LCC-W,,CM-LCC-BULK,Wardah Lightening Cleansing Milk 100 ml,,Wardah Lightening Cleansing Milk,NOMINAL_LINE,1,1000,1000,970,9446,9730
 JTK04,L-CLADC03-W/200,STD,SR09,L-CLADC03-W,,L-CLADC03-BULK,Wardah Colorfit Last All Day Lip Paint 14. Royal London,,Wardah Colorfit Last All Day Lip Paint 14. Royal London,SECONDARY_LINE,1,200,200,198,46656,47122
 JTK04,L-CLADC03-W/135,STD,SR09,L-CLADC03-W,,L-CLADC03-BULK,Wardah Colorfit Last All Day Lip Paint 14. Royal London,,Wardah Colorfit Last All Day Lip Paint 14. Royal London,SECONDARY_LINE,1,135,135,132,30816,31124
 JTK04,L-CLADC03-W/15,STD,SR09,L-CLADC03-W,,L-CLADC03-BULK,Wardah Colorfit Last All Day Lip Paint 14. Royal London,,Wardah Colorfit Last All Day Lip Paint 14. Royal London,NOMINAL_LINE,1,15,15,14,3048,3200
@@ -694,8 +688,6 @@ JTK02,FT-PHASN1-EM/1000,STD,LR15,FT-PHASN1-EM,,FT-PHASN2-BULK,Emina Ms. Pimple A
 JTK06,"L-TEEB52-W3,8GR/0",STD,RR01,"L-TEEB52-W3,8GR",,,"Wardah Tester Lipstick Exclusive 52 Earthy Brown 3,8 gr (Pc(s))",,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,L-PTGL1-MO/40,STD,LR02,L-PTGL1-MO,,L-PTG1-BULK,Make Over Glassy Lip Lacquer 401 Edge 4.5 g,,MAKE OVER Glassy Lip Lacquer 401 Edge,NOMINAL_LINE,1,40,40,33,6666,6870
 JTK02,L-PTGL1-MO/20,STD,LR02,L-PTGL1-MO,,L-PTG1-BULK,Make Over Glassy Lip Lacquer 401 Edge 4.5 g,,MAKE OVER Glassy Lip Lacquer 401 Edge,SECONDARY_LINE,1,20,20,13,2365,2440
-JTK02,REM-LOIMWN1-W/1040,MULTIPLEBULK,LR02,REM-LOIMWN1-W,,REM-LOIMW-BULK,Wardah Lightening Oil-Infused Micellar Water 50 ml,,Lightening Oil-Infused Micellar Water Fase A Bulk (Kg),NOMINAL_LINE,1,1040,750,735,0.001,0.001
-JTK02,REM-LOIMWN1-W/1040,MULTIPLEBULK,LR02,REM-LOIMWN1-W,,REM-LOIMWB-BULK,Wardah Lightening Oil-Infused Micellar Water 50 ml,,Lightening Oil-Infused Micellar Water Fase B Bulk (Kg),NOMINAL_LINE,2,1040,290,290,0.001,0.001
 JTK02,CUS-CLPGCRD-W/120,STD,LR04,CUS-CLPGCRD-W,,CUS-CLPGCD-BULK,Wardah Refill Colorfit Perfect Glow Cushion 32N Neutral Beige,,Wardah Colorfit Perfect Glow Cushion 32N Neutral Beige,NOMINAL_LINE,1,120,120,105,5875,6050
 JTK01,MY-RTCRE02-W/295,STD,PR01,MY-RTCRE02-W,,TC-PC08-BULK,Malaysia Wardah Exclusive Two Way Cake 02 Light Beige 12 g,,PERFECT COVER TWC 08 HONEY,SECONDARY_LINE,1,295,295,295,21680,22330
 JTK01,MY-RTCRE02-W/40,STD,PR01,MY-RTCRE02-W,,TC-PC08-BULK,Malaysia Wardah Exclusive Two Way Cake 02 Light Beige 12 g,,PERFECT COVER TWC 08 HONEY,NOMINAL_LINE,1,40,40,40,3150,3244
@@ -744,8 +736,6 @@ JTK04,"LB-OC-MO3,8G/3",STD,SR09,"LB-OC-MO3,8G",,LB-O-BULK,"MAKE OVER Lipbalm Lip
 JTK02,CUS-REFIPRVE-W/50,STD,LR04,CUS-REFIPRVE-W,,CUS-IPE-BULK,Instaperfect Refill Skincover Air Cushion 43 Creme Sand 11 g,,Instaperfect Skincover Air Cushion 43 Creme Sand,SECONDARY_LINE,1,50,50,43,3083,3180
 JTK02,CUS-REFIPRVE-W/30,STD,LR04,CUS-REFIPRVE-W,,CUS-IPE-BULK,Instaperfect Refill Skincover Air Cushion 43 Creme Sand 11 g,,Instaperfect Skincover Air Cushion 43 Creme Sand,NOMINAL_LINE,1,30,30,23,1416,1460
 JTK06,MY-TSRMWSPTE-W100ML/0,STD,RR01,MY-TSRMWSPTE-W100ML,,,Malaysia Wardah Tester White Secret Pure Treatment Essence 100 ml (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
-JTK04,CON-CPADC01-W/15,STD,SR09,CON-CPADC01-W,,CON-CPADC01-BULK,WARDAH CRYSTALLURE Precious All Day Corrective Concealer 11 LIGHT 1.9 ml,,Wardah CRYSTALLURE Precious All Day Corrective Concealer 11 LIGHT,SECONDARY_LINE,1,15,15,14,6480,6610
-JTK04,CON-CPADC01-W/0.75,STD,SR09,CON-CPADC01-W,,CON-CPADC01-BULK,WARDAH CRYSTALLURE Precious All Day Corrective Concealer 11 LIGHT 1.9 ml,,Wardah CRYSTALLURE Precious All Day Corrective Concealer 11 LIGHT,NOMINAL_LINE,1,0.75,0.75,0.5,144,156
 JTK02,P-BSFWRRP-EM/3000,STD,LR02,P-BSFWRRP-EM,,FW-BS-BULK,Emina Bright Stuff Face Wash 50 ml isi 6 pcs,,Bright Stuff Face Wash BULK,NOMINAL_LINE,1,3000,3000,2956,9551,9592
 JTK06,M-NFSCSDC9-W/0,STD,RR01,M-NFSCSDC9-W,,,Sample Pajangan Wardah NFS Crystal Secret Day Cream 9 ml,,,NOMINAL_LINE,,0,0,0,1000,1030
 JTK02,BP-IWEDT-KA/400,STD,LR02,BP-IWEDT-KA,,BP-IWEDT-BULK,Kahf Invigorating Waterfall Eau de Toilette 35 ml,,Kahf Invigorating Waterfall Eau de Toilette Bulk,SECONDARY_LINE,1,400,400,385,10634,10954
@@ -753,8 +743,6 @@ JTK02,BP-IWEDT-KA/200,STD,LR02,BP-IWEDT-KA,,BP-IWEDT-BULK,Kahf Invigorating Wate
 JTK04,CON-IP04-W/90,STD,,CON-IP04-W,,CON-IP04-BULK,Instaperfect Cover Up Concealer 33 Warm Olive 5 ml,,Wardah Instaperfect Concealer 04,NOMINAL_LINE,1,90,90,88,0,0
 JTK04,CON-IP04-W/15,STD,,CON-IP04-W,,CON-IP04-BULK,Instaperfect Cover Up Concealer 33 Warm Olive 5 ml,,Wardah Instaperfect Concealer 04,NOMINAL_LINE,1,15,15,14,0,0
 JTK06,MY-FRELF03-W/0,STD,RR01,MY-FRELF03-W,,,Malaysia Wardah Exclusive Liquid Foundation 03 Sandy Beige 20 ml,,,NOMINAL_LINE,,0,0,0,1,1
-JTK01,TWC-CLFTC-W/40,STD,PR01,TWC-CLFTC-W,,TWC-CLFTC-BULK,Wardah Colorfit Velvet Powder Foundation 23W Warm Ivory 11 g,,Colorfit Velvet Powder Foundation 23W Warm Ivory,NOMINAL_LINE,1,40,40,40,2916,3003
-JTK01,TWC-CLFTC-W/20,STD,PR01,TWC-CLFTC-W,,TWC-CLFTC-BULK,Wardah Colorfit Velvet Powder Foundation 23W Warm Ivory 11 g,,Colorfit Velvet Powder Foundation 23W Warm Ivory,SECONDARY_LINE,1,20,20,20,1458,1502
 JTK06,F-W2TELCLFN-W11GR/0,STD,RR01,F-W2TELCLFN-W11GR,,,Wardah Tester Container Evd Lum Creamy Foundation Light Feel 04 Natural 11 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK04,L-REMO29-W/20,STD,SR09,L-REMO29-W,,L-REMO29-BULK,Wardah Exclusive Moist Lipstick 29 Lavender 3.5 g,,Wardah Exclusive Moist Lipstick 29 Lavender,SECONDARY_LINE,1,20,20,19,4704,4939
 JTK04,L-REMO29-W/10,STD,SR09,L-REMO29-W,,L-REMO29-BULK,Wardah Exclusive Moist Lipstick 29 Lavender 3.5 g,,Wardah Exclusive Moist Lipstick 29 Lavender,NOMINAL_LINE,1,10,10,9.5,2280,2394
@@ -762,13 +750,8 @@ JTK02,LT-MP06-EM/100,STD,LR15,LT-MP06-EM,,LT-MP06-BULK,Emina Magic Potion 06 Sas
 JTK02,LT-MP06-EM/50,STD,LR15,LT-MP06-EM,,LT-MP06-BULK,Emina Magic Potion 06 Sassy 5.5 ml,,Magic Potion 06 Sassy Bulk,NOMINAL_LINE,1,50,50,47,7524,7901
 JTK02,F-L02VC-OMG/600,STD,LR05,F-L02VC-OMG,,F-L02-BULK,OMG Oh My Glam Coverlast Liquid Foundation 21 W Light,,OMG Oh My Glam Coverlast Liquid Foundation 21 W Light,SECONDARY_LINE,1,600,600,570,19932,22980
 JTK02,F-L02VC-OMG/400,STD,LR05,F-L02VC-OMG,,F-L02-BULK,OMG Oh My Glam Coverlast Liquid Foundation 21 W Light,,OMG Oh My Glam Coverlast Liquid Foundation 21 W Light,NOMINAL_LINE,1,400,400,375,13104,13500
-JTK02,BRO-RNBO-KA/100,STD,LR15,BRO-RNBO-KA,,BRO-RNBO-BULK,Kahf Nourishing Beard & Hair Oil 30 ml,,Kahf Nourishing Beard & Hair Oil,NOMINAL_LINE,1,100,100,90,2740,2860
-JTK02,BRO-RNBO-KA/90,STD,LR15,BRO-RNBO-KA,,BRO-RNBO-BULK,Kahf Nourishing Beard & Hair Oil 30 ml,,Kahf Nourishing Beard & Hair Oil,NOMINAL_LINE,1,90,90,85,0,0
-JTK02,BRO-RNBO-KA/30,STD,LR15,BRO-RNBO-KA,,BRO-RNBO-BULK,Kahf Nourishing Beard & Hair Oil 30 ml,,Kahf Nourishing Beard & Hair Oil,SECONDARY_LINE,1,30,30,25,666,690
 JTK06,TC-TRLLF01-W/0,STD,RR01,TC-TRLLF01-W,,,Wardah Tester Lightening Two Way Cake Light Feel 01 Light Beige 12 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK01,DUSS-RCVPF43WR0-W/0,SFGPack,PR16,DUSS-RCVPF43WR0-W,,,Dus Sticker Colorfit Velvet Powder Foundation 43W Refill Wardah (Barcode&Varian),,,NOMINAL_LINE,,0,0,0,22896,23583
-JTK01,TC-W3RELLI4-W12G/60,STD,PR01,TC-W3RELLI4-W12G,,TC-W1I2C4-BULK,Wardah Refill Evd Lum Two Way Cake 04 Light Ivory 12 g (Pc(s)),,Luminous Two Way Cake 04,NOMINAL_LINE,1,60,60,60,4176,4301
-JTK01,TC-W3RELLI4-W12G/40,STD,PR01,TC-W3RELLI4-W12G,,TC-W1I2C4-BULK,Wardah Refill Evd Lum Two Way Cake 04 Light Ivory 12 g (Pc(s)),,Luminous Two Way Cake 04,SECONDARY_LINE,1,40,40,40,3024,3114
 JTK06,MY-FWAH-W100ML/0,STD,RR01,MY-FWAH-W100ML,,,Malaysia Wardah Nature Daily Aloe Hydramild Facial Wash 100 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,SRM-RLSAN2-W/1000,STD,LR02,SRM-RLSAN2-W,,SRM-LSA-BULK,Wardah Lightening Serum Ampoule 8 ml,,Wardah Lightening Serum Ampoule Bulk (Kg),SECONDARY_LINE,1,1000,1000,980,109709,110709
 JTK02,SRM-RLSAN2-W/500,STD,LR02,SRM-RLSAN2-W,,SRM-LSA-BULK,Wardah Lightening Serum Ampoule 8 ml,,Wardah Lightening Serum Ampoule Bulk (Kg),NOMINAL_LINE,1,500,500,500,53102,54102
@@ -781,7 +764,6 @@ JTK01,TC-RPMW22-MO/80,STD,PR01,TC-RPMW22-MO,,TC-RPMW22-BULK,MAKE OVER Powerstay 
 JTK01,TC-RPMW22-MO/60,STD,PR01,TC-RPMW22-MO,,TC-RPMW22-BULK,MAKE OVER Powerstay 24H Matte Powder Foundation W22 Warm Ivory 12 g,,MAKE OVER Powerstay 24H Matte Powder Foundation W22 Warm Ivory,NOMINAL_LINE,1,60,60,60,4320,4450
 JTK01,TC-RPMW22-MO/40,STD,PR01,TC-RPMW22-MO,,TC-RPMW22-BULK,MAKE OVER Powerstay 24H Matte Powder Foundation W22 Warm Ivory 12 g,,MAKE OVER Powerstay 24H Matte Powder Foundation W22 Warm Ivory,SECONDARY_LINE,1,40,40,40,2304,2373
 JTK04,L-LL15-W2.3G/5,STD,SR09,L-LL15-W2.3G,,L-LL15-BULK,Wardah Lipstick Longlasting 15 Rouge Red 2.3 g (Pc(s)),,Lipstick Long Lasting 15 Rouge Red,NOMINAL_LINE,1,5,5,4.75,1728,1814
-JTK01,B-DMLP02-EM/100,STD,PR01,B-DMLP02-EM,,B-DMLP02-BULK,Emina Daily Matte Loose Powder 02 Natural Beige 20 g,,Emina Daily Matte Loose Powder 02 Natural Beige,NOMINAL_LINE,1,100,100,100,4586,4724
 JTK01,TC-RIPPF06-W/100,STD,PR01,TC-RIPPF06-W,,TC-IPPF06-BULK,Instaperfect Refill Matte Fit Powder Foundation 52 Almond 13 g,,Instaperfect Matte Fit Powder Foundation 52 Almond,SECONDARY_LINE,1,100,100,100,7576,7728
 JTK01,TC-RIPPF06-W/80,STD,PR01,TC-RIPPF06-W,,TC-IPPF06-BULK,Instaperfect Refill Matte Fit Powder Foundation 52 Almond 13 g,,Instaperfect Matte Fit Powder Foundation 52 Almond,NOMINAL_LINE,1,80,80,80,5688,5858
 JTK01,TC-RIPPF06-W/60,STD,PR01,TC-RIPPF06-W,,TC-IPPF06-BULK,Instaperfect Refill Matte Fit Powder Foundation 52 Almond 13 g,,Instaperfect Matte Fit Powder Foundation 52 Almond,SECONDARY_LINE,1,60,60,60,4032,4153
@@ -825,8 +807,8 @@ JTK02,HC-P1F-P2/300,STD,LR15,HC-P1F-P2,,HC-F-BULK,Putri Pure Clean Hair Conditio
 JTK04,L-CLADC04-W/200,STD,SR09,L-CLADC04-W,,L-CLADC04-BULK,Wardah Colorfit Last All Day Lip Paint 15. Dazzling New York,,Wardah Colorfit Last All Day Lip Paint 15. Dazzling New York,SECONDARY_LINE,1,200,200,198,46656,47122
 JTK04,L-CLADC04-W/135,STD,SR09,L-CLADC04-W,,L-CLADC04-BULK,Wardah Colorfit Last All Day Lip Paint 15. Dazzling New York,,Wardah Colorfit Last All Day Lip Paint 15. Dazzling New York,SECONDARY_LINE,1,135,135,132,30816,31124
 JTK04,L-CLADC04-W/15,STD,SR09,L-CLADC04-W,,L-CLADC04-BULK,Wardah Colorfit Last All Day Lip Paint 15. Dazzling New York,,Wardah Colorfit Last All Day Lip Paint 15. Dazzling New York,NOMINAL_LINE,1,15,15,14,3048,3200
-JTK02,EO-BOMB01-B/25,STD,LR18,EO-BOMB01-B,,,Beyondly Essential Blend Oil Metabolife 10 ml,,,NOMINAL_LINE,1,25,25,25,0,0
 JTK02,EO-BOMB01-B/25,STD,LR11,EO-BOMB01-B,,EO-BOMB-BULK,Beyondly Essential Blend Oil Metabolife 10 ml,,Beyondly Essential Oil Metabolife,NOMINAL_LINE,1,25,25,25,2555,2600
+JTK02,EO-BOMB01-B/25,STD,LR18,EO-BOMB01-B,,,Beyondly Essential Blend Oil Metabolife 10 ml,,,NOMINAL_LINE,1,25,25,25,0,0
 JTK02,EO-BOMB01-B/0,STD,LR06,EO-BOMB01-B,,EO-BOMB-BULK,Beyondly Essential Blend Oil Metabolife 10 ml,,Beyondly Essential Oil Metabolife,NOMINAL_LINE,,0,0,0,2555,2600
 JTK02,FT-NDATE-W/1000,STD,LR15,FT-NDATE-W,,FT-NDATE-BULK,Wardah Nature Daily Aloe Hydramild Essence Toner 100 ml,,Wardah Nature Daily Aloe Toner Essence,NOMINAL_LINE,1,1000,1000,982,9525,9811
 JTK06,L-TIM10-W2.3G/0,STD,RR01,L-TIM10-W2.3G,,,Wardah Tester Intense Matte Lipstick 10 Miss Terracotta 2.3 g (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
@@ -870,7 +852,6 @@ JTK06,MY-PCSTK-W/0,STD,RR01,MY-PCSTK-W,,,Malaysia Wardah Crystal Secret Radiant 
 JTK06,L-W2TM18-W3.8GR/0,STD,RR01,L-W2TM18-W3.8GR,,,Wardah Tester Container Matte Lipstick 18 Rosy Pink 3.8 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK04,L-IPEI06-W/15,STD,SR09,L-IPEI06-W,,L-IPEI06-BULK,Wardah Instaperfect Everlast Intense Matte Liquid 06 AUTHENTIC 4.2 g,,Wardah Instaperfect Everlast Intense Matte Liquid 06 AUTHENTIC,SECONDARY_LINE,1,15,15,14,2640,2904
 JTK04,L-IPEI06-W/3,STD,SR09,L-IPEI06-W,,L-IPEI06-BULK,Wardah Instaperfect Everlast Intense Matte Liquid 06 AUTHENTIC 4.2 g,,Wardah Instaperfect Everlast Intense Matte Liquid 06 AUTHENTIC,NOMINAL_LINE,1,3,3,2.75,444,467
-JTK02,BO-CLCVI-EM10ML/50,STD,LR15,BO-CLCVI-EM10ML,,BO-CLCVI-BULK,Emina Cheek Lit Cream Blush Violet 10 ml,,Cheeklit Cream Blush Violet Bulk,NOMINAL_LINE,1,50,50,50,3360,3710
 JTK04,L-SR13CC-EM/5,STD,SR09,L-SR13CC-EM,,L-SR13CC-BULK,Emina Sugar Rush Lipstick 13 Choco Cherry 3.8 g,,Emina Sugar Rush Lipstick 13 Choco Cherry,SECONDARY_LINE,1,5,5,4.75,1036,1057
 JTK04,L-SR13CC-EM/0.75,STD,SR09,L-SR13CC-EM,,L-SR13CC-BULK,Emina Sugar Rush Lipstick 13 Choco Cherry 3.8 g,,Emina Sugar Rush Lipstick 13 Choco Cherry,NOMINAL_LINE,1,0.75,0.75,0.5,60,84
 JTK02,CUS-CLPGCF-W/180,STD,LR04,CUS-CLPGCF-W,,CUS-CLPGCF-BULK,Wardah Colorfit Perfect Glow Cushion 43W Golden Sand 15 g,,Wardah Colorfit Perfect Glow Cushion 43W Golden Sand,NOMINAL_LINE,1,180,180,165,9375,9660
@@ -906,8 +887,8 @@ JTK04,L-SMULMA-EM/15,STD,SR09,L-SMULMA-EM,,L-SMULMA-BULK,Emina Squeeze Me Up Lip
 JTK06,MY-LCLADC05-W/0,STD,RR01,MY-LCLADC05-W,,,Malaysia Wardah Colorfit Last All Day Lip Paint 16. Kuala Lumpur Joy,,,NOMINAL_LINE,,0,0,0,819,819
 JTK02,S-P1L-P5/1000,STD,LR15,S-P1L-P5,,S-LL-BULK,Putri Pure Clean Shampoo Lemon 5 L (Pc(s)),,Shampoo Lemon Liter BULK (Kg),SECONDARY_LINE,1,1000,1000,980,194,224
 JTK02,S-P1L-P5/500,STD,LR15,S-P1L-P5,,S-LL-BULK,Putri Pure Clean Shampoo Lemon 5 L (Pc(s)),,Shampoo Lemon Liter BULK (Kg),NOMINAL_LINE,1,500,500,500,96,100
-JTK02,L-CLCLS5-W/300,STD,LR04,L-CLCLS5-W,,L-CLCLS5-BULK,Wardah Colorfit Fresh Matte Lip Ink 05 Soul Mover 4 g,,Wardah Colorfit Fresh Matte Lip Ink 05 Soul Mover,NOMINAL_LINE,1,300,300,284,65158,66158
 JTK02,L-CLCLS5-W/300,STD,LR04,L-CLCLS5-W,,L-CLCLS5-BULK,Wardah Colorfit Fresh Matte Lip Ink 05 Soul Mover 4 g,,Wardah Colorfit Fresh Matte Lip Ink 05 Soul Mover,SECONDARY_LINE,1,300,300,284,65158,66158
+JTK02,L-CLCLS5-W/300,STD,LR04,L-CLCLS5-W,,L-CLCLS5-BULK,Wardah Colorfit Fresh Matte Lip Ink 05 Soul Mover 4 g,,Wardah Colorfit Fresh Matte Lip Ink 05 Soul Mover,NOMINAL_LINE,1,300,300,284,65158,66158
 JTK06,SS-NFSUVSSPF30-W/0,STD,RR01,SS-NFSUVSSPF30-W,,,Sample Pajangan Wardah NFS UV Shield Sunscreen SPF 30,,,NOMINAL_LINE,,0,0,0,1000,1000
 JTK02,POTP-CBC720REV1-P/0,SFGPack,LR13,POTP-CBC720REV1-P,,,Pot print-labeling Creambath Cundlenut 720 ml Revi Putri (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,PRM-VCPM-MO20ML/80,STD,LR15,PRM-VCPM-MO20ML,,PRM-VCPM-BULK,MAKE OVER Velvet Mattifying Primer 20 ml,,Velvet Mattifying Primer Bulk,NOMINAL_LINE,1,80,80,78.3,3392,3494
@@ -968,14 +949,11 @@ JTK02,DUSS-LBBCL30-WM/0,SFGPack,LR13,DUSS-LBBCL30-WM,,,Dus Sticker LBBC Light 30
 JTK01,DUSS-RCVPF52NR0-W/0,SFGPack,PR16,DUSS-RCVPF52NR0-W,,,Dus Sticker Colorfit Velvet Powder Foundation 52N Refill Wardah (Barcode&Varian),,,NOMINAL_LINE,,0,0,0,22896,23583
 JTK06,MY-FWBSW-EM/0,STD,RR01,MY-FWBSW-EM,,,Malaysia Emina Bright Stuff Whip Face Wash 50 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,M-CSAOC-W/300,STD,LR02,M-CSAOC-W,,M-CSAOC-BULK,Crystallure Supreme Activating Overnight Cream 50 g,,Wardah Crystallure Supreme Activating Overnight Cream,NOMINAL_LINE,1,300,300,300,5081,5380
-JTK02,M-CSAOC-W/200,STD,LR02,M-CSAOC-W,,M-CSAOC-BULK,Crystallure Supreme Activating Overnight Cream 50 g,,Wardah Crystallure Supreme Activating Overnight Cream,NOMINAL_LINE,1,200,200,185,3516,3692
 JTK02,M-CSAOC-W/200,STD,LR02,M-CSAOC-W,,M-CSAOC-BULK,Crystallure Supreme Activating Overnight Cream 50 g,,Wardah Crystallure Supreme Activating Overnight Cream,SECONDARY_LINE,1,200,200,185,3516,3692
 JTK02,M-CSAOC-W/50,STD,LR02,M-CSAOC-W,,M-CSAOC-BULK,Crystallure Supreme Activating Overnight Cream 50 g,,Wardah Crystallure Supreme Activating Overnight Cream,SECONDARY_LINE,1,50,50,43,816,916
 JTK04,L-CVM07WDDR0-W/0,SFGPack,SR12,L-CVM07WDDR0-W,,,Digital Printed CVM Lip Mousse 07 WD Special Ed. W,,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,MY-EBTS-EM/0,STD,RR01,MY-EBTS-EM,,,Malaysia Emina Top Secret Eyebrow 2.9 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,L-W2TNMP06-W3.9GR/0,STD,RR01,L-W2TNMP06-W3.9GR,,,Wardah Tester Nude Lipstick 06 Modest Plum 3.9 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
-JTK01,B-W3ELFP04-W30G/300,STD,PR01,B-W3ELFP04-W30G,,B-W0T3LFP04-BULK,Wardah Evd Lum Face Powder 04 Natural 30 g (Pc(s)),,Luminous Face Powder 04,SECONDARY_LINE,1,300,300,300,9576,9863
-JTK01,B-W3ELFP04-W30G/100,STD,PR01,B-W3ELFP04-W30G,,B-W0T3LFP04-BULK,Wardah Evd Lum Face Powder 04 Natural 30 g (Pc(s)),,Luminous Face Powder 04,NOMINAL_LINE,1,100,100,100,3120,3214
 JTK06,MY-FWSBRDBL-EM/0,STD,RR01,MY-FWSBRDBL-EM,,,Malaysia Emina Skin Buddy Bubble Up Face Wash 60 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,MY-MSM01-KA/200,STD,LR02,MY-MSM01-KA,,M-SM-BULK,Malaysia Kahf Triple Protection Sunscreen Moisturizer 30 ml,,KAHF - Triple Sunscreen Moisturizer,NOMINAL_LINE,1,200,200,185,5868,6162
 JTK06,MY-MSM01-KA/0,STD,RR01,MY-MSM01-KA,,,Malaysia Kahf Triple Protection Sunscreen Moisturizer 30 ml,,,NOMINAL_LINE,,0,0,0,1,1
@@ -996,10 +974,6 @@ JTK02,L-IPCS04-W/30,STD,LR04,L-IPCS04-W,,L-IPCS04-BULK,Wardah Instaperfect Lites
 JTK01,TC-RRE05-W/20,STD,PR01,TC-RRE05-W,,TC-PC05-BULK,Wardah Refill Exclusive Two Way Cake 05 Coffee Beige 12 g,,PERFECT COVER TWC 05 CINNAMON,NOMINAL_LINE,1,20,20,20,1395,1436
 JTK06,P-KP5-KA/0,STD,RR01,P-KP5-KA,,,Kahf Skin Protection Essential Package,,,NOMINAL_LINE,,0,0,0,2300,2300
 JTK06,MY-TESL-W3.3G/0,STD,RR01,MY-TESL-W3.3G,,,Wardah Tester Eye Shadow L 3.3 g,,,NOMINAL_LINE,,0,0,0,1,1
-JTK01,BO-W1A-W4GR/36,MULTIPLEBULK,PR03,BO-W1A-W4GR,BO-W1A1&2RNFS4G-W,BO-W1A-02 BULK,Wardah Blush On A 4 gr,Blush on W1 A 01 & 02 Refill Not For Sale 4 gr Wardah (Pc(s)),BLUSH ON A 02,NOMINAL_LINE,2,36,18,18,7461,7611
-JTK01,BO-W1A-W4GR/36,MULTIPLEBULK,PR03,BO-W1A-W4GR,BO-W1A1&2RNFS4G-W,BO-W1A-01 BULK,Wardah Blush On A 4 gr,Blush on W1 A 01 & 02 Refill Not For Sale 4 gr Wardah (Pc(s)),BLUSH ON A 01,NOMINAL_LINE,1,36,18,18,7461,7611
-JTK01,BO-W1A-W4GR/18,MULTIPLEBULK,PR03,BO-W1A-W4GR,BO-W1A1&2RNFS4G-W,BO-W1A-01 BULK,Wardah Blush On A 4 gr,Blush on W1 A 01 & 02 Refill Not For Sale 4 gr Wardah (Pc(s)),BLUSH ON A 01,NOMINAL_LINE,1,18,9,9,3000,3100
-JTK01,BO-W1A-W4GR/18,MULTIPLEBULK,PR03,BO-W1A-W4GR,BO-W1A1&2RNFS4G-W,BO-W1A-02 BULK,Wardah Blush On A 4 gr,Blush on W1 A 01 & 02 Refill Not For Sale 4 gr Wardah (Pc(s)),BLUSH ON A 02,NOMINAL_LINE,2,18,9,9,3000,3100
 JTK06,MY-APRT-W100ML/0,STD,RR01,MY-APRT-W100ML,,,Malaysia Wardah Acnederm Pore Refining Toner 100 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,MA-ACN-W/600,STD,LR15,MA-ACN-W,,MA-ACN-BULK,Wardah Acnederm Sheet Mask 20 ml,,Wardah Acnederm Sheet Mask Bulk,NOMINAL_LINE,1,600,600,585,27527,28353
 JTK06,L-NFSCUML01-W/0,STD,RR01,L-NFSCUML01-W,,,Sample Pajangan Wardah NFS Colorfit Ultralight Matte Lipstick 01 Parfait Pink 3.6 g,,,NOMINAL_LINE,,0,0,0,4023,4104
@@ -1129,9 +1103,9 @@ JTK01,TC-NFSPC08-MO/10,STD,PR03,TC-NFSPC08-MO,,TC-PC08-BULK,MAKE OVER NFS Perfec
 JTK04,L-NLCB-EM/100,STD,SR09,L-NLCB-EM,,L-NLCB-BULK,Emina Poppin’ Matte 02 To Be Honest 4.5 g,,Emina Poppin’ Matte 02 To Be Honest,SECONDARY_LINE,1,100,100,98,21312,21738
 JTK04,L-NLCB-EM/45,STD,SR09,L-NLCB-EM,,L-NLCB-BULK,Emina Poppin’ Matte 02 To Be Honest 4.5 g,,Emina Poppin’ Matte 02 To Be Honest,SECONDARY_LINE,1,45,45,43.25,8832,9273
 JTK04,L-NLCB-EM/15,STD,SR09,L-NLCB-EM,,L-NLCB-BULK,Emina Poppin’ Matte 02 To Be Honest 4.5 g,,Emina Poppin’ Matte 02 To Be Honest,NOMINAL_LINE,1,15,15,14,2856,2998
+JTK06,MY-LBLMPB-EM/0,STD,RR01,MY-LBLMPB-EM,,,Malaysia Emina Lip Mask Blister,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,L-PTG5-MO/34,STD,LR01,L-PTG5-MO,,L-PTG5-BULK,MAKE OVER Glassy Lip Lacquer X Hian Tjen 405 Glory 4.5 g,,MAKE OVER Glassy Lip Lacquer 405 Glory,SECONDARY_LINE,1,34,34,29,5380,5380
 JTK02,L-PTG5-MO/20,STD,LR01,L-PTG5-MO,,L-PTG5-BULK,MAKE OVER Glassy Lip Lacquer X Hian Tjen 405 Glory 4.5 g,,MAKE OVER Glassy Lip Lacquer 405 Glory,NOMINAL_LINE,1,20,20,13,2148,2200
-JTK06,MY-LBLMPB-EM/0,STD,RR01,MY-LBLMPB-EM,,,Malaysia Emina Lip Mask Blister,,,NOMINAL_LINE,,0,0,0,1,1
 JTK01,DUSS-PMFW32R0-MO/0,SFGPack,PR16,DUSS-PMFW32R0-MO,,,Dus Sticker Powerstay Matte Powder Foundation W32 MO,,,NOMINAL_LINE,,0,0,0,1200,1236
 JTK01,TC-NFSPC04-MO/10,STD,PR03,TC-NFSPC04-MO,,TC-PC04-BULK,MAKE OVER NFS Perfect Cover TWC 04 Desert 3.7 g,,PERFECT COVER TWC 04 DESERT,NOMINAL_LINE,1,10,10,10,2375,2422
 JTK04,L-NLCC-EM/200,STD,SR09,L-NLCC-EM,,L-NLCC-BULK,Emina Poppin’ Matte 01 Lowkey 4.5 g,,Emina Poppin’ Matte 01 Lowkey,SECONDARY_LINE,1,200,200,197,43200,44064
@@ -1225,7 +1199,6 @@ JTK02,HBW-BWN2A-BD/1000,STD,LR15,HBW-BWN2A-BD,,HBW-BW-BULK,Biodef Natural Protec
 JTK02,HBW-BWN2A-BD/1000,STD,LR15,HBW-BWN2A-BD,,HBW-BW-BULK,Biodef Natural Protection Mint + Sea Salt Body Wash Antiseptik Alami Pouch 400 ml,,Biodef Natural Protection Mint + Sea Salt Body Wash Antiseptik Alami,SECONDARY_LINE,1,1000,1000,979,2299,2399
 JTK02,DUSS-CDDDCN20R1-WM/0,SFGPack,LR13,DUSS-CDDDCN20R1-WM,,,Dus Sticker C-Defense DDC Natural 20 R1 WM,,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,TC-W2TLPGBB01-W11GR/0,STD,RR01,TC-W2TLPGBB01-W11GR,,,Wardah Tester Lightening BB Cake Powder 01 Light 11 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
-JTK02,PRM-PCCYW-MO/30,STD,LR10,PRM-PCCYW-MO,,PRM-PCCYW-BULK,MAKE OVER POWERSTAY Color Correcting Primer Yellow 25 ml,,Powerstay Color Correcting Primer Yellow,NOMINAL_LINE,1,30,30,30,0.001,0.001
 JTK04,L-UHCR005-MO2.3G/5,STD,SR09,L-UHCR005-MO2.3G,,L-LLW0C3-BULK,MAKE OVER Ultra Hi-Matte Lipstick 005 Champagne Rose 2.3 g (Pc(s)),,Lipstick Long Lasting New 03 Wardah Bulk (Kg),SECONDARY_LINE,1,5,5,4.75,1524,1554
 JTK04,L-UHCR005-MO2.3G/3,STD,SR09,L-UHCR005-MO2.3G,,L-LLW0C3-BULK,MAKE OVER Ultra Hi-Matte Lipstick 005 Champagne Rose 2.3 g (Pc(s)),,Lipstick Long Lasting New 03 Wardah Bulk (Kg),NOMINAL_LINE,1,3,3,2.75,1008,1038
 JTK02,HBW-BWN6A-BD/1000,STD,LR15,HBW-BWN6A-BD,,HBW-BW-BULK,Biodef Natural Protection Mint + Sea Salt Body Wash Antiseptik Alami Pouch 800 ml,,Biodef Natural Protection Mint + Sea Salt Body Wash Antiseptik Alami,NOMINAL_LINE,1,1000,1000,970,1186,1220
@@ -1254,7 +1227,6 @@ JTK04,L-CHC10-MO/5,STD,SR09,L-CHC10-MO,,L-CHC10-BULK,MAKE OVER Color Hypnose Cre
 JTK04,L-CHC10-MO/3,STD,SR09,L-CHC10-MO,,L-CHC10-BULK,MAKE OVER Color Hypnose Creamy Lipmatte 10 Bewitched 4.3 g,,Color Hypnose Creamy Lipmatte 10 Bewitched,NOMINAL_LINE,1,3,3,2.75,528,552
 JTK06,MY-LCVM02-W/0,STD,RR01,MY-LCVM02-W,,,Malaysia Wardah Colorfit Velvet Matte Lip Mousse 02 Joyful Orange 4 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK04,L-LL04-W2.3G/5,STD,SR09,L-LL04-W2.3G,,L-LLW0C4-BULK,Wardah Lipstick Longlasting 04 Antique Pink 2.3 g (Pc(s)),,Lipstick Long Lasting New 04 Wardah Bulk (Kg),NOMINAL_LINE,1,5,5,4.5,1620,1701
-JTK01,A-FP-W20G/100,STD,PR01,A-FP-W20G,,A-FPW3-BULK,Wardah Acnederm Face Powder 20 g (Pc(s)),,Acnederm Face Powder,NOMINAL_LINE,1,100,100,100,4608,4708
 JTK02,SRM-CSRO-W/50,STD,LR02,SRM-CSRO-W,,SRM-CSRO-BULK,Crystallure Supreme Revitalizing Oil Serum 30 ml,,Crystallure Supreme Revitalizing Oil Serum Bulk,NOMINAL_LINE,1,50,50,50,1589,1689
 JTK04,L-NLCXCB-EM/80,STD,SR09,L-NLCXCB-EM,,L-NLCXCB-BULK,Emina Poppin' Matte X Chatime 12 Hazelnut Chocolate Milk Tea,,EMINA Poppin’ Matte X Chatime 12 Hazelnut Chocolate Milk Tea,NOMINAL_LINE,1,80,80,78,15696,16010
 JTK04,L-NLCXCB-EM/75,STD,SR09,L-NLCXCB-EM,,L-NLCXCB-BULK,Emina Poppin' Matte X Chatime 12 Hazelnut Chocolate Milk Tea,,EMINA Poppin’ Matte X Chatime 12 Hazelnut Chocolate Milk Tea,SECONDARY_LINE,1,75,75,72.5,14968,14968
@@ -1267,8 +1239,8 @@ JTK01,MY-RTCRE04-W/40,STD,PR01,MY-RTCRE04-W,,TC-PC04-BULK,Malaysia Wardah Exclus
 JTK01,MY-RTCRE04-W/20,STD,PR01,MY-RTCRE04-W,,TC-PC04-BULK,Malaysia Wardah Exclusive Two Way Cake 04 Natural 12 g,,PERFECT COVER TWC 04 DESERT,NOMINAL_LINE,1,20,20,20,1470,1499
 JTK02,FW-NFSGS-L/165,STD,LR02,FW-NFSGS-L,,FW-GS-BULK,LABORE Sensitive Skin Care NFS GentleBiome Mild Cleanser 15 ml,,Laboré Sensitive Skin Care GentleBiome Mild Cleanser,SECONDARY_LINE,1,165,165,153,8789,9500
 JTK02,FW-NFSGS-L/120,STD,LR02,FW-NFSGS-L,,FW-GS-BULK,LABORE Sensitive Skin Care NFS GentleBiome Mild Cleanser 15 ml,,Laboré Sensitive Skin Care GentleBiome Mild Cleanser,SECONDARY_LINE,1,120,120,105,6060,6240
-JTK02,FW-NFSGS-L/30,STD,LR02,FW-NFSGS-L,,FW-GS-BULK,LABORE Sensitive Skin Care NFS GentleBiome Mild Cleanser 15 ml,,Laboré Sensitive Skin Care GentleBiome Mild Cleanser,SECONDARY_LINE,1,30,30,27.2,1440,1494
 JTK02,FW-NFSGS-L/30,STD,LR02,FW-NFSGS-L,,FW-GS-BULK,LABORE Sensitive Skin Care NFS GentleBiome Mild Cleanser 15 ml,,Laboré Sensitive Skin Care GentleBiome Mild Cleanser,NOMINAL_LINE,1,30,30,27.2,1440,1494
+JTK02,FW-NFSGS-L/30,STD,LR02,FW-NFSGS-L,,FW-GS-BULK,LABORE Sensitive Skin Care NFS GentleBiome Mild Cleanser 15 ml,,Laboré Sensitive Skin Care GentleBiome Mild Cleanser,SECONDARY_LINE,1,30,30,27.2,1440,1494
 JTK04,BO-CLBSPE-EM/40,STD,SR09,BO-CLBSPE-EM,,BO-CLBSPE-BULK,Emina Cheek Lit Blush Stick Peach 7 g,,Emina Cheek Lit Blush Stick Peach,SECONDARY_LINE,1,40,40,39,5328,5487
 JTK04,BO-CLBSPE-EM/5,STD,SR09,BO-CLBSPE-EM,,BO-CLBSPE-BULK,Emina Cheek Lit Blush Stick Peach 7 g,,Emina Cheek Lit Blush Stick Peach,NOMINAL_LINE,1,5,5,4.75,624,672
 JTK06,TC-TCEC3-W14GR/0,STD,RR01,TC-TCEC3-W14GR,,,Wardah Tester Container Exclusive TWC 03 14 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
@@ -1349,8 +1321,6 @@ JTK06,P-CSC1-W/0,STD,RR01,P-CSC1-W,,,Ultimate Glow Essentials Hampers,,,NOMINAL_
 JTK01,ES-TBG-MO6G/3,COPACKING,PR03,ES-TBG-MO6G,ES-SGR12GRNFS-MO,ES-R-BULK,MAKE OVER Trivia Eye Shadow Black Goddiva 6 g (Pc(s)),Eye Shadow Shiny Glam Rockstar 2gr Refill Not for Make Over (Pc(s)),Shiny Glam Eye Shadow Rockstar,NOMINAL_LINE,3,3,1,1,396,410
 JTK01,ES-TBG-MO6G/3,COPACKING,PR03,ES-TBG-MO6G,ES-SGC2GRNFS-MO,ES-CR-BULK,MAKE OVER Trivia Eye Shadow Black Goddiva 6 g (Pc(s)),Eye Shadow Shiny Glam Chrystal 2gr Refill Not for Make Over (Pc(s)),Shiny Glam Eye Shadow Chrystal,NOMINAL_LINE,2,3,1,1,396,410
 JTK01,ES-TBG-MO6G/3,COPACKING,PR03,ES-TBG-MO6G,ES-SGBS2GRNFS-MO,ES-BS-BULK,MAKE OVER Trivia Eye Shadow Black Goddiva 6 g (Pc(s)),Eye Shadow Shiny Glam Black Stiletto 2gr Refill No Make Over (Pc(s)),Shiny Glam Eye Shadow Black Stiletto,NOMINAL_LINE,1,3,1,1,396,410
-JTK01,TC-R2RE04-W/300,STD,,TC-R2RE04-W,,TC-PC04-BULK,Wardah Refill Exclusive Two Way Cake 04 Natural 12 g,,PERFECT COVER TWC 04 DESERT,SECONDARY_LINE,1,300,300,300,21870,22526
-JTK01,TC-R2RE04-W/100,STD,,TC-R2RE04-W,,TC-PC04-BULK,Wardah Refill Exclusive Two Way Cake 04 Natural 12 g,,PERFECT COVER TWC 04 DESERT,NOMINAL_LINE,1,100,100,100,7110,7323
 JTK06,MY-RBOB-W/0,STD,RR01,MY-RBOB-W,,,Malaysia Wardah Blush On B 4 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,FW-RYAG-W100ML/3000,STD,LR01,FW-RYAG-W100ML,,FW-RYAG-BULK,Wardah Renew You Anti Aging Facial Wash 100 ml (Pc(s)),,Wardah Renew You Anti Aging Facial Wash Bulk,NOMINAL_LINE,1,3000,3000,2925,27778,27991
 JTK06,L-W2TE36-W3.8GR/0,STD,RR01,L-W2TE36-W3.8GR,,,Wardah Tester Container Exclusive Lipstick 36 Sugary Pink 3.8 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
@@ -1364,8 +1334,8 @@ JTK06,L-W2TE43-W3.8GR/0,STD,RR01,L-W2TE43-W3.8GR,,,Wardah Tester Container Exclu
 JTK01,TC-RPC01-MO12G/20,STD,PR01,TC-RPC01-MO12G,,TC-PC01-BULK,MAKE OVER Perfect Cover Refill TWC 01 Lace 12 g (Pc(s)),,PERFECT COVER TWC 01 LACE,NOMINAL_LINE,1,20,20,20,1440,1483
 JTK02,BP-SPNE-W35ML/300,STD,LR15,BP-SPNE-W35ML,,BP-SPNE-BULK,Wardah Scentsation Passion Eau De Toilette 35 ml (Pc(s)),,Scentsation Eau De Toilette Passion,NOMINAL_LINE,1,300,300,290,7668,7899
 JTK02,POTP-P1720REV1-P/0,SFGPack,LR13,POTP-P1720REV1-P,,,Pot Print Pustraite I Rev-1 720 ml Putri,,,NOMINAL_LINE,,0,0,0,1,1
-JTK02,L-CLCLS1-W/150,STD,LR04,L-CLCLS1-W,,L-CLCLS1-BULK,Wardah Colorfit Fresh Matte Lip Ink 01 Energy Shot 4 g,,Wardah Colorfit Fresh Matte Lip Ink 01 Energy Shot,NOMINAL_LINE,1,150,150,144,28224,29068
 JTK02,L-CLCLS1-W/150,STD,LR04,L-CLCLS1-W,,L-CLCLS1-BULK,Wardah Colorfit Fresh Matte Lip Ink 01 Energy Shot 4 g,,Wardah Colorfit Fresh Matte Lip Ink 01 Energy Shot,SECONDARY_LINE,1,150,150,144,28224,29068
+JTK02,L-CLCLS1-W/150,STD,LR04,L-CLCLS1-W,,L-CLCLS1-BULK,Wardah Colorfit Fresh Matte Lip Ink 01 Energy Shot 4 g,,Wardah Colorfit Fresh Matte Lip Ink 01 Energy Shot,NOMINAL_LINE,1,150,150,144,28224,29068
 JTK06,MY-TFEL05-W20ML/0,STD,RR01,MY-TFEL05-W20ML,,,Wardah Tester Exclusive Liquid Foundation 05 Coffee Beige 20 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,WARN-K3AS-BULK/5,SFGBulk,LR19,WARN-K3AS-BULK,,,Pasta Warna kuning 3 AS bulk,,,NOMINAL_LINE,1,5,5,5,0,0
 JTK02,M-RRYNCN2-W/600,STD,LR15,M-RRYNCN2-W,,M-RRYNC-BULK,Wardah Renew You Night Cream 30 g (Pc(s)),,Wardah Renew You Night Cream,NOMINAL_LINE,1,600,600,570,17835,18370
@@ -1373,8 +1343,6 @@ JTK02,M-RRYNCN2-W/400,STD,LR15,M-RRYNCN2-W,,M-RRYNC-BULK,Wardah Renew You Night 
 JTK02,D-W1R1HER-W60ML/1000,STD,LR15,D-W1R1HER-W60ML,,D-R1HERW1-BULK,Wardah Roll On For Her 60 ml,,Roll On for Her (New Look),NOMINAL_LINE,1,1000,1000,970,16020,16501
 JTK06,BO-W2TB-W4GR/0,STD,RR01,BO-W2TB-W4GR,,,Wardah Tester Container Blush On Seri B 4 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,MY-REMEEM-W100ML/0,STD,RR01,MY-REMEEM-W100ML,,,Malaysia Wardah Eyexpert Eye Makeup Remover for Eye & Lip 100 ml (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
-JTK02,SRM-BRSR-L/200,STD,LR15,SRM-BRSR-L,,SRM-BRSR-BULK,LABORÉ Sensitive Skin Care GentleBiome Barrier Repair Serum 20 ml,,LABORÉ Sensitive Skin Care GentleBiome Barrier Repair Serum,SECONDARY_LINE,1,200,200,185,8754,9017
-JTK02,SRM-BRSR-L/120,STD,LR15,SRM-BRSR-L,,SRM-BRSR-BULK,LABORÉ Sensitive Skin Care GentleBiome Barrier Repair Serum 20 ml,,LABORÉ Sensitive Skin Care GentleBiome Barrier Repair Serum,NOMINAL_LINE,1,120,120,105,4368,4710
 JTK06,L-TIM06-W2.3G/0,STD,RR01,L-TIM06-W2.3G,,,Wardah Tester Intense Matte Lipstick 06 Blooming Pink 2.3 g (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK04,L-IPMLMP13-W/80,STD,SR09,L-IPMLMP13-W,,L-IPMLMP13-BULK,Instaperfect Mattesetter Lip Matte Paint 13 Enchanted,,Wardah Instaperfect Mattesetter Lip Matte Paint 13 Enchanted,SECONDARY_LINE,1,80,80,78,13571,13843
 JTK04,L-IPMLMP13-W/45,STD,SR09,L-IPMLMP13-W,,L-IPMLMP13-BULK,Instaperfect Mattesetter Lip Matte Paint 13 Enchanted,,Wardah Instaperfect Mattesetter Lip Matte Paint 13 Enchanted,SECONDARY_LINE,1,45,45,43.25,7488,7562
@@ -1433,7 +1401,7 @@ JTK01,ES-CLPWP-W/12,MULTIPLEBULK,PR03,ES-CLPWP-W,"ES-CLPWP-01-RP-W1,8GR",ES-CLPW
 JTK06,MY-TLEMC12-W4G/0,STD,RR01,MY-TLEMC12-W4G,,,Wardah Tester Exclusive Matte Lip Cream 12 Plum It Up 4 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,MY-LLLS02-EM/0,STD,RR01,MY-LLLS02-EM,,,Malaysia Emina Watercolor Lip Serum 02 Mist 2 g,,,NOMINAL_LINE,,0,0,0,488,488
 JTK02,M-RPBNS20-W/1000,STD,LR01,M-RPBNS20-W,,M-RRPBNS-BULK,Wardah Perfect Bright Moisturizer Bright + Smooth Glow SPF 30 PA+++ 20 ml,,Wardah Perfect Bright Moisturizer Bright + Smooth Glow SPF 30 PA+++,NOMINAL_LINE,1,1000,1000,970,44805,47045
-JTK02,M-RPBNS20-W/600,STD,LR01,M-RPBNS20-W,,M-RRPBNS-BULK,Wardah Perfect Bright Moisturizer Bright + Smooth Glow SPF 30 PA+++ 20 ml,,Wardah Perfect Bright Moisturizer Bright + Smooth Glow SPF 30 PA+++,SECONDARY_LINE,1,600,600,570,26780,26934
+JTK02,M-RPBNS20-W/600,STD,LR01,M-RPBNS20-W,,M-RRPBNS-BULK,Wardah Perfect Bright Moisturizer Bright + Smooth Glow SPF 30 PA+++ 20 ml,,Wardah Perfect Bright Moisturizer Bright + Smooth Glow SPF 30 PA+++,SECONDARY_LINE,1,600,600,570,0,0
 JTK02,M-MPNG-EM/600,STD,LR15,M-MPNG-EM,,M-MPNG-BULK,Emina Ms. Pimple Acne Solution Calming Gel 20 ml,,Emina Ms. Pimple Acne Solution Calming Gel,NOMINAL_LINE,1,600,600,570,27751,28584
 JTK01,TC-CCM-EM12GR/20,STD,PR01,TC-CCM-EM12GR,,TC-CCM-BULK,Emina City Chic CC Cake Meringue 12 gr (Pc(s)),,City Chic CC Cake Maringue (CKM),NOMINAL_LINE,1,20,20,20,1680,1730
 JTK06,MY-LIPMLMP06-W/0,STD,RR01,MY-LIPMLMP06-W,,,Malaysia Wardah Instaperfect MATTESETTER Lip Matte Paint 06. FLAIR 5.5 g,,,NOMINAL_LINE,,0,0,0,1,1
@@ -1447,8 +1415,6 @@ JTK01,TC-RVPMC31-MO/40,STD,PR01,TC-RVPMC31-MO,,TC-RVPMC31-BULK,MAKE OVER Powerst
 JTK01,TC-RVPMC31-MO/20,STD,PR01,TC-RVPMC31-MO,,TC-RVPMC31-BULK,MAKE OVER Powerstay 24H Matte Powder Foundation C31 Pink Beige 12 g,,MAKE OVER Powerstay 24H Matte Powder Foundation C31 Pink Beige,NOMINAL_LINE,1,20,20,20,1200,1236
 JTK01,TC-RVPMC31-MO/10,STD,PR01,TC-RVPMC31-MO,,TC-RVPMC31-BULK,MAKE OVER Powerstay 24H Matte Powder Foundation C31 Pink Beige 12 g,,MAKE OVER Powerstay 24H Matte Powder Foundation C31 Pink Beige,SECONDARY_LINE,1,10,10,10,792,816
 JTK02,HBW-RETBWCN2-W/3000,STD,LR15,HBW-RETBWCN2-W,,HBW-ETBWC-BULK,EARTH LOVE LIFE Bulgarian Rose & East Nusa Vanilla Body Wash Pouch 400 ml,,Earth Love Life Bulgarian Rose & East Nusa Vanilla Body Wash,NOMINAL_LINE,1,3000,3000,2910,7199,7420
-JTK02,L-PVW02-MO/50,STD,LR04,L-PVW02-MO,,L-PVW02-BULK,MAKE OVER Powerstay Vivid Waterlite Lip Stain A02 Double Dare 5.5 g,,Lipstick Powerstay Vivid Waterlite Double Dare Bulk (Kg),SECONDARY_LINE,1,50,50,50,6838,7044
-JTK02,L-PVW02-MO/30,STD,LR04,L-PVW02-MO,,L-PVW02-BULK,MAKE OVER Powerstay Vivid Waterlite Lip Stain A02 Double Dare 5.5 g,,Lipstick Powerstay Vivid Waterlite Double Dare Bulk (Kg),NOMINAL_LINE,1,30,30,30,3624,3760
 JTK02,BBC-EN-W15ML/1000,STD,LR01,BBC-EN-W15ML,,BBC-EN-BULK,Wardah Everyday BB Cream Natural 15 ml (Pc(s)),,Everyday BB Cream Natural Bulk,NOMINAL_LINE,1,1000,1000,978,57408,58408
 JTK04,L-IPEI03-W/3,STD,SR09,L-IPEI03-W,,L-IPEI03-BULK,Wardah Instaperfect Everlast Intense Matte Liquid 03 SURREAL 4.2 g,,Wardah Instaperfect Everlast Intense Matte Liquid 03 SURREAL,NOMINAL_LINE,1,3,3,2.75,444,467
 JTK06,MY-ELWH-W1.14G/0,STD,RR01,MY-ELWH-W1.14G,,,Malaysia Wardah Eye Liner White 1.14 g (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
@@ -1483,8 +1449,8 @@ JTK04,DUSS-EMLC11H-W/0,SFGPack,SR12,DUSS-EMLC11H-W,,,Dus Sticker Exclusive Matte
 JTK02,CUS-DM06-EM/80,STD,LR04,CUS-DM06-EM,,CUS-DM06-BULK,Emina Daily Matte Cushion W04 Mocca 15 g,,EMINA Daily Matte Cushion W04 Mocca,NOMINAL_LINE,1,80,80,70,3687,3800
 JTK02,CUS-DM06-EM/30,STD,LR04,CUS-DM06-EM,,CUS-DM06-BULK,Emina Daily Matte Cushion W04 Mocca 15 g,,EMINA Daily Matte Cushion W04 Mocca,SECONDARY_LINE,1,30,30,23,1344,1386
 JTK02,S-P1G-P200/300,STD,LR15,S-P1G-P200,,S-G-BULK,Putri Shampoo Ginseng 200 ML (Pc(s)),,Bulk Shampoo Ginseng,NOMINAL_LINE,1,300,300,300,1216,1316
-JTK02,P-BHRFWSRM-W/240,STD,LR15,P-BHRFWSRM-W,,SRM-RIH-BULK,Wardah Bundling Hydra Rose gel-to-foam Cleanser 3 ml + Hydra Rose Micro Gel Serum 1.5 ml,,Wardah Hydra Rose Micro Gel Serum,NOMINAL_LINE,2,240,120,105,38000,39150
 JTK02,P-BHRFWSRM-W/240,STD,LR15,P-BHRFWSRM-W,,FW-RHMF-BULK,Wardah Bundling Hydra Rose gel-to-foam Cleanser 3 ml + Hydra Rose Micro Gel Serum 1.5 ml,,Wardah Hydra Rose Gel to Foam Cleanser Bulk,NOMINAL_LINE,1,240,120,105,38000,39150
+JTK02,P-BHRFWSRM-W/240,STD,LR15,P-BHRFWSRM-W,,SRM-RIH-BULK,Wardah Bundling Hydra Rose gel-to-foam Cleanser 3 ml + Hydra Rose Micro Gel Serum 1.5 ml,,Wardah Hydra Rose Micro Gel Serum,NOMINAL_LINE,2,240,120,105,38000,39150
 JTK01,TC-RPC03-MO12G/60,STD,PR01,TC-RPC03-MO12G,,TC-PC03-BULK,MAKE OVER Perfect Cover Refill TWC 03 Maple 12 g (Pc(s)),,PERFECT COVER TWC 03 MAPLE,NOMINAL_LINE,1,60,60,60,4032,4153
 JTK06,L-W2TM14-W3.8GR/0,STD,RR01,L-W2TM14-W3.8GR,,,Wardah Tester Container Matte Lipstick 14 Velvety Brown 3.8 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,S-P1L-P450/600,STD,LR15,S-P1L-P450,,S-LL-BULK,Putri Pure Clean Shampoo Lemon 450 ML (Pc(s)),,Shampoo Lemon Liter BULK (Kg),NOMINAL_LINE,1,600,600,600,1203,1303
@@ -1526,8 +1492,6 @@ JTK01,B-CLCLPD-W/40,STD,PR01,B-CLCLPD-W,,B-CLCLPD-BULK,Wardah Colorfit Mattifyin
 JTK02,F-LUC09-MO33ML/200,STD,LR15,F-LUC09-MO33ML,,F-LUC09-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 09 Crème Rose 33 ml (pc(s)),,Ultracover Liquid Matt Foundation 09 Creme Rose,SECONDARY_LINE,1,200,200,185,4920,5121
 JTK02,F-LUC09-MO33ML/150,STD,LR15,F-LUC09-MO33ML,,F-LUC09-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 09 Crème Rose 33 ml (pc(s)),,Ultracover Liquid Matt Foundation 09 Creme Rose,SECONDARY_LINE,1,150,150,135,3620,3801
 JTK02,F-LUC09-MO33ML/30,STD,LR04,F-LUC09-MO33ML,,F-LUC09-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 09 Crème Rose 33 ml (pc(s)),,Ultracover Liquid Matt Foundation 09 Creme Rose,NOMINAL_LINE,1,30,30,29,620,720
-JTK02,CON-PTCL03-MO/30,STD,LR16,CON-PTCL03-MO,,CON-PTCL03-BULK,MAKE OVER Powerstay Total Cover Liquid Concealer 03 Medium 6.5 ml,,Powerstay Total Cover Liquid Concealer 03 Medium,NOMINAL_LINE,1,30,30,23,0.001,0.001
-JTK02,CON-PTCL03-MO/15,STD,LR16,CON-PTCL03-MO,,CON-PTCL03-BULK,MAKE OVER Powerstay Total Cover Liquid Concealer 03 Medium 6.5 ml,,Powerstay Total Cover Liquid Concealer 03 Medium,SECONDARY_LINE,1,15,15,14.25,0.001,0.001
 JTK06,P-RD-EM/0,STD,RR01,P-RD-EM,,,Emina Happy Girls Are the Prettiest Makeup Box,,,NOMINAL_LINE,,0,0,0,4610,4610
 JTK02,N-P1L-P450/500,STD,LR01,N-P1L-P450,,N-L-BULK,Putri Neutralizer Lotion 450 ML (Pc(s)),,Bulk Neutralizer,NOMINAL_LINE,1,500,500,492,972,1072
 JTK01,DUSS-PMFN30R0-MO/0,SFGPack,PR16,DUSS-PMFN30R0-MO,,,Dus Sticker Powerstay Matte Powder Foundation N30 MO,,,NOMINAL_LINE,,0,0,0,4320,4450
@@ -1567,7 +1531,7 @@ JTK06,L-W2TEMC08-W4GR/0,STD,RR01,L-W2TEMC08-W4GR,,,Wardah Tester Exclusive Matte
 JTK06,"L-TEQR53-W3,8GR/0",STD,RR01,"L-TEQR53-W3,8GR",,,"Wardah Tester Lipstick Exclusive 53 Queen Red 3,8 gr (Pc(s))",,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,F-RVLPWW33-MO/200,STD,LR04,F-RVLPWW33-MO,,F-RVLPWW33-BULK,MAKE OVER Powerstay 24H Weightless Liquid Foundation W33 Honey Beige 33 ml,,MAKE OVER Powerstay 24H Weightless Liquid Foundation W33 Honey Beige,NOMINAL_LINE,1,200,200,200,4225,4352
 JTK02,F-RVLPWW33-MO/120,STD,LR04,F-RVLPWW33-MO,,F-RVLPWW33-BULK,MAKE OVER Powerstay 24H Weightless Liquid Foundation W33 Honey Beige 33 ml,,MAKE OVER Powerstay 24H Weightless Liquid Foundation W33 Honey Beige,SECONDARY_LINE,1,120,120,105,2211,2280
-JTK01,TWC-CLFTF-W/20,STD,PR01,TWC-CLFTF-W,,TWC-CLFTF-BULK,Wardah Colorfit Velvet Powder Foundation 43W Golden Sand 11 g,,Colorfit Velvet Powder Foundation 43W Golden Sand,NOMINAL_LINE,1,20,20,20,1458,1502
+JTK01,TWC-CLFTF-W/20,STD,PR01,TWC-CLFTF-W,,TWC-CLFTF-BULK,Wardah Colorfit Velvet Powder Foundation 43W Golden Sand 11 g,,Colorfit Velvet Powder Foundation 43W Golden Sand,NOMINAL_LINE,1,20,20,20,1476,1520
 JTK06,L-W2TE41-W3.8GR/0,STD,RR01,L-W2TE41-W3.8GR,,,Wardah Tester Container Exclusive Lipstick 41 Charming Red 3.8 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK04,LB-EVFSS-W4G/90,STD,SR09,LB-EVFSS-W4G,,LB-EVFSS-BULK,Wardah Everyday Fruity Sheer Lip Balm Strawberry 4 g,,Wardah Everyday Fruity Sheer Lip Balm Strawberry,SECONDARY_LINE,1,90,90,88,20304,20913
 JTK04,LB-EVFSS-W4G/40,STD,SR09,LB-EVFSS-W4G,,LB-EVFSS-BULK,Wardah Everyday Fruity Sheer Lip Balm Strawberry 4 g,,Wardah Everyday Fruity Sheer Lip Balm Strawberry,NOMINAL_LINE,1,40,40,37,8544,8586
@@ -1580,15 +1544,9 @@ JTK02,L-CLCLS6-W/150,STD,LR04,L-CLCLS6-W,,L-CLCLS6-BULK,Wardah Colorfit Fresh Ma
 JTK02,L-CLCLS6-W/150,STD,LR04,L-CLCLS6-W,,L-CLCLS6-BULK,Wardah Colorfit Fresh Matte Lip Ink 06 Hyped Up 4 g,,Wardah Colorfit Fresh Matte Lip Ink 06 Hyped Up,SECONDARY_LINE,1,150,150,143,30768,31692
 JTK02,L-CLCLS6-W/50,STD,LR04,L-CLCLS6-W,,L-CLCLS6-BULK,Wardah Colorfit Fresh Matte Lip Ink 06 Hyped Up 4 g,,Wardah Colorfit Fresh Matte Lip Ink 06 Hyped Up,SECONDARY_LINE,1,50,50,43,9590,9878
 JTK02,L-CLCLS6-W/50,STD,LR04,L-CLCLS6-W,,L-CLCLS6-BULK,Wardah Colorfit Fresh Matte Lip Ink 06 Hyped Up 4 g,,Wardah Colorfit Fresh Matte Lip Ink 06 Hyped Up,SECONDARY_LINE,1,50,50,43,9590,9878
-JTK02,SRM-NFSBRSRN2-L/41,STD,LR02,SRM-NFSBRSRN2-L,,SRM-BRSR-BULK,LABORÉ Sensitive Skin Care NFS GentleBiome Barrier Repair Serum 7 ml,,LABORÉ Sensitive Skin Care GentleBiome Barrier Repair Serum,SECONDARY_LINE,1,41,41,34,4235,4447
-JTK02,SRM-NFSBRSRN2-L/38,STD,LR02,SRM-NFSBRSRN2-L,,SRM-BRSR-BULK,LABORÉ Sensitive Skin Care NFS GentleBiome Barrier Repair Serum 7 ml,,LABORÉ Sensitive Skin Care GentleBiome Barrier Repair Serum,SECONDARY_LINE,1,38,38,33,3850,4043
-JTK02,SRM-NFSBRSRN2-L/37,STD,LR02,SRM-NFSBRSRN2-L,,SRM-BRSR-BULK,LABORÉ Sensitive Skin Care NFS GentleBiome Barrier Repair Serum 7 ml,,LABORÉ Sensitive Skin Care GentleBiome Barrier Repair Serum,SECONDARY_LINE,1,37,37,30,3492,3642
-JTK02,SRM-NFSBRSRN2-L/33,STD,LR02,SRM-NFSBRSRN2-L,,SRM-BRSR-BULK,LABORÉ Sensitive Skin Care NFS GentleBiome Barrier Repair Serum 7 ml,,LABORÉ Sensitive Skin Care GentleBiome Barrier Repair Serum,NOMINAL_LINE,1,33,33,26,2772,3396
-JTK01,TC-W3RELB2-W12G/60,STD,PR01,TC-W3RELB2-W12G,,TC-W1C2-BULK,Wardah Refill Evd Lum Two Way Cake 02 Beige 12 g (Pc(s)),,Luminous Two Way Cake 02,NOMINAL_LINE,1,60,60,60,4176,4310
-JTK01,TC-W3RELB2-W12G/40,STD,PR01,TC-W3RELB2-W12G,,TC-W1C2-BULK,Wardah Refill Evd Lum Two Way Cake 02 Beige 12 g (Pc(s)),,Luminous Two Way Cake 02,SECONDARY_LINE,1,40,40,40,3024,3114
 JTK01,TC-W3ELI3-W12G/60,STD,PR01,TC-W3ELI3-W12G,,TC-W1C3-BULK,Wardah Evd Lum Two Way Cake 03 Ivory 12 g (Pc(s)),,Luminous Two Way Cake 03,NOMINAL_LINE,1,60,60,60,4212,4338
-JTK02,D-RO-KA/300,STD,LR15,D-RO-KA,,D-RO-BULK,Kahf Soothing Antiperspirant Deodorant 50 ml,,Kahf Soothing Antiperspirant Deodorant Bulk,NOMINAL_LINE,1,300,300,300,5135,5290
 JTK02,D-RO-KA/600,STD,LR15,D-RO-KA,,D-RO-BULK,Kahf Soothing Antiperspirant Deodorant 50 ml,,Kahf Soothing Antiperspirant Deodorant Bulk,SECONDARY_LINE,1,600,600,570,10416,10937
+JTK02,D-RO-KA/300,STD,LR15,D-RO-KA,,D-RO-BULK,Kahf Soothing Antiperspirant Deodorant 50 ml,,Kahf Soothing Antiperspirant Deodorant Bulk,NOMINAL_LINE,1,300,300,300,5135,5290
 JTK02,L-GS02-EM/90,STD,LR01,L-GS02-EM,,L-GS02-BULK,Emina Glossy Stain 02 Apple Shower 3 g,,Emina Glossy Stain 02 Apple Shower,NOMINAL_LINE,1,90,90,90,27982,28820
 JTK02,L-GS02-EM/90,STD,LR01,L-GS02-EM,,L-GS02-BULK,Emina Glossy Stain 02 Apple Shower 3 g,,Emina Glossy Stain 02 Apple Shower,NOMINAL_LINE,1,90,90,90,27982,28820
 JTK02,L-GS02-EM/90,STD,LR01,L-GS02-EM,,L-GS02-BULK,Emina Glossy Stain 02 Apple Shower 3 g,,Emina Glossy Stain 02 Apple Shower,NOMINAL_LINE,1,90,90,90,27982,28820
@@ -1669,7 +1627,7 @@ JTK06,L-TIM12-W2.3G/0,STD,RR01,L-TIM12-W2.3G,,,Wardah Tester Intense Matte Lipst
 JTK04,L-SMULMD-EM/80,STD,SR09,L-SMULMD-EM,,L-SMULMD-BULK,Emina Squeeze Me Up Lip Matte 04 Lil Dancing 6.5 g,,Emina Squeeze Me Up Lip Matte 04 Lil Dancing,SECONDARY_LINE,1,80,80,78,11760,11996
 JTK04,L-SMULMD-EM/45,STD,SR09,L-SMULMD-EM,,L-SMULMD-BULK,Emina Squeeze Me Up Lip Matte 04 Lil Dancing 6.5 g,,Emina Squeeze Me Up Lip Matte 04 Lil Dancing,NOMINAL_LINE,1,45,45,44,6528,6659
 JTK06,MY-MAN1-EM/0,STD,RR01,MY-MAN1-EM,,,Malaysia Emina Natura Pal Gel Moisturizer 20 ml,,,NOMINAL_LINE,,0,0,0,1,1
-JTK01,TWC-CLFTH-W/20,STD,PR01,TWC-CLFTH-W,,TWC-CLFTH-BULK,Wardah Colorfit Velvet Powder Foundation 52N Almond 11 g,,Colorfit Velvet Powder Foundation 52N Almond,NOMINAL_LINE,1,20,20,20,1458,1502
+JTK01,TWC-CLFTH-W/20,STD,PR01,TWC-CLFTH-W,,TWC-CLFTH-BULK,Wardah Colorfit Velvet Powder Foundation 52N Almond 11 g,,Colorfit Velvet Powder Foundation 52N Almond,NOMINAL_LINE,1,20,20,20,1476,1520
 JTK04,LB-EVLNGT-W4G/20,STD,SR09,LB-EVLNGT-W4G,,LB-EVLNGT-BULK,Wardah Everyday Moisture Lip Nutrition Green Tea 4 g,,Wardah Everyday Moisture Lip Nutrition Green Tea,NOMINAL_LINE,1,20,20,19,4368,4456
 JTK01,TC-RVPMW21-MO/100,STD,PR01,TC-RVPMW21-MO,,TC-RVPMW21-BULK,MAKE OVER Powerstay 24H Matte Powder Foundation W21 Coral Ivory 12 g,,MAKE OVER Powerstay 24H Matte Powder Foundation W21 Coral Ivory,SECONDARY_LINE,1,100,100,100,7692,7846
 JTK01,TC-RVPMW21-MO/60,STD,PR01,TC-RVPMW21-MO,,TC-RVPMW21-BULK,MAKE OVER Powerstay 24H Matte Powder Foundation W21 Coral Ivory 12 g,,MAKE OVER Powerstay 24H Matte Powder Foundation W21 Coral Ivory,SECONDARY_LINE,1,60,60,60,4958,5058
@@ -1694,8 +1652,8 @@ JTK04,L-LL18-W2.3G/5,STD,SR09,L-LL18-W2.3G,,L-LL18-BULK,Wardah Lipstick Longlast
 JTK02,L-PTGL5-MO/40,STD,LR02,L-PTGL5-MO,,L-PTG5-BULK,Make Over Glassy Lip Lacquer 405 Glory 4.5 g,,MAKE OVER Glassy Lip Lacquer 405 Glory,NOMINAL_LINE,1,40,40,33,6666,6870
 JTK02,L-PTGL5-MO/20,STD,LR02,L-PTGL5-MO,,L-PTG5-BULK,Make Over Glassy Lip Lacquer 405 Glory 4.5 g,,MAKE OVER Glassy Lip Lacquer 405 Glory,SECONDARY_LINE,1,20,20,13,2365,2440
 JTK01,ES-PRPNS-EM3.3GR/9,COPACKING,PR17,ES-PRPNS-EM3.3GR,"ES-W1F-01-RP-W1,1GR",ES-W1F-01 BULK,Emina Pop Rouge Pressed Eye Shadow Nude 3.3 gr (Pc(s)),Refill Press Eye Shadow Wardah F 01,EYE SHADOW F 01,NOMINAL_LINE,3,9,3,3,1503,1548
-JTK01,ES-PRPNS-EM3.3GR/9,COPACKING,PR17,ES-PRPNS-EM3.3GR,"ES-W0I-01-RP-W1,1GR",ES-W0I-01 BULK,Emina Pop Rouge Pressed Eye Shadow Nude 3.3 gr (Pc(s)),Refill Press Eye Shadow Wardah I 01,EYE SHADOW I 01,NOMINAL_LINE,2,9,3,3,1503,1548
 JTK01,ES-PRPNS-EM3.3GR/9,COPACKING,PR03,ES-PRPNS-EM3.3GR,"ES-BV-RP-W1,1GR",ES-BV-MO-BULK,Emina Pop Rouge Pressed Eye Shadow Nude 3.3 gr (Pc(s)),Refill Press Shiny Glam Eye Shadow Brown Vegas,Shiny Glam Eye Shadow Brown Vegas,NOMINAL_LINE,1,9,3,3,1503,1548
+JTK01,ES-PRPNS-EM3.3GR/9,COPACKING,PR17,ES-PRPNS-EM3.3GR,"ES-W0I-01-RP-W1,1GR",ES-W0I-01 BULK,Emina Pop Rouge Pressed Eye Shadow Nude 3.3 gr (Pc(s)),Refill Press Eye Shadow Wardah I 01,EYE SHADOW I 01,NOMINAL_LINE,2,9,3,3,1503,1548
 JTK02,M-SM01-KA/400,STD,LR02,M-SM01-KA,,M-SM-BULK,Kahf Triple Protection Sunscreen Moisturizer 30 ml,,KAHF - Triple Sunscreen Moisturizer,SECONDARY_LINE,1,400,400,370,11754,12342
 JTK02,M-SM01-KA/200,STD,LR02,M-SM01-KA,,M-SM-BULK,Kahf Triple Protection Sunscreen Moisturizer 30 ml,,KAHF - Triple Sunscreen Moisturizer,NOMINAL_LINE,1,200,200,185,5868,6162
 JTK02,M-SM01-KA/150,STD,LR02,M-SM01-KA,,M-SM-BULK,Kahf Triple Protection Sunscreen Moisturizer 30 ml,,KAHF - Triple Sunscreen Moisturizer,SECONDARY_LINE,1,150,150,135,4284,4413
@@ -1714,8 +1672,8 @@ JTK06,CUS-RVIPMB13-W/0,STD,RR01,CUS-RVIPMB13-W,,,Wardah Instaperfect MINERALIGHT
 JTK02,HBL-NFSV3-WL/173,STD,,HBL-NFSV3-WL,,HBL-V3-BULK,NFS Wonderly Brightening Serum Body Lotion Voyage 10 ml,,Glow Getter Brightening Body Lotion Varian Voyage (Biru),NOMINAL_LINE,1,173,173,158,0,0
 JTK02,HBL-NFSV3-WL/152,STD,LR02,HBL-NFSV3-WL,,HBL-V3-BULK,NFS Wonderly Brightening Serum Body Lotion Voyage 10 ml,,Glow Getter Brightening Body Lotion Varian Voyage (Biru),NOMINAL_LINE,1,152,152,137,10571,10677
 JTK02,HBL-NFSV3-WL/141,STD,,HBL-NFSV3-WL,,HBL-V3-BULK,NFS Wonderly Brightening Serum Body Lotion Voyage 10 ml,,Glow Getter Brightening Body Lotion Varian Voyage (Biru),NOMINAL_LINE,1,141,141,126,0,0
-JTK02,HBL-NFSV3-WL/130,STD,,HBL-NFSV3-WL,,HBL-V3-BULK,NFS Wonderly Brightening Serum Body Lotion Voyage 10 ml,,Glow Getter Brightening Body Lotion Varian Voyage (Biru),NOMINAL_LINE,1,130,130,115,0,0
 JTK02,HBL-NFSV3-WL/119,STD,LR02,HBL-NFSV3-WL,,HBL-V3-BULK,NFS Wonderly Brightening Serum Body Lotion Voyage 10 ml,,Glow Getter Brightening Body Lotion Varian Voyage (Biru),SECONDARY_LINE,1,119,119,104,8857,8946
+JTK02,HBL-NFSV3-WL/130,STD,,HBL-NFSV3-WL,,HBL-V3-BULK,NFS Wonderly Brightening Serum Body Lotion Voyage 10 ml,,Glow Getter Brightening Body Lotion Varian Voyage (Biru),NOMINAL_LINE,1,130,130,115,0,0
 JTK06,F-TCEC03-W10GR/0,STD,RR01,F-TCEC03-W10GR,,,Wardah Tester Container Exclusive Creamy Foundation 03 10 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,MY-APFC-W60ML/0,STD,RR01,MY-APFC-W60ML,,,Malaysia Wardah Acnederm Pure Foaming Cleanser 60 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK04,DUSS-EMLC03H-W/0,SFGPack,SR12,DUSS-EMLC03H-W,,,Dus Sticker Exclusive Matte Lip Cream 03 (Hologram) W,,,NOMINAL_LINE,1,0,0,0,18688,18688
@@ -1783,10 +1741,7 @@ JTK01,EB-DK02-MO/2,COPACKING2FACTORY,PR14,EB-DK02-MO,EB-DK02-02D-RP-MO2GR,EB-DK0
 JTK01,EB-DK02-MO/28,COPACKING2FACTORY,PR14,EB-DK02-MO,EB-DK02-01L-RP-MO2GR,EB-DK02-01L-BULK,MAKE OVER Eye Brow Definition Kit 02 Grey Brown 6.9 g,Refill Press Eyebrow Definition Kit 02 Grey Brown - 01 Light,Eyebrow Definition Kit 02 Grey Brown - 01 Light,SECONDARY_LINE,1,28,14,14,5236,5341
 JTK01,EB-DK02-MO/6,COPACKING2FACTORY,PR14,EB-DK02-MO,EB-DK02-01L-RP-MO2GR,EB-DK02-01L-BULK,MAKE OVER Eye Brow Definition Kit 02 Grey Brown 6.9 g,Refill Press Eyebrow Definition Kit 02 Grey Brown - 01 Light,Eyebrow Definition Kit 02 Grey Brown - 01 Light,NOMINAL_LINE,1,6,3,3,1123,1156
 JTK01,EB-DK02-MO/2,COPACKING2FACTORY,PR14,EB-DK02-MO,EB-DK02-01L-RP-MO2GR,EB-DK02-01L-BULK,MAKE OVER Eye Brow Definition Kit 02 Grey Brown 6.9 g,Refill Press Eyebrow Definition Kit 02 Grey Brown - 01 Light,Eyebrow Definition Kit 02 Grey Brown - 01 Light,SECONDARY_LINE,1,2,1,1,200,206
-JTK04,EB-DK02-MO/9,COPACKING2FACTORY,SR09,EB-DK02-MO,,EB-DK01C-BULK,MAKE OVER Eye Brow Definition Kit 02 Grey Brown 6.9 g,,Make Over Eyebrow Definition Kit 01 Concealer,NOMINAL_LINE,3,9,3,2.5,0,0
 JTK04,EB-DK02-MO/3,COPACKING2FACTORY,SR09,EB-DK02-MO,,EB-DK01C-BULK,MAKE OVER Eye Brow Definition Kit 02 Grey Brown 6.9 g,,Make Over Eyebrow Definition Kit 01 Concealer,SECONDARY_LINE,3,3,1,0.75,0,0
-JTK01,B-W3ELFP02-W30G/300,STD,PR01,B-W3ELFP02-W30G,,B-W1T3LFP02-BULK,Wardah Evd Lum Face Powder 02 Beige 30 g (Pc(s)),,Luminous Face Powder 02,SECONDARY_LINE,1,300,300,300,9576,9863
-JTK01,B-W3ELFP02-W30G/100,STD,PR01,B-W3ELFP02-W30G,,B-W1T3LFP02-BULK,Wardah Evd Lum Face Powder 02 Beige 30 g (Pc(s)),,Luminous Face Powder 02,NOMINAL_LINE,1,100,100,100,3120,3214
 JTK06,MY-PCLR-W/0,STD,RR01,MY-PCLR-W,,,Malaysia Wardah Colorfit Series Hampers,,,NOMINAL_LINE,,0,0,0,1764,1764
 JTK06,F-W2TELCLFB51-W11GR/0,STD,RR01,F-W2TELCLFB51-W11GR,,,Wardah Tester Container Evd Lum Creamy Foundation Light Feel 02 Light Beige 11 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK04,L-PTMC01-MO/45,STD,SR09,L-PTMC01-MO,,L-PTMC01-BULK,MAKE OVER Powerstay Transferproof Matte Lip Cream B01 No. 1 7 g,,Make Over Powerstay Transferproof Matte Lip Cream B01 No. 1,SECONDARY_LINE,1,45,45,44,5744,5916
@@ -1815,7 +1770,7 @@ JTK02,HC-NS-W170ML/1000,STD,LR01,HC-NS-W170ML,,HC-NS-BULK,Wardah Nutri Shine Con
 JTK02,BUT-W3MP-W150ML/300,STD,LR15,BUT-W3MP-W150ML,,BUT-W0MP-BULK,Wardah Creamy Body Butter With Milk & Pearl 150 ml (Pc(s)),,Milk & Pearl Body butter Bulk,SECONDARY_LINE,1,300,300,270,1830,1930
 JTK02,BUT-W3MP-W150ML/200,STD,LR15,BUT-W3MP-W150ML,,BUT-W0MP-BULK,Wardah Creamy Body Butter With Milk & Pearl 150 ml (Pc(s)),,Milk & Pearl Body butter Bulk,NOMINAL_LINE,1,200,200,175,1278,1378
 JTK02,FW-FWN2VC-OMG/3000,STD,LR01,FW-FWN2VC-OMG,,FW-FW-BULK,OMG Oh My Glow Peach Glowing Face Wash 50 g,,OMG Oh My Glow Peach Glowing Face Wash,SECONDARY_LINE,1,3000,3000,2910,55872,58666
-JTK02,FW-FWN2VC-OMG/1000,STD,LR01,FW-FWN2VC-OMG,,FW-FW-BULK,OMG Oh My Glow Peach Glowing Face Wash 50 g,,OMG Oh My Glow Peach Glowing Face Wash,NOMINAL_LINE,1,1000,1000,970,18973,19922
+JTK02,FW-FWN2VC-OMG/1000,STD,LR01,FW-FWN2VC-OMG,,FW-FW-BULK,OMG Oh My Glow Peach Glowing Face Wash 50 g,,OMG Oh My Glow Peach Glowing Face Wash,NOMINAL_LINE,1,1000,1000,970,0,0
 JTK01,TC-PC07-MO12G/10,STD,PR01,TC-PC07-MO12G,,TC-PC07-BULK,MAKE OVER Perfect Cover TWC 07 Espresso 12 g (Pc(s)),,Perfect Cover TWC 07 Espresso,NOMINAL_LINE,1,10,10,10,576,593
 JTK02,HT-P1SRL-P200D/100,STD,LR15,HT-P1SRL-P200D,,HT-SPARL-BULK,"Hair Tonic SPA Relaxing Lavender, 200 ml",,Hair Tonic Spa Relaxing Lavender Bulk (Kg),SECONDARY_LINE,1,100,100,97,404,504
 JTK02,HT-P1SRL-P200D/100,STD,LR15,HT-P1SRL-P200D,,HT-SPARL-BULK,"Hair Tonic SPA Relaxing Lavender, 200 ml",,Hair Tonic Spa Relaxing Lavender Bulk (Kg),SECONDARY_LINE,1,100,100,97,404,504
@@ -1840,9 +1795,9 @@ JTK02,BOTP-HTSPAL2REV-P/0,SFGPack,LR13,BOTP-HTSPAL2REV-P,,,Botol Print Hair Toni
 JTK06,MY-TLBV-W6.5G/0,STD,RR01,MY-TLBV-W6.5G,,,Wardah Tester Lipbalm Vanilla 6.5 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK01,TC-NFSPC01-MO/10,STD,PR03,TC-NFSPC01-MO,,TC-PC01-BULK,MAKE OVER NFS Perfect Cover TWC 01 Lace 3.7 g,,PERFECT COVER TWC 01 LACE,NOMINAL_LINE,1,10,10,10,2375,2422
 JTK02,F-LUC02-MO33ML/240,STD,LR05,F-LUC02-MO33ML,,F-LUC02-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 02 Pink Shade 33 ml (pc(s)),,Ultra Cover Liquid Matt Foundation 02 Pink Shade Bulk,NOMINAL_LINE,1,240,240,215,5780,6069
+JTK02,F-LUC02-MO33ML/240,STD,LR15,F-LUC02-MO33ML,,F-LUC02-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 02 Pink Shade 33 ml (pc(s)),,Ultra Cover Liquid Matt Foundation 02 Pink Shade Bulk,NOMINAL_LINE,1,240,240,215,5780,6069
 JTK02,F-LUC02-MO33ML/120,STD,LR15,F-LUC02-MO33ML,,F-LUC02-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 02 Pink Shade 33 ml (pc(s)),,Ultra Cover Liquid Matt Foundation 02 Pink Shade Bulk,SECONDARY_LINE,1,120,120,116,2698,2798
 JTK02,F-LUC02-MO33ML/50,STD,LR04,F-LUC02-MO33ML,,F-LUC02-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 02 Pink Shade 33 ml (pc(s)),,Ultra Cover Liquid Matt Foundation 02 Pink Shade Bulk,SECONDARY_LINE,1,50,50,50,1092,1192
-JTK02,F-LUC02-MO33ML/240,STD,LR15,F-LUC02-MO33ML,,F-LUC02-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 02 Pink Shade 33 ml (pc(s)),,Ultra Cover Liquid Matt Foundation 02 Pink Shade Bulk,NOMINAL_LINE,1,240,240,215,5780,6069
 JTK02,HBL-V5-WL/1000,STD,LR02,HBL-V5-WL,,HBL-V5-BULK,Wonderly Brightening Serum Exfoliating Lotion Mode 300 ml,,Wonderly Brightening Serum Exfoliating Lotion Mode,NOMINAL_LINE,1,1000,1000,970,2904,3250
 JTK06,MY-LNLCA-EM/0,STD,RR01,MY-LNLCA-EM,,,Malaysia Emina Poppin’ Matte 04 Snatched,,,NOMINAL_LINE,,0,0,0,425,425
 JTK01,TC-RIPMFPF11-W/20,STD,PR01,TC-RIPMFPF11-W,,TC-IPMFPF11-BULK,Wardah Refill Instaperfect MATTE FIT Powder Foundation 11. FAIR 13 g,,Instaperfect MATTE FIT Powder Foundation 11 Fair,NOMINAL_LINE,1,20,20,20,1195,1231
@@ -1906,7 +1861,6 @@ JTK01,B-PT04-MO35G/20,STD,PR01,B-PT04-MO35G,,B-PT04-BULK,MAKE OVER Silky Smooth 
 JTK01,DUSS-DMCP04R0-E/0,SFGPack,PR16,DUSS-DMCP04R0-E,,,Dus Sticker Daily Matte Compact Powder 04 Mocca E,,,NOMINAL_LINE,,0,0,0,24876,25622.28
 JTK06,MY-TLEMC10-W4G/0,STD,RR01,MY-TLEMC10-W4G,,,Wardah Tester Exclusive Matte Lip Cream 10 Berry Pretty 4 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,MY-LNLCE-EM/0,STD,RR01,MY-LNLCE-EM,,,Malaysia Emina Poppin’ Matte 05 Easy Peasy,,,NOMINAL_LINE,,0,0,0,425,425
-JTK01,TC-W3ELLB1-W12G/60,STD,PR01,TC-W3ELLB1-W12G,,TC-W1C1-BULK,Wardah Evd Lum Two Way Cake 01 Light Beige 12 g (Pc(s)),,Luminous Two Way Cake 01,NOMINAL_LINE,1,60,60,60,4212,4338
 JTK02,FMI-MS-KA/80,STD,LR02,FMI-MS-KA,,FMI-MS-BULK,Kahf Everyday Multipurpose Refreshing Spray 100 ml,,Kahf Everyday Multipurpose Refreshing Spray,NOMINAL_LINE,1,80,80,75,735,835
 JTK02,BOTO-SBMRF10R0-EM/0,SFGPack,LR13,BOTO-SBMRF10R0-EM,,,Botol+Shrink Body Mist Rain Forest 10 E (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,BOTO-SBMRF10R0-EM/0,SFGPack,LR13,BOTO-SBMRF10R0-EM,,,Botol+Shrink Body Mist Rain Forest 10 E (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
@@ -1935,8 +1889,6 @@ JTK02,F-IPSF13-W/120,STD,LR10,F-IPSF13-W,,F-IPSF13-BULK,Instaperfect SKINFOCUS C
 JTK02,FW-BSN2-EM/3000,STD,LR01,FW-BSN2-EM,,FW-BS-BULK,Emina Bright Stuff Face Wash 100 ml,,Bright Stuff Face Wash BULK,NOMINAL_LINE,1,3000,3000,3000,29848,30002
 JTK02,FW-BSN2-EM/2000,STD,LR01,FW-BSN2-EM,,FW-BS-BULK,Emina Bright Stuff Face Wash 100 ml,,Bright Stuff Face Wash BULK,SECONDARY_LINE,1,2000,2000,1910,19100,20055
 JTK06,MY-TMAHC-W/0,STD,RR01,MY-TMAHC-W,,,Malaysia Wardah Tester Nature Daily Aloe Hydramild Moisturizer Cream 40 ml (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
-JTK01,TC-RRE03-W/300,STD,PR01,TC-RRE03-W,,TC-PC03-BULK,Wardah Refill Exclusive Two Way Cake 03 Sandy Beige 12 g,,PERFECT COVER TWC 03 MAPLE,SECONDARY_LINE,1,300,300,300,21240,21665
-JTK01,TC-RRE03-W/100,STD,PR01,TC-RRE03-W,,TC-PC03-BULK,Wardah Refill Exclusive Two Way Cake 03 Sandy Beige 12 g,,PERFECT COVER TWC 03 MAPLE,NOMINAL_LINE,1,100,100,100,7020,7230
 JTK01,B-W3RELCP02-W14G/20,STD,PR01,B-W3RELCP02-W14G,,B-W1C1L02-BULK,Wardah Refill Evd Lum Compact Powder 02 Beige 14 g (Pc(s)),,Luminous Pressed Powder 02,NOMINAL_LINE,1,20,20,20,1029,1060
 JTK02,M-AGNC-W17ML/400,STD,LR15,M-AGNC-W17ML,,M-AGNC-BULK,Wardah Renew You Anti Aging Night Cream 17 ml (pc(s)),,Renew You Anti Aging Night Cream Bulk,NOMINAL_LINE,1,400,400,370,20160,21168
 JTK02,M-AGNC-W17ML/200,STD,LR15,M-AGNC-W17ML,,M-AGNC-BULK,Wardah Renew You Anti Aging Night Cream 17 ml (pc(s)),,Renew You Anti Aging Night Cream Bulk,SECONDARY_LINE,1,200,200,185,10080,10584
@@ -1962,8 +1914,6 @@ JTK01,ES-PGK-MO2G/1,STD,PR01,ES-PGK-MO2G,,ES-PGK-MO-BULK,MAKE OVER Powder Eye Sh
 JTK06,MY-LEMC06-W4G/0,STD,RR01,MY-LEMC06-W4G,,,Malaysia Wardah Exclusive Matte Lip Cream 06 Feeling Red 4 g (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,MY-TLIM10-W2.3G/0,STD,RR01,MY-TLIM10-W2.3G,,,Wardah Tester Intense Matte Lipstick 10 Miss Terracotta 2.3 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,REM-CDAMG-W/1000,STD,LR15,REM-CDAMG-W,,REM-CDAMG-BULK,Wardah Crystallure Supreme Double Action Micellar Gel 150 ml,,Crystallure Double Action Micellar Gel Bulk (Kg),NOMINAL_LINE,1,1000,1000,1000,6280,6780
-JTK02,PRM-PCCLC-MO/200,STD,LR20,PRM-PCCLC-MO,,PRM-PCCLC-BULK,MAKE OVER POWERSTAY Color Correcting Primer Lilac 25 ml,,Powerstay Color Correcting Primer Lilac,SECONDARY_LINE,1,200,200,200,6660,6860
-JTK02,PRM-PCCLC-MO/50,STD,LR10,PRM-PCCLC-MO,,PRM-PCCLC-BULK,MAKE OVER POWERSTAY Color Correcting Primer Lilac 25 ml,,Powerstay Color Correcting Primer Lilac,NOMINAL_LINE,1,50,50,43,1620,1690
 JTK06,TC-W2TELB2-W12G/0,STD,RR01,TC-W2TELB2-W12G,,,Wardah Tester Container Evd Lum Two Way Cake 02 Beige 12 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK04,CON-IP02-W/90,STD,,CON-IP02-W,,CON-IP02-BULK,Instaperfect Cover Up Concealer 22 Light Ivory 5 ml,,Wardah Instaperfect Concealer 02,NOMINAL_LINE,1,90,90,88,0,0
 JTK04,CON-IP02-W/15,STD,,CON-IP02-W,,CON-IP02-BULK,Instaperfect Cover Up Concealer 22 Light Ivory 5 ml,,Wardah Instaperfect Concealer 02,NOMINAL_LINE,1,15,15,14,0,0
@@ -1975,7 +1925,6 @@ JTK06,P-KP3-KA/0,STD,RR01,P-KP3-KA,,,Kahf Invigorating Waterfall Complete Packag
 JTK04,BO-MMB02-MO/100,STD,SR09,BO-MMB02-MO,,BO-MMB02-BULK,MAKE OVER Multifix Matte Blusher 02 Quickpinker 9 g,,MAKE OVER Multifix Matte Blusher 02 Quickpinker,SECONDARY_LINE,1,100,100,98,9888,10086
 JTK04,BO-MMB02-MO/10,STD,SR09,BO-MMB02-MO,,BO-MMB02-BULK,MAKE OVER Multifix Matte Blusher 02 Quickpinker 9 g,,MAKE OVER Multifix Matte Blusher 02 Quickpinker,NOMINAL_LINE,1,10,10,9.5,978,1033
 JTK02,WARN-LSTOTS-BULK/5,SFGBulk,LR19,WARN-LSTOTS-BULK,,,Monokrom Warna Lip Stain Titan OTS Bulk,,,NOMINAL_LINE,1,5,5,5,0,0
-JTK02,HBW-R-KA/3000,STD,LR15,HBW-R-KA,,HBW-R-BULK,Kahf Acne Fight and Relaxing Body Wash 200 ml,,Kahf Acne Fight and Relaxing Body Wash,NOMINAL_LINE,1,3000,3000,2910,13889,14310
 JTK06,F-W2TELB5101-W20ML/0,STD,RR01,F-W2TELB5101-W20ML,,,Wardah Tester Exclusive Liquid Foundation 01 Light Beige 20 ml (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,CUS-CLPGCE-W/180,STD,LR04,CUS-CLPGCE-W,,CUS-CLPGCE-BULK,Wardah Colorfit Perfect Glow Cushion 33W Olive Beige 15 g,,Wardah Colorfit Perfect Glow Cushion 33W Olive Beige,NOMINAL_LINE,1,180,180,165,9375,9660
 JTK02,CUS-CLPGCE-W/120,STD,LR04,CUS-CLPGCE-W,,CUS-CLPGCE-BULK,Wardah Colorfit Perfect Glow Cushion 33W Olive Beige 15 g,,Wardah Colorfit Perfect Glow Cushion 33W Olive Beige,SECONDARY_LINE,1,120,120,108,6384,6684
@@ -2004,9 +1953,6 @@ JTK06,MY-TDDCCDN-W20ML/0,STD,RR01,MY-TDDCCDN-W20ML,,,Wardah Tester C-defense DD 
 JTK06,MY-LSLWCH-W/0,STD,RR01,MY-LSLWCH-W,,,Malaysia Wardah Colorfit Last All Day Lip Paint 04 Brownderlast 4.2 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,HC-P1A2-P200/600,STD,LR15,HC-P1A2-P200,,HC-A2-BULK,Putri Pure Clean Hair Conditioner Apple 200 ML (Pc(s)),,Bulk Hair Conditioner Apple,SECONDARY_LINE,1,600,600,600,2819,2919
 JTK02,HC-P1A2-P200/600,STD,LR15,HC-P1A2-P200,,HC-A2-BULK,Putri Pure Clean Hair Conditioner Apple 200 ML (Pc(s)),,Bulk Hair Conditioner Apple,NOMINAL_LINE,1,600,600,600,2819,2919
-JTK02,FW-GSN3-L/150,STD,LR02,FW-GSN3-L,,FW-GS-BULK,LABORE Sensitive Skin Care GentleBiome Mild Cleanser 15 ml,,Laboré Sensitive Skin Care GentleBiome Mild Cleanser,SECONDARY_LINE,1,150,150,135,7911,8150
-JTK02,FW-GSN3-L/120,STD,LR02,FW-GSN3-L,,FW-GS-BULK,LABORE Sensitive Skin Care GentleBiome Mild Cleanser 15 ml,,Laboré Sensitive Skin Care GentleBiome Mild Cleanser,SECONDARY_LINE,1,120,120,105,6240,6552
-JTK02,FW-GSN3-L/30,STD,LR02,FW-GSN3-L,,FW-GS-BULK,LABORE Sensitive Skin Care GentleBiome Mild Cleanser 15 ml,,Laboré Sensitive Skin Care GentleBiome Mild Cleanser,NOMINAL_LINE,1,30,30,23.4,1394,1494
 JTK01,ES-PRPPH-EM3.3GR/6,COPACKING,PR03,ES-PRPPH-EM3.3GR,"ES-W1D-02-RP-W1,1GR",ES-W1D-02 BULK,Emina Pop Rouge Pressed Eye Shadow Posh 3.3 gr (Pc(s)),Refill Press Eye Shadow Wardah D 02,EYE SHADOW D 02,NOMINAL_LINE,1,6,2,2,864,989
 JTK01,ES-PRPPH-EM3.3GR/6,COPACKING,PR03,ES-PRPPH-EM3.3GR,"ES-PRPPH03-RP-EM1,1G",ES-PRPPH03-BULK,Emina Pop Rouge Pressed Eye Shadow Posh 3.3 gr (Pc(s)),Refill Press Pop Rouge Pressed Eye Shadow Posh 03,POSH 03,NOMINAL_LINE,3,6,2,2,864,989
 JTK01,ES-PRPPH-EM3.3GR/6,COPACKING,PR03,ES-PRPPH-EM3.3GR,"ES-PRPPH02-RP-EM1,1G",ES-PRPPH02-BULK,Emina Pop Rouge Pressed Eye Shadow Posh 3.3 gr (Pc(s)),Refill Press Pop Rouge Pressed Eye Shadow Posh 02,POSH 02,NOMINAL_LINE,2,6,2,2,864,989
@@ -2098,9 +2044,9 @@ JTK02,M-P1PD-P200/40,STD,LR01,M-P1PD-P200,,M-PD-BULK,Putri Platinum Deep Moistur
 JTK02,PRM-PRI01-MO/120,STD,LR15,PRM-PRI01-MO,,PRM-PRI01-BULK,MAKE OVER Powerstay Radiant Illuminizer Lumiere 25 g,,Make Over Powerstay Radiant Illuminizer Lumiere Bulk (Kg),NOMINAL_LINE,1,120,120,120,3240,3340
 JTK02,PRM-PRI01-MO/90,STD,LR15,PRM-PRI01-MO,,PRM-PRI01-BULK,MAKE OVER Powerstay Radiant Illuminizer Lumiere 25 g,,Make Over Powerstay Radiant Illuminizer Lumiere Bulk (Kg),SECONDARY_LINE,1,90,90,86.4,3240,3402
 JTK06,MY-LEMC18-W4G/0,STD,RR01,MY-LEMC18-W4G,,,Malaysia Wardah Exclusive Matte Lip Cream 18 Saturdate Night 4 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
+JTK02,WARN-C338073CB-BULK/20,SFGBulk,LR19,WARN-C338073CB-BULK,,,Monokrom Lipcream C33-8073,,,NOMINAL_LINE,1,20,20,20,0,0
 JTK02,WARN-C338073CB-BULK/10,SFGBulk,LR19,WARN-C338073CB-BULK,,,Monokrom Lipcream C33-8073,,,NOMINAL_LINE,1,10,10,10,0,0
 JTK02,WARN-C338073CB-BULK/5,SFGBulk,LR19,WARN-C338073CB-BULK,,,Monokrom Lipcream C33-8073,,,NOMINAL_LINE,1,5,5,5,0,0
-JTK02,WARN-C338073CB-BULK/20,SFGBulk,LR19,WARN-C338073CB-BULK,,,Monokrom Lipcream C33-8073,,,NOMINAL_LINE,1,20,20,20,0,0
 JTK06,MY-SRMCD-W17ML/0,STD,RR01,MY-SRMCD-W17ML,,,Malaysia Wardah C-defense Serum 17 ml (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,MY-MASKEXPMM-W/0,STD,RR01,MY-MASKEXPMM-W,,,Malaysia Wardah EYEXPERT Liftlast Waterproof Mascara 8 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,BP-BMPDN2-EM/20,STD,LR15,BP-BMPDN2-EM,,BP-BMPD-BULK,Emina Body Mist Pixie Dust 10 ml,,EMINA Body Mist Pixie Dust Bulk,NOMINAL_LINE,1,20,20,19,1900,2000
@@ -2120,16 +2066,14 @@ JTK04,WARN-CBC196619-BULK/1,SFGBulk,SR03,WARN-CBC196619-BULK,,,Color Base C19-66
 JTK01,TC-PMC62-MO12G/7,STD,PR01,TC-PMC62-MO12G,,TC-PMC62-BULK,MAKE OVER Powerstay Matte Powder Foundation C62 Rich Cocoa 12 g,,Make Over Powerstay Matte Powder Foundation C62 Rich Cocoa,NOMINAL_LINE,1,7,7,7,504,520
 JTK02,HBW-TBWN3D-BD/175,STD,LR15,HBW-TBWN3D-BD,,HBW-TBWD-BULK,TESTER Biodef Natural Protection Mint + Yuzu Body Wash 60 ml,,Tester Biodef Natural Protection Mint + Yuzu Body Wash,NOMINAL_LINE,1,175,175,170,2240,2540
 JTK02,BP-RHEDP-KA/300,STD,LR15,BP-RHEDP-KA,,BP-RHEDP-BULK,Kahf Revered Oud Eau de Parfum 100 ml,,Kahf Eau de Parfum Revered Oud,NOMINAL_LINE,1,300,300,285,2693,2770
-JTK01,TC-RRE04-W/300,STD,PR01,TC-RRE04-W,,TC-PC04-BULK,Wardah Refill Exclusive Two Way Cake 04 Natural 12 g,,PERFECT COVER TWC 04 DESERT,SECONDARY_LINE,1,300,300,300,21870,22530
-JTK01,TC-RRE04-W/100,STD,PR01,TC-RRE04-W,,TC-PC04-BULK,Wardah Refill Exclusive Two Way Cake 04 Natural 12 g,,PERFECT COVER TWC 04 DESERT,NOMINAL_LINE,1,100,100,100,7110,7323
 JTK01,FA-CLHP-EM/18,PRESSTHENFILLINGPACKING,PR03,FA-CLHP-EM,"FA-CLHP-RP-EM3,8GR",FA-CLHP-BULK,Emina Cheek Lit Highlighter Powder Nudesparkle 3.8 g,Refill Press EMINA Cheek Lit Highlighter Powder Nudesparkle,Cheek Lit Highlighter Powder,SECONDARY_LINE,1,18,18,18,3720,3830
 JTK01,FA-CLHP-EM/14,PRESSTHENFILLINGPACKING,PR03,FA-CLHP-EM,"FA-CLHP-RP-EM3,8GR",FA-CLHP-BULK,Emina Cheek Lit Highlighter Powder Nudesparkle 3.8 g,Refill Press EMINA Cheek Lit Highlighter Powder Nudesparkle,Cheek Lit Highlighter Powder,SECONDARY_LINE,1,14,14,14,3040,3131
 JTK01,FA-CLHP-EM/9,PRESSTHENFILLINGPACKING,PR03,FA-CLHP-EM,"FA-CLHP-RP-EM3,8GR",FA-CLHP-BULK,Emina Cheek Lit Highlighter Powder Nudesparkle 3.8 g,Refill Press EMINA Cheek Lit Highlighter Powder Nudesparkle,Cheek Lit Highlighter Powder,NOMINAL_LINE,1,9,9,9,1600,1648
 JTK02,HT-P1SEL2-P450/100,STD,LR15,HT-P1SEL2-P450,,HT-SPAEL-BULK,"Hair Tonic SPA Energizing Lemon, 450 ml",,Hair Tonic Spa Energizing Lemon Bulk (Kg),SECONDARY_LINE,1,100,100,95,216,227
 JTK02,HT-P1SEL2-P450/50,STD,LR15,HT-P1SEL2-P450,,HT-SPAEL-BULK,"Hair Tonic SPA Energizing Lemon, 450 ml",,Hair Tonic Spa Energizing Lemon Bulk (Kg),NOMINAL_LINE,1,50,50,48,96,125
 JTK02,HT-P1SEL2-P450/50,STD,LR15,HT-P1SEL2-P450,,HT-SPAEL-BULK,"Hair Tonic SPA Energizing Lemon, 450 ml",,Hair Tonic Spa Energizing Lemon Bulk (Kg),NOMINAL_LINE,1,50,50,48,96,125
-JTK02,FM-CMB-EM/500,STD,LR15,FM-CMB-EM,,FM-CMB-BULK,Emina Clay Mask Brightening 60 ml,,Face Mask Clay Mask Brightening,NOMINAL_LINE,1,500,500,476,5328,5485
 JTK02,FM-CMB-EM/120,STD,LR15,FM-CMB-EM,,FM-CMB-BULK,Emina Clay Mask Brightening 60 ml,,Face Mask Clay Mask Brightening,SECONDARY_LINE,1,120,120,105,322,422
+JTK02,FM-CMB-EM/500,STD,LR15,FM-CMB-EM,,FM-CMB-BULK,Emina Clay Mask Brightening 60 ml,,Face Mask Clay Mask Brightening,NOMINAL_LINE,1,500,500,476,5328,5485
 JTK06,MY-LCUSH02-EM/0,STD,RR01,MY-LCUSH02-EM,,,Malaysia Emina Lip Cushion 02. Be Cherry 9 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,MY-FWBSACNE-EM/0,STD,RR01,MY-FWBSACNE-EM,,,Malaysia Emina Bright Stuff for Acne Prone Skin Face Wash 100 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,MY-SRMRIH-W/300,STD,LR15,MY-SRMRIH-W,,SRM-RIH-BULK,Malaysia Wardah Hydra Rose Micro Gel Serum 30 ml,,Wardah Hydra Rose Micro Gel Serum,NOMINAL_LINE,1,300,300,270,8280,8694
@@ -2156,9 +2100,9 @@ JTK01,B-IPQSP11-W/100,STD,PR01,B-IPQSP11-W,,B-IPQSP11-BULK,Instaperfect QUICKMAT
 JTK01,B-IPQSP11-W/80,STD,PR01,B-IPQSP11-W,,B-IPQSP11-BULK,Instaperfect QUICKMATTE Loose Powder 11 Fair Pink 9 g,,Instaperfect QUICKMATTE Loose Powder 11 Fair Pink,SECONDARY_LINE,1,80,80,80,8160,8405
 JTK01,B-IPQSP11-W/20,STD,PR01,B-IPQSP11-W,,B-IPQSP11-BULK,Instaperfect QUICKMATTE Loose Powder 11 Fair Pink 9 g,,Instaperfect QUICKMATTE Loose Powder 11 Fair Pink,NOMINAL_LINE,1,20,20,20,2016,2076
 JTK06,P-SH-L/0,STD,RR01,P-SH-L,,,LABORÉ Hydrated Barrier Package,,,NOMINAL_LINE,,0,0,0,255,255
+JTK02,F-LUC07-MO33ML/150,STD,LR15,F-LUC07-MO33ML,,F-LUC07-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 07 Caramel 33 ml (pc(s)),,Ultra Cover Liquid Matt Foundation 07 Caramel Bulk,SECONDARY_LINE,1,150,150,135,3620,3801
 JTK02,F-LUC07-MO33ML/120,STD,LR15,F-LUC07-MO33ML,,F-LUC07-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 07 Caramel 33 ml (pc(s)),,Ultra Cover Liquid Matt Foundation 07 Caramel Bulk,SECONDARY_LINE,1,120,120,116,2698,2798
 JTK02,F-LUC07-MO33ML/30,STD,LR04,F-LUC07-MO33ML,,F-LUC07-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 07 Caramel 33 ml (pc(s)),,Ultra Cover Liquid Matt Foundation 07 Caramel Bulk,NOMINAL_LINE,1,30,30,29,620,720
-JTK02,F-LUC07-MO33ML/150,STD,LR15,F-LUC07-MO33ML,,F-LUC07-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 07 Caramel 33 ml (pc(s)),,Ultra Cover Liquid Matt Foundation 07 Caramel Bulk,SECONDARY_LINE,1,150,150,135,3620,3801
 JTK02,HC-P1F-P200/300,STD,LR15,HC-P1F-P200,,HC-F-BULK,Putri Pure Clean Hair Conditioner Floral 200 ML (Pc(s)),,Bulk Hair Conditioner Floral,NOMINAL_LINE,1,300,300,300,1327,1427
 JTK02,HC-P1F-P200/300,STD,LR15,HC-P1F-P200,,HC-F-BULK,Putri Pure Clean Hair Conditioner Floral 200 ML (Pc(s)),,Bulk Hair Conditioner Floral,NOMINAL_LINE,1,300,300,300,1327,1427
 JTK01,MY-RTCIPMFPF14-W/10,STD,PR01,MY-RTCIPMFPF14-W,,TC-IPMFPF14-BULK,Malaysia Wardah Instaperfect MATTE FIT Powder Foundation 14 CRÉME13 g,,Instaperfect MATTE FIT Powder Foundation 14 Creme,NOMINAL_LINE,1,10,10,10,581,598
@@ -2179,8 +2123,8 @@ JTK04,WARN-C338073-MONEL/1,SFGBulk,SR03,WARN-C338073-MONEL,,,Monokrom Elastomer 
 JTK01,TC-RR3LLF07-W/60,STD,PR01,TC-RR3LLF07-W,,TC-R3LLF07-BULK,Wardah Refill Lightening Powder Foundation Light Feel 07 Honey Beige 12 g,,Wardah Lightening Powder Foundation Light Feel 07 Honey Beige,NOMINAL_LINE,1,60,60,60,4464,4598
 JTK01,TC-RR3LLF07-W/20,STD,PR01,TC-RR3LLF07-W,,TC-R3LLF07-BULK,Wardah Refill Lightening Powder Foundation Light Feel 07 Honey Beige 12 g,,Wardah Lightening Powder Foundation Light Feel 07 Honey Beige,SECONDARY_LINE,1,20,20,20,1440,1483
 JTK06,L-NFSEMLB05-W/0,STD,RR01,L-NFSEMLB05-W,,,Sample Pajangan Wardah NFS Exclusive Matte Lip Cream Blister 05 Speachless 4 g,,,NOMINAL_LINE,,0,0,0,4023,4104
-JTK02,FT-SBFT-EM/1000,STD,LR02,FT-SBFT-EM,,FT-SBFT-BULK,Emina Skin Buddy Face Toner 100 ml,,Emina Skin Buddy Face Toner Bulk,SECONDARY_LINE,1,1000,1000,985,9655,9945
 JTK02,FT-SBFT-EM/1000,STD,LR15,FT-SBFT-EM,,FT-SBFT-BULK,Emina Skin Buddy Face Toner 100 ml,,Emina Skin Buddy Face Toner Bulk,NOMINAL_LINE,1,1000,1000,985,9655,9945
+JTK02,FT-SBFT-EM/1000,STD,LR02,FT-SBFT-EM,,FT-SBFT-BULK,Emina Skin Buddy Face Toner 100 ml,,Emina Skin Buddy Face Toner Bulk,SECONDARY_LINE,1,1000,1000,985,9655,9945
 JTK01,TC-RPMN30-MO/350,STD,PR01,TC-RPMN30-MO,,TC-RPMN30-BULK,MAKE OVER Powerstay 24H Matte Powder Foundation N30 Natural Beige 12 g,,MAKE OVER Powerstay 24H Matte Powder Foundation N30 Natural Beige,SECONDARY_LINE,1,350,350,350,26928,27736
 JTK01,TC-RPMN30-MO/300,STD,PR01,TC-RPMN30-MO,,TC-RPMN30-BULK,MAKE OVER Powerstay 24H Matte Powder Foundation N30 Natural Beige 12 g,,MAKE OVER Powerstay 24H Matte Powder Foundation N30 Natural Beige,SECONDARY_LINE,1,300,300,300,23808,24522
 JTK01,TC-RPMN30-MO/100,STD,PR01,TC-RPMN30-MO,,TC-RPMN30-BULK,MAKE OVER Powerstay 24H Matte Powder Foundation N30 Natural Beige 12 g,,MAKE OVER Powerstay 24H Matte Powder Foundation N30 Natural Beige,SECONDARY_LINE,1,100,100,100,7692,7846
@@ -2213,8 +2157,8 @@ JTK04,EB-EK-W3G/35,COPACKING2FACTORY,SR05,EB-EK-W3G,EB-EK-DB-RP-W1.1GR,EB-DK-DB-
 JTK01,EB-EK-W3G/14,COPACKING2FACTORY,PR14,EB-EK-W3G,EB-EK-DB-RP-W1.1GR,EB-DK-DB-BULK,Wardah EyeXpert Eyebrow Kit 3 g (Pc(s)),Refill Press Wardah EyeXpert Eyebrow Kit Dark Brown,Eyebrow Definition Kit Dark Brown,SECONDARY_LINE,1,14,7,7,4000,4500
 JTK04,EB-EK-W3G/25,COPACKING2FACTORY,SR09,EB-EK-W3G,,EB-EKC-BULK,Wardah EyeXpert Eyebrow Kit 3 g (Pc(s)),,EyeXpert Eyebrow Kit (Concealer),NOMINAL_LINE,1,25,5,5,3996,4080
 JTK06,L-NFSEMLB09-W/0,STD,RR01,L-NFSEMLB09-W,,,Sample Pajangan Wardah NFS Exclusive Matte Lip Cream Blister 09 Mauve On ! 4 g,,,NOMINAL_LINE,,0,0,0,4023,4104
-JTK02,MUR-DIS-EM50ML/160,MULTIPLEBULK,LR15,MUR-DIS-EM50ML,,MUR-DISB-BULK,Emina Dirt-less In Sight Make Up Remover 50 ml (Pc(s)),,Dirt-Less In Sight Make Up Remover Fase B Bulk,NOMINAL_LINE,2,160,80,80,2856,2956
 JTK02,MUR-DIS-EM50ML/160,MULTIPLEBULK,LR15,MUR-DIS-EM50ML,,MUR-DISA-BULK,Emina Dirt-less In Sight Make Up Remover 50 ml (Pc(s)),,Dirt-Less In Sight Make Up Remover Fase A Bulk,NOMINAL_LINE,1,160,80,80,2856,2956
+JTK02,MUR-DIS-EM50ML/160,MULTIPLEBULK,LR15,MUR-DIS-EM50ML,,MUR-DISB-BULK,Emina Dirt-less In Sight Make Up Remover 50 ml (Pc(s)),,Dirt-Less In Sight Make Up Remover Fase B Bulk,NOMINAL_LINE,2,160,80,80,2856,2956
 JTK02,BUT-W0LG-W50ML/200,STD,LR15,BUT-W0LG-W50ML,,BUT-W0LG-BULK,Wardah Creamy Body Butter With Lavender & Ginger 50 ml (pc(s)),,Lavender & Ginger Body Butter Bulk,NOMINAL_LINE,1,200,200,200,3616,3776
 JTK02,F-RVLPWW32-MO/200,STD,LR04,F-RVLPWW32-MO,,F-RVLPWW32-BULK,MAKE OVER Powerstay 24H Weightless Liquid Foundation W32 Warm Beige 33 ml,,MAKE OVER Powerstay 24H Weightless Liquid Foundation W32 Warm Beige,NOMINAL_LINE,1,200,200,200,4225,4352
 JTK02,F-RVLPWW32-MO/120,STD,LR04,F-RVLPWW32-MO,,F-RVLPWW32-BULK,MAKE OVER Powerstay 24H Weightless Liquid Foundation W32 Warm Beige 33 ml,,MAKE OVER Powerstay 24H Weightless Liquid Foundation W32 Warm Beige,SECONDARY_LINE,1,120,120,105,2065,2130
@@ -2299,7 +2243,6 @@ JTK01,TC-R3LLF04-W/100,STD,PR01,TC-R3LLF04-W,,TC-R3LLF04-BULK,Wardah Lightening 
 JTK02,HBW-TBWN3C-BD/175,STD,LR15,HBW-TBWN3C-BD,,HBW-TBWC-BULK,TESTER Biodef Natural Protection Mint + Green Tea Body Wash 60 ml,,Tester Biodef Natural Protection Mint + Green Tea Body Wash,NOMINAL_LINE,1,175,175,170,2345,2540
 JTK04,L-PTMC07-MO/45,STD,SR09,L-PTMC07-MO,,L-PTMC07-BULK,MAKE OVER Powerstay Transferproof Matte Lip Cream B07 Amplify 7 g,,Make Over Powerstay Transferproof Matte Lip Cream B07 Amplify,SECONDARY_LINE,1,45,45,44,5744,5916
 JTK04,L-PTMC07-MO/15,STD,SR09,L-PTMC07-MO,,L-PTMC07-BULK,MAKE OVER Powerstay Transferproof Matte Lip Cream B07 Amplify 7 g,,Make Over Powerstay Transferproof Matte Lip Cream B07 Amplify,NOMINAL_LINE,1,15,15,14,1870,1926
-JTK02,HBW-BWN5A-BD/1000,STD,LR02,HBW-BWN5A-BD,,HBW-BW-BULK,Biodef Natural Protection Mint + Sea Salt Body Wash Antiseptik Alami Botol 550 ml,,Biodef Natural Protection Mint + Sea Salt Body Wash Antiseptik Alami,NOMINAL_LINE,1,1000,1000,970,0,0
 JTK01,TC-CPLS03-W/20,STD,PR01,TC-CPLS03-W,,TC-CPLS03-BULK,Wardah CRYSTALLURE Precious Luminizing Silk Powder Foundation 13 BEIGE 12 g,,WARDAH CRYSTALLURE Precious Luminizing Silk Powder Foundation 13 BEIGE,NOMINAL_LINE,1,20,20,20,1536,1590
 JTK06,MY-TESM-W3.3G/0,STD,RR01,MY-TESM-W3.3G,,,Wardah Tester Eye Shadow M 3.3 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,L-W2TE21-W3.8GR/0,STD,RR01,L-W2TE21-W3.8GR,,,Wardah Tester Container Exclusive Lipstick 21 Orchid Pink 3.8 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
@@ -2314,13 +2257,13 @@ JTK02,FW-PBCFLS100-W/3000,STD,LR01,FW-PBCFLS100-W,,FW-PBCFLS-BULK,Wardah Perfect
 JTK02,BBC-LN-W15ML/500,STD,LR01,BBC-LN-W15ML,,BBC-LN-BULK,Wardah Lightening BB Cream Natural 15 ml (pc(s)),,Lightening BB Cream Natural Bulk,NOMINAL_LINE,1,500,500,500,28550,29410
 JTK06,MY-LEMC10-W4G/0,STD,RR01,MY-LEMC10-W4G,,,Malaysia Wardah Exclusive Matte Lip Cream 10 Berry Pretty 4 g (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,M-RPBNS-W20ML/1000,STD,LR15,M-RPBNS-W20ML,,M-RPBNS-BULK,Wardah Perfect Bright Moisturizer Normal Skin 20 ml (Pc(s)),,Wardah Perfect Bright Moisturizer Normal Skin Bulk,NOMINAL_LINE,1,1000,1000,1000,43380,44380
-JTK02,F-LUC03-MO33ML/240,STD,LR05,F-LUC03-MO33ML,,F-LUC03-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 03 Nude Silk 33 ml (pc(s)),,Ultra Cover Liquid Matt Foundation 03 Nude Silk Bulk,SECONDARY_LINE,1,240,240,240,5780,6517
 JTK02,F-LUC03-MO33ML/240,STD,LR15,F-LUC03-MO33ML,,F-LUC03-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 03 Nude Silk 33 ml (pc(s)),,Ultra Cover Liquid Matt Foundation 03 Nude Silk Bulk,NOMINAL_LINE,1,240,240,240,5780,6517
+JTK02,F-LUC03-MO33ML/240,STD,LR05,F-LUC03-MO33ML,,F-LUC03-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 03 Nude Silk 33 ml (pc(s)),,Ultra Cover Liquid Matt Foundation 03 Nude Silk Bulk,SECONDARY_LINE,1,240,240,240,5780,6517
 JTK02,F-LUC03-MO33ML/200,STD,LR15,F-LUC03-MO33ML,,F-LUC03-BULK,MAKE OVER Ultra Cover Liquid Matt Foundation 03 Nude Silk 33 ml (pc(s)),,Ultra Cover Liquid Matt Foundation 03 Nude Silk Bulk,SECONDARY_LINE,1,200,200,194,4920,5767
 JTK06,L-W2TEMC03-W4GR/0,STD,RR01,L-W2TEMC03-W4GR,,,Wardah Tester Exclusive Matte Lip Cream 03 See You Latte 4 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,FW-CSGC01-B/1000,STD,LR01,FW-CSGC01-B,,FW-CSGC-BULK,Beyondly Glowlasting Collagen Cleanser,,Beyondly Glowlasting Collagen Cleanser,NOMINAL_LINE,1,1000,1000,970,9455,9740
-JTK06,P-WSW-W/0,STD,RR01,P-WSW-W,,,Wardah Bundling White Secret - Watson,,,NOMINAL_LINE,,0,0,0,912,912
 JTK06,MY-LGS03-EM/0,STD,RR01,MY-LGS03-EM,,,Malaysia Emina Glossy Stain 03 Candy Rain 3 g,,,NOMINAL_LINE,,0,0,0,1,1
+JTK06,P-WSW-W/0,STD,RR01,P-WSW-W,,,Wardah Bundling White Secret - Watson,,,NOMINAL_LINE,,0,0,0,912,912
 JTK06,TC-TLLFB4C1-W12G/0,STD,RR01,TC-TLLFB4C1-W12G,,,Wardah Tester Container Lightening Two Way Cake Light Feel 01 Light Beige 12 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,L-CLCLS3-W/400,STD,LR05,L-CLCLS3-W,,L-CLCLS3-BULK,Wardah Colorfit Fresh Matte Lip Ink 03 High Rise 4 g,,Wardah Colorfit Fresh Matte Lip Ink 03 High Rise,SECONDARY_LINE,1,400,400,375,89548,90548
 JTK02,L-CLCLS3-W/400,STD,LR05,L-CLCLS3-W,,L-CLCLS3-BULK,Wardah Colorfit Fresh Matte Lip Ink 03 High Rise 4 g,,Wardah Colorfit Fresh Matte Lip Ink 03 High Rise,SECONDARY_LINE,1,400,400,375,89548,90548
@@ -2346,7 +2289,6 @@ JTK06,L-W2TM02-W3.8GR/0,STD,RR01,L-W2TM02-W3.8GR,,,Wardah Tester Container Matte
 JTK06,BO-W2TC-W4GR/0,STD,RR01,BO-W2TC-W4GR,,,Wardah Tester Container Blush On Seri C 4 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK01,TWC-CLFTRF-W/20,STD,PR01,TWC-CLFTRF-W,,TWC-CLFTF-BULK,Wardah Colorfit Velvet Powder Foundation Refill 43W Golden Sand 11 g,,Colorfit Velvet Powder Foundation 43W Golden Sand,NOMINAL_LINE,1,20,20,20,1548,1600
 JTK06,MY-FWRYAG-W100ML/0,STD,RR01,MY-FWRYAG-W100ML,,,Malaysia Wardah Renew You Anti Aging Facial Wash 100 ml,,,NOMINAL_LINE,,0,0,0,1,1
-JTK02,HBW-EB-KA/3000,STD,LR15,HBW-EB-KA,,HBW-EB-BULK,Kahf Brightening and Cooling Body Wash 200 ml,,Kahf Brightening and Cooling Body Wash,NOMINAL_LINE,1,3000,3000,2910,13973,14390
 JTK01,DUSS-PMFW22R0-MO/0,SFGPack,PR16,DUSS-PMFW22R0-MO,,,Dus Sticker Powerstay Matte Powder Foundation W22 MO,,,NOMINAL_LINE,,0,0,0,4320,4450
 JTK02,SS-UVSAFE-W/1000,STD,LR02,SS-UVSAFE-W,,SS-UVSAFE-BULK,Wardah UV Shield Aqua Fresh Essence SPF 50 30 ml,,Wardah UV Shield Aqua Fresh Essence SPF 50,NOMINAL_LINE,1,1000,1000,1000,30558,31475
 JTK04,DUSS-EMLC16H-W/0,SFGPack,SR12,DUSS-EMLC16H-W,,,Dus Sticker Exclusive Matte Lip Cream 16 (Hologram) W,,,NOMINAL_LINE,1,0,0,0,18688,18688
@@ -2453,8 +2395,6 @@ JTK01,TC-RPMW30-MO/10,STD,PR01,TC-RPMW30-MO,,TC-RPMW30-BULK,MAKE OVER Powerstay 
 JTK02,DUSS-LBBCL30R1-WM/0,SFGPack,LR13,DUSS-LBBCL30R1-WM,,,Dus Sticker LBBC Light 30 R1 WM,,,NOMINAL_LINE,,0,0,0,1,1
 JTK04,BOTP-CVMPB11R0-W/0,SFGPack,SR12,BOTP-CVMPB11R0-W,,,Bottle CVM Lip Mousse Printed Barmark 11 W,,,NOMINAL_LINE,,0,0,0,9986,9986
 JTK06,M-W2AGDC-W30GR/0,STD,RR01,M-W2AGDC-W30GR,,,Wardah Tester Renew You Anti Aging Day Cream 30 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
-JTK01,TC-R2RE03-W/300,STD,PR01,TC-R2RE03-W,,TC-PC03-BULK,Wardah Refill Exclusive Two Way Cake 03 Sandy Beige 12 g,,PERFECT COVER TWC 03 MAPLE,SECONDARY_LINE,1,300,300,300,21240,21877
-JTK01,TC-R2RE03-W/100,STD,PR01,TC-R2RE03-W,,TC-PC03-BULK,Wardah Refill Exclusive Two Way Cake 03 Sandy Beige 12 g,,PERFECT COVER TWC 03 MAPLE,NOMINAL_LINE,1,100,100,100,7020,7230
 JTK02,F-RVLPWC41-MO/200,STD,LR04,F-RVLPWC41-MO,,F-RVLPWC41-BULK,MAKE OVER Powerstay 24H Weightless Liquid Foundation C41 Cool Sand 33 ml,,MAKE OVER Powerstay 24H Weightless Liquid Foundation C41 Cool Sand,NOMINAL_LINE,1,200,200,200,4225,4352
 JTK02,F-RVLPWC41-MO/30,STD,LR04,F-RVLPWC41-MO,,F-RVLPWC41-BULK,MAKE OVER Powerstay 24H Weightless Liquid Foundation C41 Cool Sand 33 ml,,MAKE OVER Powerstay 24H Weightless Liquid Foundation C41 Cool Sand,SECONDARY_LINE,1,30,30,26,439,450
 JTK04,LB-EVFSGSE-W/66,STD,SR09,LB-EVFSGSE-W,,LB-EVFSG-BULK,Wardah Everyday Fruity Sheer Lip Balm Picnic Edition Grape 4 g,,Wardah Everyday Fruity Sheer Lip Balm Grape,NOMINAL_LINE,1,66,66,64.5,14736,15178
@@ -2614,8 +2554,6 @@ JTK06,MY-MABSE-EM/0,STD,RR01,MY-MABSE-EM,,,Malaysia Emina Bright Stuff Essence S
 JTK06,SRM-TWSPTE-W100ML/0,STD,RR01,SRM-TWSPTE-W100ML,,,Wardah Tester White Secret Pure Treatment Essence 100 ml (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,CUS-DM01-EM/400,STD,LR05,CUS-DM01-EM,,CUS-DM01-BULK,Emina Daily Matte Cushion C01 Light 15 g,,EMINA Daily Matte Cushion C01 Light,NOMINAL_LINE,1,400,400,375,23125,23820
 JTK02,CUS-DM01-EM/150,STD,LR04,CUS-DM01-EM,,CUS-DM01-BULK,Emina Daily Matte Cushion C01 Light 15 g,,EMINA Daily Matte Cushion C01 Light,SECONDARY_LINE,1,150,150,135,7687,7920
-JTK01,TC-RR3LLF03-W/350,STD,PR01,TC-RR3LLF03-W,,TC-R3LLF03-BULK,Wardah Refill Lightening Powder Foundation Light Feel 03 Sheer Pink 12 g,,Wardah Lightening Powder Foundation Light Feel 03 Sheer Pink,NOMINAL_LINE,1,350,350,350,26208,26994
-JTK01,TC-RR3LLF03-W/100,STD,PR01,TC-RR3LLF03-W,,TC-R3LLF03-BULK,Wardah Refill Lightening Powder Foundation Light Feel 03 Sheer Pink 12 g,,Wardah Lightening Powder Foundation Light Feel 03 Sheer Pink,SECONDARY_LINE,1,100,100,100,7606,7834
 JTK04,L-UHFF015-MO2.3G/5,STD,SR09,L-UHFF015-MO2.3G,,L-UHFF015-BULK,MAKE OVER Ultra Hi-Matte Lipstick 015 Fame Fatale 2.3 g (Pc(s)),,MAKE OVER Ultra Hi-Matte Lipstick 015 Fame Fatale Bulk,SECONDARY_LINE,1,5,5,4.75,1524,1554
 JTK04,L-UHFF015-MO2.3G/3,STD,SR09,L-UHFF015-MO2.3G,,L-UHFF015-BULK,MAKE OVER Ultra Hi-Matte Lipstick 015 Fame Fatale 2.3 g (Pc(s)),,MAKE OVER Ultra Hi-Matte Lipstick 015 Fame Fatale Bulk,NOMINAL_LINE,1,3,3,2.75,1008,1038
 JTK02,MY-MRHDGN1-W/1000,STD,LR15,MY-MRHDGN1-W,,M-RHDG-BULK,Malaysia Wardah Hydra Rose Dewy Aqua Day Gel 40 g,,Wardah Hydra Rose Dewy Aqua Day Gel,SECONDARY_LINE,1,1000,1000,970,22942,25000
@@ -2624,7 +2562,6 @@ JTK06,MY-MRHDGN1-W/0,STD,RR01,MY-MRHDGN1-W,,,Malaysia Wardah Hydra Rose Dewy Aqu
 JTK02,CUS-IPA-W/120,STD,LR04,CUS-IPA-W,,CUS-IPA-BULK,Instaperfect Skincover Air Cushion 11 Fair Pink 11 g,,Instaperfect Skincover Air Cushion 11 Fair Pink,SECONDARY_LINE,1,120,120,105,7824,7978
 JTK02,CUS-IPA-W/50,STD,LR04,CUS-IPA-W,,CUS-IPA-BULK,Instaperfect Skincover Air Cushion 11 Fair Pink 11 g,,Instaperfect Skincover Air Cushion 11 Fair Pink,NOMINAL_LINE,1,50,50,43,2666,2750
 JTK01,ES-PGA-MO2G/1,STD,PR01,ES-PGA-MO2G,,ES-PGA-BULK,MAKE OVER Powder Eye Shadow Golden Attack 2 g (Pc(s)),,Powder Eye Shadow Golden Attack,NOMINAL_LINE,1,1,1,1,432,445
-JTK01,B-W3ELFP03-W30G/100,STD,PR01,B-W3ELFP03-W30G,,B-W1T3LFP03-BULK,Wardah Evd Lum Face Powder 03 Ivory 30 g (Pc(s)),,Luminous Face Powder 03,NOMINAL_LINE,1,100,100,100,3120,3214
 JTK01,B-IPQSP16-W/60,STD,PR01,B-IPQSP16-W,,B-IPQSP16-BULK,Instaperfect QUICKMATTE Loose Powder 52 Almond 9 g,,Instaperfect QUICKMATTE Loose Powder 52 Almond,SECONDARY_LINE,1,60,60,60,6096,6279
 JTK01,B-IPQSP16-W/10,STD,PR01,B-IPQSP16-W,,B-IPQSP16-BULK,Instaperfect QUICKMATTE Loose Powder 52 Almond 9 g,,Instaperfect QUICKMATTE Loose Powder 52 Almond,NOMINAL_LINE,1,10,10,10,1008,1038
 JTK02,CUS-HLGCC41-MO/50,STD,LR04,CUS-HLGCC41-MO,,CUS-HLGCC41-BULK,MAKE OVER Hydrastay Lite Glow Cushion C41 Cool Sand 15 g,,MAKE OVER Hydrastay Lite Glow Cushion C41 Cool Sand,SECONDARY_LINE,1,50,50,43,2423,2738
@@ -2687,10 +2624,10 @@ JTK06,MY-LREMO41-W/0,STD,RR01,MY-LREMO41-W,,,Malaysia Wardah Exclusive Moist Lip
 JTK01,B-IPQSP14-W/80,STD,PR01,B-IPQSP14-W,,B-IPQSP14-BULK,Instaperfect QUICKMATTE Loose Powder 33 Warm Olive 9 g,,Instaperfect QUICKMATTE Loose Powder 33 Warm Olive,SECONDARY_LINE,1,80,80,80,8160,8405
 JTK01,B-IPQSP14-W/20,STD,PR01,B-IPQSP14-W,,B-IPQSP14-BULK,Instaperfect QUICKMATTE Loose Powder 33 Warm Olive 9 g,,Instaperfect QUICKMATTE Loose Powder 33 Warm Olive,NOMINAL_LINE,1,20,20,20,2016,2076
 JTK02,FW-RPBCFLS50-W/3000,STD,LR02,FW-RPBCFLS50-W,,FW-RPBCFLS-BULK,Wardah Perfect Bright Creamy Foam Bright + Smooth Glow 50 ml,,Wardah Perfect Bright Creamy Foam Bright + Smooth Glow,NOMINAL_LINE,1,3000,3000,2970,54936,59380
-JTK02,EO-BORF01-B/0,STD,LR06,EO-BORF01-B,,EO-BORF-BULK,Beyondly Essential Blend Oil Roomify 10 ml,,Beyondly Essential Oil Roomify,SECONDARY_LINE,,0,0,0,2555,2600
-JTK02,EB-DMCC-MO/30,STD,LR16,EB-DMCC-MO,,EB-DMCC-BULK,MAKE OVER Powerstay Brow Definer Mascara 03 Coffee Cream 6.5 g,,Powerstay Brow Definer Mascara 03 Coffee Cream,NOMINAL_LINE,1,30,30,30,3600,3960
 JTK02,EO-BORF01-B/25,STD,LR11,EO-BORF01-B,,EO-BORF-BULK,Beyondly Essential Blend Oil Roomify 10 ml,,Beyondly Essential Oil Roomify,NOMINAL_LINE,1,25,25,25,2555,2600
 JTK02,EO-BORF01-B/25,STD,LR18,EO-BORF01-B,,,Beyondly Essential Blend Oil Roomify 10 ml,,,SECONDARY_LINE,1,25,25,25,0,0
+JTK02,EO-BORF01-B/0,STD,LR06,EO-BORF01-B,,EO-BORF-BULK,Beyondly Essential Blend Oil Roomify 10 ml,,Beyondly Essential Oil Roomify,SECONDARY_LINE,,0,0,0,2555,2600
+JTK02,EB-DMCC-MO/30,STD,LR16,EB-DMCC-MO,,EB-DMCC-BULK,MAKE OVER Powerstay Brow Definer Mascara 03 Coffee Cream 6.5 g,,Powerstay Brow Definer Mascara 03 Coffee Cream,NOMINAL_LINE,1,30,30,30,3600,3960
 JTK06,TC-W2TELI3-W12G/0,STD,RR01,TC-W2TELI3-W12G,,,Wardah Tester Container Evd Lum Two Way Cake 03 Ivory 12 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK01,TC-RLPGBB02-W11GR/20,STD,PR01,TC-RLPGBB02-W11GR,,TC-LPGBB02-BULK,Wardah Refill Lightening BB Cake Powder 02 Sheer Pink 11 gr,,Lightening BB Cake Powder 02 Sheer Pink,NOMINAL_LINE,1,20,20,20,1402,1444
 JTK02,EC-RRYAG-W/200,STD,LR15,EC-RRYAG-W,,EC-RRYAG-BULK,Wardah Renew You Eye Cream 10 g (Pc(s)),,Wardah Renew You Eye Cream,NOMINAL_LINE,1,200,200,185,15120,16800
@@ -2733,13 +2670,13 @@ JTK01,ES-EP02-W/73,COPACKING,PR03,ES-EP02-W,ES-EP02-W-02-RP-W1GR,ES-EP02-W-02-BU
 JTK01,ES-EP02-W/73,COPACKING,PR03,ES-EP02-W,ES-EP02-W-01-RP-W1GR,ES-EP02-W-01-BULK,Wardah Exclusive Eyeshadow Palette 02 Rose Glow 10 g,Refill Press Exclusive Eye Shadow Palette 02 Rose Glow 01,Exclusive Eye Shadow Palette 02 Rose Glow 01,NOMINAL_LINE,1,73,9,9,4428,4561
 JTK02,BBC-LL-W30ML/500,STD,LR01,BBC-LL-W30ML,,BBC-LL-BULK,Wardah Lightening BB Cream Light 30 ml (Pc(s)),,Lightening BB Cream Light,NOMINAL_LINE,1,500,500,475,14977,15430
 JTK02,BBC-LL-W30ML/200,STD,LR01,BBC-LL-W30ML,,BBC-LL-BULK,Wardah Lightening BB Cream Light 30 ml (Pc(s)),,Lightening BB Cream Light,SECONDARY_LINE,1,200,200,200,5644,5810
-JTK04,WARN-CB338073-BULK/25,SFGBulk,SR03,WARN-CB338073-BULK,,,Color Base C33-8073,,,NOMINAL_LINE,1,25,25,24,0,0
 JTK04,WARN-CB338073-BULK/2,SFGBulk,SR03,WARN-CB338073-BULK,,,Color Base C33-8073,,,NOMINAL_LINE,1,2,2,1.75,0,0
 JTK04,WARN-CB338073-BULK/1,SFGBulk,SR03,WARN-CB338073-BULK,,,Color Base C33-8073,,,NOMINAL_LINE,1,1,1,0.75,0,0
 JTK04,WARN-CB338073-BULK/1,SFGBulk,SR03,WARN-CB338073-BULK,,,Color Base C33-8073,,,NOMINAL_LINE,1,1,1,0.75,0,0
+JTK04,WARN-CB338073-BULK/25,SFGBulk,SR03,WARN-CB338073-BULK,,,Color Base C33-8073,,,NOMINAL_LINE,1,25,25,24,0,0
 JTK02,MA-MSAR-W/1000,STD,LR15,MA-MSAR-W,,MA-MSAR-BULK,Wardah Acnederm SuperSerum Mask 20 ml,,Wardah Acnederm SuperSerum Mask,NOMINAL_LINE,1,1000,1000,970,44805,47045
 JTK01,TWC-CLFTG-W/100,STD,PR01,TWC-CLFTG-W,,TWC-CLFTG-BULK,Wardah Colorfit Velvet Powder Foundation 42N Neutral Sand 11 g,,Colorfit Velvet Powder Foundation 42N Neutral Sand,SECONDARY_LINE,1,100,100,100,7668,7898
-JTK01,TWC-CLFTG-W/20,STD,PR01,TWC-CLFTG-W,,TWC-CLFTG-BULK,Wardah Colorfit Velvet Powder Foundation 42N Neutral Sand 11 g,,Colorfit Velvet Powder Foundation 42N Neutral Sand,NOMINAL_LINE,1,20,20,20,1458,1502
+JTK01,TWC-CLFTG-W/20,STD,PR01,TWC-CLFTG-W,,TWC-CLFTG-BULK,Wardah Colorfit Velvet Powder Foundation 42N Neutral Sand 11 g,,Colorfit Velvet Powder Foundation 42N Neutral Sand,NOMINAL_LINE,1,20,20,20,1476,1520
 JTK02,SS-SBSP30-EM/1000,STD,LR15,SS-SBSP30-EM,,SS-SBSP30-BULK,Emina Skin Buddy Sun Protection SPF 30 PA+++ 60 ml,,Emina Skin Buddy Sun Protection SPF 30,SECONDARY_LINE,1,1000,1000,970,15813,16288
 JTK02,SS-SBSP30-EM/500,STD,LR15,SS-SBSP30-EM,,SS-SBSP30-BULK,Emina Skin Buddy Sun Protection SPF 30 PA+++ 60 ml,,Emina Skin Buddy Sun Protection SPF 30,NOMINAL_LINE,1,500,500,475,7164,7379
 JTK01,FA-CLFMDHCP-W/80,COPACKING2FACTORY,PR14,FA-CLFMDHCP-W,FA-CLFMDHCP-RP-W4GR,FA-CLFMDHCP-BULK,Wardah Colorfit Highlight Contour Palette 02 Medium,Refill Press Wardah Colorfit Highlight Contour Palette 02 Medium – Highlighter,Wardah Colorfit Highlight Contour Palette 02 Medium – Highlighter,SECONDARY_LINE,1,80,80,80,18432,18985
@@ -2761,9 +2698,9 @@ JTK02,WARN-TI---COATED PST/20,SFGBulk,LR19,WARN-TI---COATED PST,,,Warna Titan Co
 JTK02,WARN-TI---COATED PST/10,SFGBulk,LR19,WARN-TI---COATED PST,,,Warna Titan Coated pst (kg),,,NOMINAL_LINE,1,10,10,10,0,0
 JTK02,POTP-P2720REV1-P/0,SFGPack,LR13,POTP-P2720REV1-P,,,Pot Print Pustraite step II Rev-1  720 ml Putri,,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,EL-W2TESG-W2G/0,STD,RR01,EL-W2TESG-W2G,,,Wardah Tester Eyexpert Staylast Gel Eyeliner 2 g,,,NOMINAL_LINE,,0,0,0,1,1
-JTK06,FT-W2TL1-W150ML/0,STD,RR01,FT-W2TL1-W150ML,,,Wardah Lightening Face Toner Tester 150 ml (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,F-L03VC-OMG/600,STD,LR05,F-L03VC-OMG,,F-L03-BULK,OMG Oh My Glam Coverlast Liquid Foundation 31 W Beige,,OMG Oh My Glam Coverlast Liquid Foundation 31 W Beige,NOMINAL_LINE,1,600,600,570,20448,21066
 JTK02,F-L03VC-OMG/400,STD,LR05,F-L03VC-OMG,,F-L03-BULK,OMG Oh My Glam Coverlast Liquid Foundation 31 W Beige,,OMG Oh My Glam Coverlast Liquid Foundation 31 W Beige,SECONDARY_LINE,1,400,400,370,13804,14495
+JTK06,FT-W2TL1-W150ML/0,STD,RR01,FT-W2TL1-W150ML,,,Wardah Lightening Face Toner Tester 150 ml (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,F-NFSL03-W/0,STD,RR01,F-NFSL03-W,,,Sample Pajangan Wardah NFS Lightening Liquid Foundation 03. Ivory 25 ml (Blister),,,NOMINAL_LINE,,0,0,0,4104,4514
 JTK01,TC-R3LEC03-W/18,STD,PR01,TC-R3LEC03-W,,TC-R3LEC03-BULK,Wardah Lightening Powder Foundation Extra Cover 03 Sheer Pink 10 g,,Wardah Lightening Powder Foundation Extra Cover 03 Sheer Pink,NOMINAL_LINE,1,18,18,18,1404,1446
 JTK04,L-PS01-MO/100,STD,SR09,L-PS01-MO,,L-PS01-BULK,MAKE OVER Powerstay Superlast Lip Cream 01 6 g,,MAKE OVER Powerstay Superlast Lip Cream 01,NOMINAL_LINE,1,100,100,98,14846,15142
@@ -2774,7 +2711,7 @@ JTK06,MY-LTMPSG-EM/0,STD,RR01,MY-LTMPSG-EM,,,Malaysia Emina Magic Potion 02 Sung
 JTK06,FT-TP-W150ML/0,STD,RR01,FT-TP-W150ML,,,Wardah Tester Purifying Toner 150 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK01,TC-CCP-EM12GR/20,STD,PR01,TC-CCP-EM12GR,,TC-CCP-BULK,Emina City Chic CC Cake Peach 12 gr (Pc(s)),,City Chic CC Cake Peach (CKP),NOMINAL_LINE,1,20,20,20,1470,1514
 JTK04,L-REMA12-W/10,STD,SR09,L-REMA12-W,,L-REMA12-BULK,Wardah Exclusive Matte Lipstick 12 Maroon 3.5 g,,Wardah Exclusive Matte Lipstick 12 Maroon,NOMINAL_LINE,1,10,10,9.5,2016,2304
-JTK01,TWC-CLFTA-W/20,STD,PR01,TWC-CLFTA-W,,TWC-CLFTA-BULK,Wardah Colorfit Velvet Powder Foundation 11C Pink Fair 11 g,,Colorfit Velvet Powder Foundation 11C Pink Fair,NOMINAL_LINE,1,20,20,20,1458,1502
+JTK01,TWC-CLFTA-W/20,STD,PR01,TWC-CLFTA-W,,TWC-CLFTA-BULK,Wardah Colorfit Velvet Powder Foundation 11C Pink Fair 11 g,,Colorfit Velvet Powder Foundation 11C Pink Fair,NOMINAL_LINE,1,20,20,20,1476,1520
 JTK02,SRM-BSS-EM/1000,STD,LR15,SRM-BSS-EM,,SRM-BSS-BULK,Emina Bright Stuff Face Serum 30 ml,,EMINA Bright Stuff Face Serum Bulk,NOMINAL_LINE,1,1000,1000,970,31464,32408
 JTK02,SRM-BSS-EM/300,STD,LR15,SRM-BSS-EM,,SRM-BSS-BULK,Emina Bright Stuff Face Serum 30 ml,,EMINA Bright Stuff Face Serum Bulk,SECONDARY_LINE,1,300,300,280,9108,9382
 JTK04,L-PTMCI-MO/15,STD,SR09,L-PTMCI-MO,,L-PTMCI-BULK,MAKE OVER Powerstay Transferproof Matte Lip Cream 50 Chosen 7 g,,MAKE OVER Powerstay Transferproof Matte Lip Cream 50 Chosen,NOMINAL_LINE,1,15,15,14,1870,1926
@@ -2870,7 +2807,6 @@ JTK06,B-W2TELFP02-W30GR/0,STD,RR01,B-W2TELFP02-W30GR,,,Wardah Tester Container E
 JTK06,REM-W2TEEM-W100ML/0,STD,RR01,REM-W2TEEM-W100ML,,,Wardah Tester EyeXpert Eye & Lip Makeup Remover 100 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,CUS-IPB-W/150,STD,LR04,CUS-IPB-W,,CUS-IPB-BULK,Instaperfect Skincover Air Cushion 22 Light Ivory 11 g,,Instaperfect Skincover Air Cushion 22 Light Ivory,SECONDARY_LINE,1,150,150,135,10332,10486
 JTK02,CUS-IPB-W/120,STD,LR04,CUS-IPB-W,,CUS-IPB-BULK,Instaperfect Skincover Air Cushion 22 Light Ivory 11 g,,Instaperfect Skincover Air Cushion 22 Light Ivory,NOMINAL_LINE,1,120,120,105,7824,7978
-JTK02,HBW-RHB-KA/1000,STD,LR15,HBW-RHB-KA,,HBW-RHB-BULK,Kahf Relaxing Hair and Body Wash 200 ml,,Kahf Relaxing Hair and Body Wash Bulk,NOMINAL_LINE,1,1000,1000,1000,4681,5000
 JTK04,L-SLWCE-W/200,STD,SR09,L-SLWCE-W,,L-SLWCE-BULK,Wardah Colorfit Last All Day Lip Paint 08 Red Repeat 4.2 g,,Wardah Colorfit Last All Day Lip Paint 08 Red Repeat,SECONDARY_LINE,1,200,200,197,46512,46745
 JTK04,L-SLWCE-W/100,STD,SR09,L-SLWCE-W,,L-SLWCE-BULK,Wardah Colorfit Last All Day Lip Paint 08 Red Repeat 4.2 g,,Wardah Colorfit Last All Day Lip Paint 08 Red Repeat,SECONDARY_LINE,1,100,100,98,23040,23386
 JTK04,L-SLWCE-W/15,STD,SR09,L-SLWCE-W,,L-SLWCE-BULK,Wardah Colorfit Last All Day Lip Paint 08 Red Repeat 4.2 g,,Wardah Colorfit Last All Day Lip Paint 08 Red Repeat,NOMINAL_LINE,1,15,15,14,3048,3200
@@ -2886,9 +2822,9 @@ JTK01,TC-PC08-MO12G/60,STD,PR01,TC-PC08-MO12G,,TC-PC08-BULK,MAKE OVER Perfect Co
 JTK01,TC-PC08-MO12G/20,STD,PR01,TC-PC08-MO12G,,TC-PC08-BULK,MAKE OVER Perfect Cover TWC 08 Honey 12 g (Pc(s)),,PERFECT COVER TWC 08 HONEY,NOMINAL_LINE,1,20,20,20,1416,1458
 JTK06,BUT-W2TO-W150ML/0,STD,RR01,BUT-W2TO-W150ML,,,Wardah Tester Olive Body Butter 150 ml (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,BOTO-SBMPD10R0-EM/0,SFGPack,LR13,BOTO-SBMPD10R0-EM,,,Botol+Shrink Body Mist Pixie Dust 10 E (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
+JTK02,BOTO-SBMPD10R0-EM/0,SFGPack,LR13,BOTO-SBMPD10R0-EM,,,Botol+Shrink Body Mist Pixie Dust 10 E (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,BO-HLT04-MO/120,STD,LR16,BO-HLT04-MO,,BO-HLT04-BULK,MAKE OVER Hydrastay Liquid Tint Blush 04 Dolce 15 ml,,MAKE OVER Hydrastay Liquid Tint Blush 04 Dolce,SECONDARY_LINE,1,120,120,105,6420,6741
 JTK02,BO-HLT04-MO/50,STD,LR16,BO-HLT04-MO,,BO-HLT04-BULK,MAKE OVER Hydrastay Liquid Tint Blush 04 Dolce 15 ml,,MAKE OVER Hydrastay Liquid Tint Blush 04 Dolce,NOMINAL_LINE,1,50,50,42,2425,2525
-JTK02,BOTO-SBMPD10R0-EM/0,SFGPack,LR13,BOTO-SBMPD10R0-EM,,,Botol+Shrink Body Mist Pixie Dust 10 E (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,REM-EEM-W100ML/600,MULTIPLEBULK,LR15,REM-EEM-W100ML,,REM-EEMA-BULK,Wardah EyeXpert Eye & Lip Makeup Remover 100 ml,,EyeXpert Eye Make Up Remover Fase A Bulk,NOMINAL_LINE,1,600,300,285,5940,6119
 JTK02,REM-EEM-W100ML/600,MULTIPLEBULK,LR15,REM-EEM-W100ML,,REM-EEMB-BULK,Wardah EyeXpert Eye & Lip Makeup Remover 100 ml,,EyeXpert Eye Make Up Remover Fase B Bulk,SECONDARY_LINE,2,600,300,285,5940,6119
 JTK01,ES-IPSCP-W/70,COPACKING,PR03,ES-IPSCP-W,ES-PNU-04-RP-W1GR,ES-PNU-04-BULK,Wardah Instaperfect SPOTLIGHT Chromatic Eye Palette 10 g,Refill Press Eye Shadow Palette Nudes 04,EyeShadow Palette Nude 04 Champagne,SECONDARY_LINE,3,70,7,7,5616,5784
@@ -2969,8 +2905,6 @@ JTK01,"BO-SPP10-MO3,5G/1",PRESSTHENFILLINGPACKING,PR03,"BO-SPP10-MO3,5G","BO-SKP
 JTK01,TC-RIPMFPF12-W/40,STD,PR01,TC-RIPMFPF12-W,,TC-IPMFPF12-BULK,Wardah Refill Instaperfect MATTE FIT Powder Foundation 12. IVORY 13 g,,Instaperfect MATTE FIT Powder Foundation 12 Ivory,SECONDARY_LINE,1,40,40,40,2523,2598
 JTK01,TC-RIPMFPF12-W/20,STD,PR01,TC-RIPMFPF12-W,,TC-IPMFPF12-BULK,Wardah Refill Instaperfect MATTE FIT Powder Foundation 12. IVORY 13 g,,Instaperfect MATTE FIT Powder Foundation 12 Ivory,NOMINAL_LINE,1,20,20,20,1195,1231
 JTK02,M-AHC-W40ML/1000,STD,LR01,M-AHC-W40ML,,M-AHC-BULK,Wardah Nature Daily Aloe Hydramild Moisturizer Cream 40 ml,,Aloe Hydramild Moisturizer Cream,NOMINAL_LINE,1,1000,1000,974,23460,24164
-JTK02,CUS-HLGNW33-MO/50,STD,LR04,CUS-HLGNW33-MO,,CUS-HLGNW33-BULK,MAKE OVER Hydrastay Lite Glow Cushion W33 Honey Beige 15 g,,MAKE OVER Hydrastay Lite Glow Cushion W33 Honey Beige Bulk,NOMINAL_LINE,1,50,50,41.2,2567,2667
-JTK02,CUS-HLGNW33-MO/20,STD,LR04,CUS-HLGNW33-MO,,CUS-HLGNW33-BULK,MAKE OVER Hydrastay Lite Glow Cushion W33 Honey Beige 15 g,,MAKE OVER Hydrastay Lite Glow Cushion W33 Honey Beige Bulk,SECONDARY_LINE,1,20,20,16,1052,1152
 JTK06,MY-SRMRWSIBS-W/0,STD,RR01,MY-SRMRWSIBS-W,,,Malaysia Wardah Crystal Secret Dark Spot & Brightening Serum 20 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,FT-SBFTN2-EM/500,STD,LR15,FT-SBFTN2-EM,,FT-SBFT-BULK,Emina Skin Buddy Face Toner 50 ml,,Emina Skin Buddy Face Toner Bulk,NOMINAL_LINE,1,500,500,490,8088,9988
 JTK04,L-REMA03-W/10,STD,SR09,L-REMA03-W,,L-REMA03-BULK,Wardah Exclusive Matte Lipstick 03 Red 3.5 g,,Wardah Exclusive Matte Lipstick 03 Red,NOMINAL_LINE,1,10,10,9.5,2016,2304
@@ -3169,8 +3103,8 @@ JTK01,"BO-PPS-MO8X3,5G/24",COPACKING,PR03,"BO-PPS-MO8X3,5G","BO-03PP1RNFS3,5-MO"
 JTK01,"BO-PPS-MO8X3,5G/24",COPACKING,PR03,"BO-PPS-MO8X3,5G","BO-02IPRNFSN3,5-MO",BO-SIP02-BULK,"MAKE OVER Perfect Shade Blush On Palette 8X3,5 g (Pc(s))",Blush on 02 Iredescent Pink Refill Not For Sale Ne Make Over (Pc(s)),Blush On 02 Irredescent Pink,NOMINAL_LINE,2,24,3,3,456,476
 JTK01,"BO-PPS-MO8X3,5G/24",COPACKING,PR03,"BO-PPS-MO8X3,5G","BO-01PFRNFSN3,5-MO",BO-SPF01-BULK,"MAKE OVER Perfect Shade Blush On Palette 8X3,5 g (Pc(s))",Blush on 01 Pink Fantasist Refill Not For Sale Ne Make Over (Pc(s)),Blush On 01 Pink Fantasist,NOMINAL_LINE,1,24,3,3,456,476
 JTK04,L-EMC08DP-W/200,,,L-EMC08DP-W,,L-EMC08-BULK,Wardah Exclusive Matte Lip Cream 08 Pinkcredible 4g,,Exclusive Matte Lip Cream 08 Pinkcredible,NOMINAL_LINE,1,200,200,196,46080,46541
-JTK01,TC-RFC-MO/40,COPACKING,PR03,TC-RFC-MO,,TC-RFC02-BULK,MAKE OVER Face Contour Kit (Repack) 14 g,,MAKE OVER Face Contour Kit Putih Tulang (Revamp),NOMINAL_LINE,2,40,20,20,2136,2211
 JTK01,TC-RFC-MO/40,COPACKING,PR03,TC-RFC-MO,,TC-RFC01-BULK,MAKE OVER Face Contour Kit (Repack) 14 g,,MAKE OVER Face Contour Kit Coklat (Revamp),NOMINAL_LINE,1,40,20,20,2136,2211
+JTK01,TC-RFC-MO/40,COPACKING,PR03,TC-RFC-MO,,TC-RFC02-BULK,MAKE OVER Face Contour Kit (Repack) 14 g,,MAKE OVER Face Contour Kit Putih Tulang (Revamp),NOMINAL_LINE,2,40,20,20,2136,2211
 JTK02,FT-MPBHA-EM/3000,STD,LR15,FT-MPBHA-EM,,FT-MPBHA-BULK,Emina Ms. Pimple Acne Solution Exfoliating Toner 100 ml,,EMINA Ms. Pimple Acne Solution Exfoliating Toner,NOMINAL_LINE,1,3000,3000,2910,27834,29226
 JTK02,FT-MPBHA-EM/1000,STD,LR15,FT-MPBHA-EM,,FT-MPBHA-BULK,Emina Ms. Pimple Acne Solution Exfoliating Toner 100 ml,,EMINA Ms. Pimple Acne Solution Exfoliating Toner,SECONDARY_LINE,1,1000,1000,985,9460,9933
 JTK01,"BO-SCS06-MO3,5G/3",PRESSTHENFILLINGPACKING,PR03,"BO-SCS06-MO3,5G","BO-06CSRNFS3,5G-MO",BO-SCS06-BULK,"MAKE OVER BO 06 Caribbean Sunset Refill Pack 3,5 g (Pc(s))",Blush on 06 Caribbean Sunset Refill Not For Sale 3 Make Over (Pc(s)),Blush On 06 Caribbean Sunset,NOMINAL_LINE,1,3,3,3,456,476
@@ -3195,7 +3129,7 @@ JTK06,MY-FWAN1-EM/0,STD,RR01,MY-FWAN1-EM,,,Malaysia Emina Natura Pal Gel Cleanse
 JTK06,MY-LEMC08-W4G/0,STD,RR01,MY-LEMC08-W4G,,,Malaysia Wardah Exclusive Matte Lip Cream 08 Pinkcredible 4 g (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,MY-FCLCME-W/0,STD,RR01,MY-FCLCME-W,,,Malaysia Wardah Colorfit Matte Foundation 33W Olive Beige 25 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,MY-BOCLPPMCB-EM/0,STD,RR01,MY-BOCLPPMCB-EM,,,Malaysia Emina Cheek Lit Pressed Blush Cherry Blossoms 3.5 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
-JTK02,CM-RWSPBC-W/1000,STD,LR01,CM-RWSPBC-W,,CM-RWSPBC-BULK,Wardah Crystal Secret Melting Milk Cleanser 100 ml,,Wardah Crystal Secret Melting Milk Cleanser,NOMINAL_LINE,1,1000,1000,977,9518,9800
+JTK02,CM-RWSPBC-W/1000,STD,LR01,CM-RWSPBC-W,,CM-RWSPBC-BULK,Wardah Crystal Secret Melting Milk Cleanser 100 ml,,Wardah Crystal Secret Melting Milk Cleanser,NOMINAL_LINE,1,1000,1000,977,9483,9768
 JTK06,L-CVM06LE-W/0,STD,RR01,L-CVM06LE-W,,,Wardah Colorfit Velvet Matte Lip Mousse - Women's Day Special Edition 06 Fuchsia Lover 4 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,MY-MRWSDCN2-W/0,STD,RR01,MY-MRWSDCN2-W,,,Malaysia Wardah Crystal Secret Brightening Day Cream 30 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,F-CLCMG-W/240,STD,LR20,F-CLCMG-W,,F-CLCMG-BULK,Wardah Colorfit Matte Foundation 42N Neutral Sand 25 ml,,Wardah Colorfit Matte Foundation 42N Neutral Sand bulk,SECONDARY_LINE,1,240,240,215,7874,8268
@@ -3298,9 +3232,9 @@ JTK01,ES-PRPCB-EM3.3GR/3,COPACKING,PR03,ES-PRPCB-EM3.3GR,"ES-TQ-RP-W1,3GR",ES-TQ
 JTK02,F-LLF04-W/1000,STD,LR20,F-LLF04-W,,F-LLF04-BULK,Wardah Lightening Liquid Foundation 04. Natural 25 ml (Blister),,Wardah Lightening Liquid Foundation 04. Natural bulk,SECONDARY_LINE,1,1000,1000,975,34416,35416
 JTK02,F-LLF04-W/600,STD,LR20,F-LLF04-W,,F-LLF04-BULK,Wardah Lightening Liquid Foundation 04. Natural 25 ml (Blister),,Wardah Lightening Liquid Foundation 04. Natural bulk,NOMINAL_LINE,1,600,600,570,19386,20356
 JTK02,F-LLF04-W/300,STD,LR20,F-LLF04-W,,F-LLF04-BULK,Wardah Lightening Liquid Foundation 04. Natural 25 ml (Blister),,Wardah Lightening Liquid Foundation 04. Natural bulk,SECONDARY_LINE,1,300,300,300,9797,10091
+JTK02,L-PTG2-MO/20,STD,LR01,L-PTG2-MO,,L-PTG2-BULK,MAKE OVER Glassy Lip Lacquer X Hian Tjen 402 Social 4.5 g,,MAKE OVER Glassy Lip Lacquer 402 Social,NOMINAL_LINE,1,20,20,11,1668,2200
 JTK02,L-PTG2-MO/34,STD,LR01,L-PTG2-MO,,L-PTG2-BULK,MAKE OVER Glassy Lip Lacquer X Hian Tjen 402 Social 4.5 g,,MAKE OVER Glassy Lip Lacquer 402 Social,SECONDARY_LINE,1,34,34,27,5616,5897
 JTK02,L-PTG2-MO/32,STD,LR01,L-PTG2-MO,,L-PTG2-BULK,MAKE OVER Glassy Lip Lacquer X Hian Tjen 402 Social 4.5 g,,MAKE OVER Glassy Lip Lacquer 402 Social,SECONDARY_LINE,1,32,32,30,4680,4680
-JTK02,L-PTG2-MO/20,STD,LR01,L-PTG2-MO,,L-PTG2-BULK,MAKE OVER Glassy Lip Lacquer X Hian Tjen 402 Social 4.5 g,,MAKE OVER Glassy Lip Lacquer 402 Social,NOMINAL_LINE,1,20,20,11,1668,2200
 JTK02,WARN-M3AS-BULK/5,SFGBulk,LR19,WARN-M3AS-BULK,,,Pasta Warna Merah 3 AS bulk,,,NOMINAL_LINE,1,5,5,5,0,0
 JTK01,TC-PC03-MO12G/60,STD,PR01,TC-PC03-MO12G,,TC-PC03-BULK,MAKE OVER Perfect Cover TWC 03 Maple 12 g (Pc(s)),,PERFECT COVER TWC 03 MAPLE,NOMINAL_LINE,1,60,60,60,4272,4400
 JTK01,TC-RVIPMFPF12-W/100,STD,PR01,TC-RVIPMFPF12-W,,TC-IPMFPF12-BULK,Wardah Instaperfect MATTE FIT Powder Foundation Slongsong B 13 g,,Instaperfect MATTE FIT Powder Foundation 12 Ivory,NOMINAL_LINE,1,100,100,100,7576,7728
@@ -3316,8 +3250,6 @@ JTK04,BOTP-PTMSE50-MO/0,SFGPack,SR12,BOTP-PTMSE50-MO,,,Bottle Print Powerstay TM
 JTK04,L-EMC17DP-W/200,,,L-EMC17DP-W,,L-EMC17-BULK,Wardah Exclusive Matte Lip Cream 17 Rosy Cheek 4g,,Exclusive Matte Lip Cream 17 Rosy Check,SECONDARY_LINE,1,200,200,196,46080,46541
 JTK04,L-EMC17DP-W/45,,,L-EMC17DP-W,,L-EMC17-BULK,Wardah Exclusive Matte Lip Cream 17 Rosy Cheek 4g,,Exclusive Matte Lip Cream 17 Rosy Check,NOMINAL_LINE,1,45,45,43.25,9792,9890
 JTK04,L-PTMCD-MO/15,STD,SR09,L-PTMCD-MO,,L-PTMCD-BULK,MAKE OVER Powerstay Transferproof Matte Lip Cream B12 Feisty 7 g,,MAKE OVER Powerstay Transferproof Matte Lip Cream B12 Feisty,NOMINAL_LINE,1,15,15,14,1870,1926
-JTK01,B-R3L01LB-W/100,STD,PR01,B-R3L01LB-W,,B-R3L01LB-BULK,Wardah Lightening Matte Powder 01 Light Beige 20 g,,Wardah Lightening Matte Powder 01 Light Beige,NOMINAL_LINE,1,100,100,100,4648,4787
-JTK01,B-R3L01LB-W/60,STD,PR01,B-R3L01LB-W,,B-R3L01LB-BULK,Wardah Lightening Matte Powder 01 Light Beige 20 g,,Wardah Lightening Matte Powder 01 Light Beige,SECONDARY_LINE,1,60,60,60,2716,2798
 JTK06,L-TLL08-W2.3G/0,STD,RR01,L-TLL08-W2.3G,,,Wardah Tester Lipstick Longlasting 08 Red Velvet 2.3 g (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK04,L-REMO46-W/10,STD,SR09,L-REMO46-W,,L-REMO46-BULK,Wardah Exclusive Moist Lipstick 46 Chic Magenta 3.5 g,,Wardah Exclusive Moist Lipstick 46 Chic Magenta,NOMINAL_LINE,1,10,10,9.5,2280,2394
 JTK02,S-CSCB01-B/120,STD,LR01,S-CSCB01-B,,S-CSCB-BULK,Beyondly Calm Barrier Collagen Serum,,Beyondly Calm Barrier Collagen Serum,NOMINAL_LINE,1,120,120,105,4487,4620
@@ -3363,13 +3295,13 @@ JTK02,L-R2CLCLS6-W/30,STD,LR04,L-R2CLCLS6-W,,L-R2CLCLS6-BULK,Wardah Colorfit Fre
 JTK06,MY-TMAGDCN1-W/0,STD,RR01,MY-TMAGDCN1-W,,,Malaysia Wardah Tester Renew You Anti Aging Day Cream 17 ml (pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,MY-EBABBR-EM/0,STD,RR01,MY-EBABBR-EM,,,Malaysia Emina Agent of Brow Brown 1.2 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,WARN-LSC19012-BULK/5,SFGBulk,LR19,WARN-LSC19012-BULK,,,Monokrom Warna Lip Stain C19-012 Bulk,,,NOMINAL_LINE,1,5,5,5,0,0
-JTK02,HS-MHS-MO/300,STD,LR02,HS-MHS-MO,,HS-MHS-BULK,Make Over All Purpose Sanitizer 200 ml,,Make Over All Purpose Sanitizer Bulk,NOMINAL_LINE,1,300,300,270,1560,1638
 JTK02,HS-MHS-MO/300,STD,LR01,HS-MHS-MO,,HS-MHS-BULK,Make Over All Purpose Sanitizer 200 ml,,Make Over All Purpose Sanitizer Bulk,SECONDARY_LINE,1,300,300,270,1560,1638
+JTK02,HS-MHS-MO/300,STD,LR02,HS-MHS-MO,,HS-MHS-BULK,Make Over All Purpose Sanitizer 200 ml,,Make Over All Purpose Sanitizer Bulk,NOMINAL_LINE,1,300,300,270,1560,1638
 JTK02,S-US-W170ML/3000,STD,LR15,S-US-W170ML,,S-USS-BULK,Wardah Hairfall Treatment Shampoo 170 ml (pc(s)),,Wardah Hair Fall Treatment Shampoo Bulk,NOMINAL_LINE,1,3000,3000,2942,15968,16448
 JTK02,S-US-W170ML/3000,STD,LR15,S-US-W170ML,,S-USS-BULK,Wardah Hairfall Treatment Shampoo 170 ml (pc(s)),,Wardah Hair Fall Treatment Shampoo Bulk,NOMINAL_LINE,1,3000,3000,2942,15968,16448
+JTK02,EO-BOSH01-B/100,STD,LR18,EO-BOSH01-B,,,Beyondly Essential Blend Oil Shield Up 10 ml,,,SECONDARY_LINE,1,100,100,100,0,0
 JTK02,EO-BOSH01-B/100,STD,LR11,EO-BOSH01-B,,EO-BOSH-BULK,Beyondly Essential Blend Oil Shield Up 10 ml,,Beyondly Essential Oil Shield Up,NOMINAL_LINE,1,100,100,100,10888,11200
 JTK02,EO-BOSH01-B/0,STD,LR06,EO-BOSH01-B,,EO-BOSH-BULK,Beyondly Essential Blend Oil Shield Up 10 ml,,Beyondly Essential Oil Shield Up,SECONDARY_LINE,,0,0,0,10888,11200
-JTK02,EO-BOSH01-B/100,STD,LR18,EO-BOSH01-B,,,Beyondly Essential Blend Oil Shield Up 10 ml,,,SECONDARY_LINE,1,100,100,100,0,0
 JTK06,TC-TRLLF02-W/0,STD,RR01,TC-TRLLF02-W,,,Wardah Tester Lightening Two Way Cake Light Feel 02 Golden Beige 12 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,WARN-LSC19011-BULK/5,SFGBulk,LR19,WARN-LSC19011-BULK,,,Monokrom Warna Lip Stain C19-011 Bulk,,,NOMINAL_LINE,1,5,5,5,0,0
 JTK02,CM-CML-EM50ML/300,STD,LR15,CM-CML-EM50ML,,CM-CML-BULK,Emina Creamy Milk Cleansing Lotion 50 ml (Pc(s)),,Creamy Milk Cleansing Lotion Bulk,NOMINAL_LINE,1,300,300,300,5544,5650
@@ -3379,7 +3311,7 @@ JTK02,SRM-RWSPTEN2-W/1000,STD,LR15,SRM-RWSPTEN2-W,,SRM-RWSPTE-BULK,Wardah Crysta
 JTK06,MY-TLE26-W3.8G/0,STD,RR01,MY-TLE26-W3.8G,,,Wardah Tester Exclusive Lipstick 26 Mango 3.8 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,CUS-REFC04-W/30,STD,LR05,CUS-REFC04-W,,CUS-EFC04-BULK,Wardah Refill Exclusive Flawless Cover Cushion 04 Natural 15 g,,Exclusive flawless cover cushion 04 natural,NOMINAL_LINE,1,30,30,30,1805,1905
 JTK06,MY-LCLCLS7-W/0,STD,RR01,MY-LCLCLS7-W,,,Malaysia Wardah Colorfit Fresh Matte Lip Ink 07 Busy Bee 4 g,,,NOMINAL_LINE,,0,0,0,1841,1841
-JTK01,TWC-CLFTE-W/20,STD,PR01,TWC-CLFTE-W,,TWC-CLFTE-BULK,Wardah Colorfit Velvet Powder Foundation 33W Olive Beige 11 g,,Colorfit Velvet Powder Foundation 33W Olive Beige,NOMINAL_LINE,1,20,20,20,1458,1502
+JTK01,TWC-CLFTE-W/20,STD,PR01,TWC-CLFTE-W,,TWC-CLFTE-BULK,Wardah Colorfit Velvet Powder Foundation 33W Olive Beige 11 g,,Colorfit Velvet Powder Foundation 33W Olive Beige,NOMINAL_LINE,1,20,20,20,1476,1520
 JTK01,TWC-CLFTE-W/14,STD,PR01,TWC-CLFTE-W,,TWC-CLFTE-BULK,Wardah Colorfit Velvet Powder Foundation 33W Olive Beige 11 g,,Colorfit Velvet Powder Foundation 33W Olive Beige,SECONDARY_LINE,1,14,14,14,1080,1112
 JTK06,MY-AFP-W20G/0,STD,RR01,MY-AFP-W20G,,,Malaysia Wardah Acnederm Face Powder 20 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,MY-SSSBAT30-EM/0,STD,RR01,MY-SSSBAT30-EM,,,Malaysia Emina Sun Battle SPF 30 PA+++,,,NOMINAL_LINE,,0,0,0,1,1
@@ -3478,7 +3410,6 @@ JTK02,LT-MPSR-EM5.5ML/50,STD,LR15,LT-MPSR-EM5.5ML,,LT-MPSR-BULK,Emina Magic Poti
 JTK04,L-CM10-EM5.5GR/45,STD,SR02,L-CM10-EM5.5GR,,L-CM10-BULK,Emina Creamatte 10 Starfish 5.5 gr,,Emina Creamatte 10 Starfish,SECONDARY_LINE,1,45,45,44,7488,7560
 JTK04,L-CM10-EM5.5GR/15,STD,SR09,L-CM10-EM5.5GR,,L-CM10-BULK,Emina Creamatte 10 Starfish 5.5 gr,,Emina Creamatte 10 Starfish,NOMINAL_LINE,1,15,15,14,2304,2373
 JTK06,MY-SRMCAB-W/0,STD,RR01,MY-SRMCAB-W,,,Malaysia Wardah Crystallure Supreme Activating Booster Essence 30 ml,,,NOMINAL_LINE,,0,0,0,1,1
-JTK02,PRM-PCCPC-MO/50,STD,LR10,PRM-PCCPC-MO,,PRM-PCCPC-BULK,MAKE OVER POWERSTAY Color Correcting Primer Peach 25 ml,,Powerstay Color Correcting Primer Peach,NOMINAL_LINE,1,50,50,50,0.001,0.001
 JTK06,MY-LEVCL02-W5.5G/0,STD,RR01,MY-LEVCL02-W5.5G,,,Malaysia Wardah Everyday Cheek and Lip Tint 02 My Baerry! 5.5 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,HT-P1G-P200/1000,STD,LR15,HT-P1G-P200,,HT-G-BULK,"Hair Tonic Ginseng, 200 ml",,Bulk Hair Tonic Ginseng,NOMINAL_LINE,1,1000,1000,985,5132,5286
 JTK02,HT-P1G-P200/1000,STD,LR15,HT-P1G-P200,,HT-G-BULK,"Hair Tonic Ginseng, 200 ml",,Bulk Hair Tonic Ginseng,NOMINAL_LINE,1,1000,1000,985,5132,5286
@@ -3497,8 +3428,8 @@ JTK02,MY-BPHREDT-KA/200,STD,LR15,MY-BPHREDT-KA,,BP-HREDT-BULK,Malaysia Kahf Humb
 JTK02,MY-BPHREDT-KA/200,STD,LR15,MY-BPHREDT-KA,,BP-HREDT-BULK,Malaysia Kahf Humbling Forest Eau de Toilette 35 ml,,Kahf Humbling Forest Eau de Toilette Bulk,NOMINAL_LINE,1,200,200,185,5055,5207
 JTK06,P-EXR-W/0,STD,RR01,P-EXR-W,,,Wardah Exclusive Series Hampers,,,NOMINAL_LINE,,0,0,0,7500,7500
 JTK06,MY-TLLL11-W2.3G/0,STD,RR01,MY-TLLL11-W2.3G,,,Wardah Tester Longlasting Lipstick 11 Cherrie Glam 2.3 g,,,NOMINAL_LINE,,0,0,0,1,1
-JTK02,2PR--MO100ML/200,MULTIPLEBULK,LR15,2PR--MO100ML,,2PR-A-BULK,MAKE OVER Make Up Remover 100 ml (Pc(s)),,MAKE OVER Make Up Remover Fase A Bulk,NOMINAL_LINE,1,200,100,100,1236,1436
 JTK02,2PR--MO100ML/200,MULTIPLEBULK,LR15,2PR--MO100ML,,2PR-B-BULK,MAKE OVER Make Up Remover 100 ml (Pc(s)),,MAKE OVER Make Up Remover Fase B Bulk,SECONDARY_LINE,2,200,100,100,1236,1436
+JTK02,2PR--MO100ML/200,MULTIPLEBULK,LR15,2PR--MO100ML,,2PR-A-BULK,MAKE OVER Make Up Remover 100 ml (Pc(s)),,MAKE OVER Make Up Remover Fase A Bulk,NOMINAL_LINE,1,200,100,100,1236,1436
 JTK01,TC-RR3LLF04-W/350,STD,PR01,TC-RR3LLF04-W,,TC-R3LLF04-BULK,Wardah Refill Lightening Powder Foundation Light Feel 04 Natural 12 g,,Wardah Lightening Powder Foundation Light Feel 04 Natural,NOMINAL_LINE,1,350,350,350,27072,27423
 JTK01,TC-RR3LLF04-W/100,STD,PR01,TC-RR3LLF04-W,,TC-R3LLF04-BULK,Wardah Refill Lightening Powder Foundation Light Feel 04 Natural 12 g,,Wardah Lightening Powder Foundation Light Feel 04 Natural,SECONDARY_LINE,1,100,100,100,7606,7834
 JTK06,MY-LEMC01-W4G/0,STD,RR01,MY-LEMC01-W4G,,,Malaysia Wardah Exclusive Matte Lip Cream 01 Red-dicted 4 g (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
@@ -3626,7 +3557,6 @@ JTK04,L-CPRLC01-W/40,STD,SR09,L-CPRLC01-W,,L-CPRLC01-BULK,WARDAH CRYSTALLURE Pre
 JTK04,L-CPRLC01-W/15,STD,SR09,L-CPRLC01-W,,L-CPRLC01-BULK,WARDAH CRYSTALLURE Precious Liquid Lip Couture 01 Royale 6.5 g,,Wardah CRYSTALLURE Precious Liquid Lip Couture 01 Royale,NOMINAL_LINE,1,15,15,14,2155,2198
 JTK02,HT-P1Y1-P450/1000,STD,LR15,HT-P1Y1-P450,,HT-Y1-BULK,"Hair Tonic Normal Hair (Yellow), 450 ml",,Bulk Hair Tonic Yellow,NOMINAL_LINE,1,1000,1000,990,2208,2308
 JTK02,HT-P1Y1-P450/1000,STD,LR15,HT-P1Y1-P450,,HT-Y1-BULK,"Hair Tonic Normal Hair (Yellow), 450 ml",,Bulk Hair Tonic Yellow,NOMINAL_LINE,1,1000,1000,990,2208,2308
-JTK01,B-PBTUBB-W/300,STD,PR01,B-PBTUBB-W,,B-PBTUBB-BULK,Wardah Perfect Bright BB Powder 50 g,,Wardah Perfect Bright BB Powder,NOMINAL_LINE,1,300,300,300,5850,6030
 JTK02,HM-P1P-P720/600,STD,LR15,HM-P1P-P720,,HM-P-BULK,Putri Platinum Hair Mask 720 ML (Pc(s)),,Bulk Hair Mask,SECONDARY_LINE,1,600,600,600,820,920
 JTK02,HM-P1P-P720/300,STD,LR15,HM-P1P-P720,,HM-P-BULK,Putri Platinum Hair Mask 720 ML (Pc(s)),,Bulk Hair Mask,NOMINAL_LINE,1,300,300,300,366,466
 JTK06,HM-P1P-P720/0,STD,RR01,HM-P1P-P720,,,Putri Platinum Hair Mask 720 ML (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
@@ -3667,7 +3597,6 @@ JTK04,L-MC06-EM/15,STD,SR09,L-MC06-EM,,L-MC06-BULK,Emina Mattecrush 06 Racoon Pa
 JTK02,L-PVW04-MO/50,STD,LR04,L-PVW04-MO,,L-PVW04-BULK,MAKE OVER Powerstay Vivid Waterlite Lip Stain A04 Corvette 5.5 g,,Lipstick Powerstay Vivid Waterlite Corvette Bulk (Kg),SECONDARY_LINE,1,50,50,50,6838,7044
 JTK02,L-PVW04-MO/30,STD,LR04,L-PVW04-MO,,L-PVW04-BULK,MAKE OVER Powerstay Vivid Waterlite Lip Stain A04 Corvette 5.5 g,,Lipstick Powerstay Vivid Waterlite Corvette Bulk (Kg),NOMINAL_LINE,1,30,30,30,3360,3461
 JTK04,L-CMME03-EM/1,STD,SR09,L-CMME03-EM,,L-CMME03-BULK,Emina Creamatte Metallic Edition 03 Unicorn Glow 5.5 g,,Creamatte Metallic Edition 03 Unicorn Glow,NOMINAL_LINE,1,1,1,0.75,132,135
-JTK01,B-BSLP-EM/300,STD,PR01,B-BSLP-EM,,B-BSLP-BULK,Emina Bright Stuff Loose Powder 55 g,,Emina Bright Stuff Loose Powder,NOMINAL_LINE,1,300,300,300,5220,5324
 JTK04,L-MC01-EM/15,STD,SR09,L-MC01-EM,,L-MC01-BULK,Emina Mattecrush 01 Bunny Hop,,EMINA Mattecrush 01 Bunny Hop,SECONDARY_LINE,1,15,15,14.25,5904,6081
 JTK04,L-MC01-EM/10,STD,SR09,L-MC01-EM,,L-MC01-BULK,Emina Mattecrush 01 Bunny Hop,,EMINA Mattecrush 01 Bunny Hop,NOMINAL_LINE,1,10,10,9.25,3744,3781
 JTK06,MY-BESFBBLP-W8G/0,STD,RR01,MY-BESFBBLP-W8G,,,Malaysia Wardah Everyday Shine Free BB Loose Powder 8 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
@@ -3722,13 +3651,11 @@ JTK04,L-SLWCC-W/15,STD,SR09,L-SLWCC-W,,L-SLWCC-BULK,Wardah Colorfit Last All Day
 JTK06,F-TCEC01-W10GR/0,STD,RR01,F-TCEC01-W10GR,,,Wardah Tester Container Exclusive Creamy Foundation 01 10 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK01,TC-RR3LLF02-W/350,STD,PR01,TC-RR3LLF02-W,,TC-R3LLF02-BULK,Wardah Refill Lightening Powder Foundation Light Feel 02 Golden Beige 12 g,,Wardah Lightening Powder Foundation Light Feel 02 Golden Beige,NOMINAL_LINE,1,350,350,350,26208,26732
 JTK01,TC-RR3LLF02-W/100,STD,PR01,TC-RR3LLF02-W,,TC-R3LLF02-BULK,Wardah Refill Lightening Powder Foundation Light Feel 02 Golden Beige 12 g,,Wardah Lightening Powder Foundation Light Feel 02 Golden Beige,SECONDARY_LINE,1,100,100,100,7606,7834
-JTK02,EO-BOBR01-B/100,STD,LR18,EO-BOBR01-B,,,Beyondly Essential Blend Oil Gentle Breeze 10 ml,,,SECONDARY_LINE,1,100,100,100,0,0
 JTK02,EO-BOBR01-B/100,STD,LR11,EO-BOBR01-B,,EO-BOBR-BULK,Beyondly Essential Blend Oil Gentle Breeze 10 ml,,Beyondly Essential Oil Gentle Breeze,NOMINAL_LINE,1,100,100,100,10888,11200
+JTK02,EO-BOBR01-B/100,STD,LR18,EO-BOBR01-B,,,Beyondly Essential Blend Oil Gentle Breeze 10 ml,,,SECONDARY_LINE,1,100,100,100,0,0
 JTK02,EO-BOBR01-B/0,STD,LR06,EO-BOBR01-B,,EO-BOBR-BULK,Beyondly Essential Blend Oil Gentle Breeze 10 ml,,Beyondly Essential Oil Gentle Breeze,SECONDARY_LINE,,0,0,0,10888,11200
 JTK04,L-IPMMS05-W3.5G/5,STD,SR09,L-IPMMS05-W3.5G,,L-IPMMS05-BULK,Wardah Instaperfect MATTETITUDE Matte Stain Lipstick 05. FLUX 3.5 g,,Wardah Instaperfect MATTITUDE Matte Stain Lipstick 05 FLUX,SECONDARY_LINE,1,5,5,4.75,1152,1187
 JTK04,L-IPMMS05-W3.5G/3,STD,SR09,L-IPMMS05-W3.5G,,L-IPMMS05-BULK,Wardah Instaperfect MATTETITUDE Matte Stain Lipstick 05. FLUX 3.5 g,,Wardah Instaperfect MATTITUDE Matte Stain Lipstick 05 FLUX,NOMINAL_LINE,1,3,3,2.75,792,815.76
-JTK02,REM-RPBTUMW-W/3000,STD,LR15,REM-RPBTUMW-W,,REM-RPBTUMW-BULK,Wardah Perfect Bright Bright + Tone Up Micellar Water 100 ml,,Wardah Perfect Bright Bright + Tone Up Micellar Water,NOMINAL_LINE,1,3000,3000,2970,29108,29980
-JTK02,REM-RPBTUMW-W/1000,STD,LR15,REM-RPBTUMW-W,,REM-RPBTUMW-BULK,Wardah Perfect Bright Bright + Tone Up Micellar Water 100 ml,,Wardah Perfect Bright Bright + Tone Up Micellar Water,SECONDARY_LINE,1,1000,1000,985,9460,9933
 JTK06,F-W2TELLB5-W40ML/0,STD,RR01,F-W2TELLB5-W40ML,,,Wardah Tester Container Evd Lum Liquid Foundation 03 Beige 40 ml (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK01,ES-PFP-MO2G/2,STD,PR01,ES-PFP-MO2G,,ES-PFP-BULK,MAKE OVER Powder Eye Shadow Frozen Pink 2 g (Pc(s)),,Powder Eye Shadow Frozen Pink,NOMINAL_LINE,1,2,2,2,720,741.6
 JTK06,P-SMA-MO/0,STD,RR01,P-SMA-MO,,,Make Over Small Box 1: THE MUSE,,,NOMINAL_LINE,,0,0,0,1250,1250
@@ -3739,9 +3666,6 @@ JTK02,HBL-RAHMG-W/1000,STD,LR02,HBL-RAHMG-W,,HBL-AHMG-BULK,Wardah Nature Daily A
 JTK06,P-AHRKBJ-W/0,STD,RR01,P-AHRKBJ-W,,,Wardah Acnederm Hampers Ramadan untuk Kulit Bebas Jerawat,,,NOMINAL_LINE,,0,0,0,10000,10000
 JTK06,MY-TELESL-W3.5G/0,STD,RR01,MY-TELESL-W3.5G,,,Wardah Tester EyeXpert Staylast Liquid Eyeliner 3.5 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,MY-LCM09-EM/0,STD,RR01,MY-LCM09-EM,,,Malaysia Emina Creamatte 09 Baby Fox 5.5 gr,,,NOMINAL_LINE,,0,0,0,1,1
-JTK02,SRM-SC-TA/120,STD,LR15,SRM-SC-TA,,SRM-SC-BULK,Tavi Plant-Based Squalane + Ceramide Moisture Boost Serum 30 ml,,Tavi Plant-Based Squalane + Ceramide Moisture Boost Serum,NOMINAL_LINE,1,120,120,105,3192,3240
-JTK02,SRM-SC-TA/50,STD,LR15,SRM-SC-TA,,SRM-SC-BULK,Tavi Plant-Based Squalane + Ceramide Moisture Boost Serum 30 ml,,Tavi Plant-Based Squalane + Ceramide Moisture Boost Serum,SECONDARY_LINE,1,50,50,47,1345,1386
-JTK02,SRM-SC-TA/30,STD,LR15,SRM-SC-TA,,SRM-SC-BULK,Tavi Plant-Based Squalane + Ceramide Moisture Boost Serum 30 ml,,Tavi Plant-Based Squalane + Ceramide Moisture Boost Serum,SECONDARY_LINE,1,30,30,27,719,741
 JTK06,MY-CUSCLCE-W/0,STD,RR01,MY-CUSCLCE-W,,,Malaysia Wardah Colorfit Perfect Glow Cushion 33W Olive Beige,,,NOMINAL_LINE,,0,0,0,4558,4558
 JTK06,D-TRHIM-W60ML/0,STD,RR01,D-TRHIM-W60ML,,,Wardah Tester Roll On For Him 60 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,F-LPWW30-MO/45,STD,LR04,F-LPWW30-MO,,F-LPWW30-BULK,MAKE OVER Powerstay Weightless Liquid Foundation W30 Creme Beige 33 ml,,MAKE OVER Powerstay Weightless Liquid Foundation W30 Creme Beige,SECONDARY_LINE,1,45,45,43,950,998
@@ -3773,8 +3697,8 @@ JTK04,L-PTMC08-MO/15,STD,SR09,L-PTMC08-MO,,L-PTMC08-BULK,MAKE OVER Powerstay Tra
 JTK06,MY-LCM04-EM/0,STD,RR01,MY-LCM04-EM,,,Malaysia Emina Creamatte 04 Frostbite 5.5 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK04,DUSS-EMLC15H-W/0,SFGPack,SR12,DUSS-EMLC15H-W,,,Dus Sticker Exclusive Matte Lip Cream 15 (Hologram) W,,,NOMINAL_LINE,1,0,0,0,18688,18688
 JTK02,FT-FT-OMG/1200,STD,LR02,FT-FT-OMG,,FT-FT-BULK,OMG OH MY GLOW Peach Glowing Toner 100 ml,,OMG Oh My Glow Peach Glowing Toner,NOMINAL_LINE,1,1200,1200,1185,11592,11866
-JTK06,FT-FT-OMG/0,STD,RR01,FT-FT-OMG,,,OMG OH MY GLOW Peach Glowing Toner 100 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,FT-FT-OMG/1000,STD,,FT-FT-OMG,,FT-FTVC-OMG,OMG OH MY GLOW Peach Glowing Toner 100 ml,,OMG Oh My Glow Peach Glowing Toner 100 ml,NOMINAL_LINE,1,1000,1000,985,0,0
+JTK06,FT-FT-OMG/0,STD,RR01,FT-FT-OMG,,,OMG OH MY GLOW Peach Glowing Toner 100 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK01,MY-RBESFBBLP-W/40,STD,PR01,MY-RBESFBBLP-W,,B-ESFBBLP-BULK,Malaysia Wardah Everyday Shine Free BB Loose Powder 8 g,,Everyday Shine Free BB Loose Powder,SECONDARY_LINE,1,40,40,40,4212,4338
 JTK01,MY-RBESFBBLP-W/18,STD,PR01,MY-RBESFBBLP-W,,B-ESFBBLP-BULK,Malaysia Wardah Everyday Shine Free BB Loose Powder 8 g,,Everyday Shine Free BB Loose Powder,NOMINAL_LINE,1,18,18,18,1863,1919
 JTK06,MY-FTBST-EM/0,STD,RR01,MY-FTBST-EM,,,Malaysia Emina Bright Stuff Face Toner 100 ml,,,NOMINAL_LINE,,0,0,0,1,1
@@ -3804,17 +3728,16 @@ JTK06,FS-TL-W60GR/0,STD,RR01,FS-TL-W60GR,,,Wardah Tester Lightening Facial Scrub
 JTK06,MY-MASKEEVE-W/0,STD,RR01,MY-MASKEEVE-W,,,Malaysia Wardah EyeXpert The Volume Expert Mascara 7 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,240,240
 JTK01,TC-PC06-MO12G/10,STD,PR01,TC-PC06-MO12G,,TC-PC06-BULK,MAKE OVER Perfect Cover TWC 06 Cappuccino 12 g (Pc(s)),,Perfect Cover TWC 06 Capuccino,NOMINAL_LINE,1,10,10,10,576,593
 JTK02,M-PSRT20-MO/30,STD,LR15,M-PSRT20-MO,,M-PSRT20-BULK,MAKE OVER Powerskin Radiant Tinted Moisturizer 20 Light Beige 40 ml,,MAKE OVER Powerskin Radiant Tinted Moisturizer 20 Light Beige,NOMINAL_LINE,1,30,30,23.6,490,645
-JTK02,HBW-EHB-KA/1000,STD,LR15,HBW-EHB-KA,,HBW-EHB-BULK,Kahf Energizing Hair and Body Wash 200 ml,,Kahf Energizing Hair and Body Wash Bulk,NOMINAL_LINE,1,1000,1000,1000,4681,4822
-JTK04,CON-C-MO11ML/50,MULTIPLEBULK,SR09,CON-C-MO11ML,,CON-C-HM-BULK,MAKE OVER Camouflage Cream Face Concealer 5X2g (Pc(s)),,Make Over Camouflage Cream Hijau Muda Bulk,SECONDARY_LINE,4,50,10,9.5,4320,4380
-JTK04,CON-C-MO11ML/50,MULTIPLEBULK,SR09,CON-C-MO11ML,,CON-C-LB-BULK,MAKE OVER Camouflage Cream Face Concealer 5X2g (Pc(s)),,Make Over Camouflage Cream Light Beige Bulk,SECONDARY_LINE,1,50,10,9.5,4320,4380
 JTK04,CON-C-MO11ML/50,MULTIPLEBULK,SR09,CON-C-MO11ML,,CON-C-C-BULK,MAKE OVER Camouflage Cream Face Concealer 5X2g (Pc(s)),,Make Over Camouflage Cream Coklat Bulk,SECONDARY_LINE,5,50,10,9.5,4320,4380
 JTK04,CON-C-MO11ML/50,MULTIPLEBULK,SR09,CON-C-MO11ML,,CON-C-B-BULK,MAKE OVER Camouflage Cream Face Concealer 5X2g (Pc(s)),,Make Over Camouflage Cream Beige Bulk,SECONDARY_LINE,2,50,10,9.5,4320,4380
+JTK04,CON-C-MO11ML/50,MULTIPLEBULK,SR09,CON-C-MO11ML,,CON-C-HM-BULK,MAKE OVER Camouflage Cream Face Concealer 5X2g (Pc(s)),,Make Over Camouflage Cream Hijau Muda Bulk,SECONDARY_LINE,4,50,10,9.5,4320,4380
+JTK04,CON-C-MO11ML/50,MULTIPLEBULK,SR09,CON-C-MO11ML,,CON-C-LB-BULK,MAKE OVER Camouflage Cream Face Concealer 5X2g (Pc(s)),,Make Over Camouflage Cream Light Beige Bulk,SECONDARY_LINE,1,50,10,9.5,4320,4380
 JTK04,CON-C-MO11ML/50,MULTIPLEBULK,SR09,CON-C-MO11ML,,CON-C-UM-BULK,MAKE OVER Camouflage Cream Face Concealer 5X2g (Pc(s)),,Make Over Camouflage Cream Ungu Muda Bulk,SECONDARY_LINE,3,50,10,9.5,4320,4380
-JTK04,CON-C-MO11ML/5,MULTIPLEBULK,SR09,CON-C-MO11ML,,CON-C-LB-BULK,MAKE OVER Camouflage Cream Face Concealer 5X2g (Pc(s)),,Make Over Camouflage Cream Light Beige Bulk,NOMINAL_LINE,1,5,1,0.75,312,327
 JTK04,CON-C-MO11ML/5,MULTIPLEBULK,SR09,CON-C-MO11ML,,CON-C-HM-BULK,MAKE OVER Camouflage Cream Face Concealer 5X2g (Pc(s)),,Make Over Camouflage Cream Hijau Muda Bulk,NOMINAL_LINE,4,5,1,0.75,312,327
 JTK04,CON-C-MO11ML/5,MULTIPLEBULK,SR09,CON-C-MO11ML,,CON-C-C-BULK,MAKE OVER Camouflage Cream Face Concealer 5X2g (Pc(s)),,Make Over Camouflage Cream Coklat Bulk,NOMINAL_LINE,5,5,1,0.75,312,327
-JTK04,CON-C-MO11ML/5,MULTIPLEBULK,SR09,CON-C-MO11ML,,CON-C-B-BULK,MAKE OVER Camouflage Cream Face Concealer 5X2g (Pc(s)),,Make Over Camouflage Cream Beige Bulk,NOMINAL_LINE,2,5,1,0.75,312,327
+JTK04,CON-C-MO11ML/5,MULTIPLEBULK,SR09,CON-C-MO11ML,,CON-C-LB-BULK,MAKE OVER Camouflage Cream Face Concealer 5X2g (Pc(s)),,Make Over Camouflage Cream Light Beige Bulk,NOMINAL_LINE,1,5,1,0.75,312,327
 JTK04,CON-C-MO11ML/5,MULTIPLEBULK,SR09,CON-C-MO11ML,,CON-C-UM-BULK,MAKE OVER Camouflage Cream Face Concealer 5X2g (Pc(s)),,Make Over Camouflage Cream Ungu Muda Bulk,NOMINAL_LINE,3,5,1,0.75,312,327
+JTK04,CON-C-MO11ML/5,MULTIPLEBULK,SR09,CON-C-MO11ML,,CON-C-B-BULK,MAKE OVER Camouflage Cream Face Concealer 5X2g (Pc(s)),,Make Over Camouflage Cream Beige Bulk,NOMINAL_LINE,2,5,1,0.75,312,327
 JTK02,BP-MOEDP-KA/300,STD,LR15,BP-MOEDP-KA,,BP-MOEDP-BULK,Kahf Saffron Oud Eau de Parfum 100 ml,,Kahf Eau de Parfum Modern Oud,NOMINAL_LINE,1,300,300,285,2693,2770
 JTK02,M-CSAHG-W/200,STD,LR02,M-CSAHG-W,,M-CSAHG-BULK,Wardah Crystallure Supreme Advanced Hydra Gel 50 g,,Moisturizer-pelembab Crystallure Supreme Advanced Bulk (Kg),NOMINAL_LINE,1,200,200,200,3414,3712
 JTK02,M-CSAHG-W/150,STD,LR02,M-CSAHG-W,,M-CSAHG-BULK,Wardah Crystallure Supreme Advanced Hydra Gel 50 g,,Moisturizer-pelembab Crystallure Supreme Advanced Bulk (Kg),SECONDARY_LINE,1,150,150,135,2556,2684
@@ -3871,8 +3794,6 @@ JTK06,MY-EBSMUEMC-EM/0,STD,RR01,MY-EBSMUEMC-EM,,,Malaysia Emina Squeeze Me Up Br
 JTK02,DUSS-CDDDCL20R1-WM/0,SFGPack,LR13,DUSS-CDDDCL20R1-WM,,,Dus Sticker C-Defense DDC Light 20 R1 WM,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,HBL-ETBMAN2-W/1000,STD,LR02,HBL-ETBMAN2-W,,HBL-ETBMA-BULK,Earth Love Life East Balinese Bamboo & Oriental Mint Body Lotion Serum 250 ml,,Earth Love Life East Balinese Bamboo & Oriental Mint Body Lotion Serum,NOMINAL_LINE,1,1000,1000,975,3768,3957
 JTK06,MY-TLIM07-W2.3G/0,STD,RR01,MY-TLIM07-W2.3G,,,Wardah Tester Intense Matte Lipstick 07 Passionate Pink 2.3 g,,,NOMINAL_LINE,,0,0,0,1,1
-JTK01,TWC-CLFTD-W/40,STD,PR01,TWC-CLFTD-W,,TWC-CLFTD-BULK,Wardah Colorfit Velvet Powder Foundation 32N Neutral Beige 11 g,,Colorfit Velvet Powder Foundation 32N Neutral Beige,NOMINAL_LINE,1,40,40,40,2916,3003
-JTK01,TWC-CLFTD-W/20,STD,PR01,TWC-CLFTD-W,,TWC-CLFTD-BULK,Wardah Colorfit Velvet Powder Foundation 32N Neutral Beige 11 g,,Colorfit Velvet Powder Foundation 32N Neutral Beige,SECONDARY_LINE,1,20,20,20,1458,1502
 JTK02,BOTP-SGLREV1200-P/0,SFGPack,LR13,BOTP-SGLREV1200-P,,,Botol Print Styling Glaze Rev-1  200 ml Putri,,,NOMINAL_LINE,,0,0,0,1,1
 JTK06,SRM-NFSL8-W/0,STD,RR01,SRM-NFSL8-W,,,Sample Pajangan Wardah NFS Lightening Serum 8 ml,,,NOMINAL_LINE,,0,0,0,1000,1000
 JTK06,MY-ELEDPBR-EM/0,STD,RR01,MY-ELEDPBR-EM,,,Malaysia Emina Eye Do! Pencil Eye Liner Brown 1 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
@@ -3978,8 +3899,8 @@ JTK06,MY-LEMC13-W4G/0,STD,RR01,MY-LEMC13-W4G,,,Malaysia Wardah Exclusive Matte L
 JTK02,L-IPCS03-W/30,STD,LR04,L-IPCS03-W,,L-IPCS03-BULK,Wardah Instaperfect Litesplash Lip Sorbet 02 Pomelo 4.2 g,,Wardah Instaperfect Litesplash Lip Sorbet 02 Pomelo,NOMINAL_LINE,1,30,30,22.8,5148,5406
 JTK02,DDC-CDN-W20ML/500,STD,LR01,DDC-CDN-W20ML,,DDC-CDN-BULK,Wardah C-Defense DD Cream Natural 20 ml (Pc(s)),,C-Defense DD Cream Natural Bulk,NOMINAL_LINE,1,500,500,500,22563,23240
 JTK01,BO-CM-MO20G/27,COPACKING-Extra,PR03,BO-CM-MO20G,,BO-CM-A BULK,MAKE OVER Cheek Marbles 20 g (Pc(s)),,Cheek Marbles A,NOMINAL_LINE,1,27,7,7,1128,1162
-JTK01,BO-CM-MO20G/27,COPACKING-Extra,PR03,BO-CM-MO20G,,BO-CM-C BULK,MAKE OVER Cheek Marbles 20 g (Pc(s)),,Cheek Marbles C,NOMINAL_LINE,3,27,7,7,1128,1162
 JTK01,BO-CM-MO20G/27,COPACKING-Extra,PR03,BO-CM-MO20G,,BO-CM-B BULK,MAKE OVER Cheek Marbles 20 g (Pc(s)),,Cheek Marbles B,NOMINAL_LINE,2,27,7,7,1128,1162
+JTK01,BO-CM-MO20G/27,COPACKING-Extra,PR03,BO-CM-MO20G,,BO-CM-C BULK,MAKE OVER Cheek Marbles 20 g (Pc(s)),,Cheek Marbles C,NOMINAL_LINE,3,27,7,7,1128,1162
 JTK01,BO-CM-MO20G/27,COPACKING-Extra,PR03,BO-CM-MO20G,,BO-CM-D BULK,MAKE OVER Cheek Marbles 20 g (Pc(s)),,Cheek Marbles D,NOMINAL_LINE,4,27,3,3,1128,1162
 JTK01,BO-CM-MO20G/27,COPACKING-Extra,PR03,BO-CM-MO20G,,BO-CM-E BULK,MAKE OVER Cheek Marbles 20 g (Pc(s)),,Cheek Marbles E,NOMINAL_LINE,5,27,3,3,1128,1162
 JTK06,P-NDASD-W/0,STD,RR01,P-NDASD-W,,,Wardah Bundling Nature Daily Aloe Series - Dandan,,,NOMINAL_LINE,,0,0,0,848,848
@@ -3993,13 +3914,10 @@ JTK06,MY-TLEMC16-W4G/0,STD,RR01,MY-TLEMC16-W4G,,,Malaysia Wardah Tester Exclusiv
 JTK04,DUSS-CADLP17R0-W/0,SFGPack,SR12,DUSS-CADLP17R0-W,,,Dus Sticker CAD Lip Paint 17 W,,,NOMINAL_LINE,1,0,0,0,35568,35768
 JTK04,BOTP-CADLP00AJR0-W/0,SFGPack,SR12,BOTP-CADLP00AJR0-W,,,Bottle Printed CAD Lip Paint 00 Alluring Jakarta W,,,NOMINAL_LINE,1,0,0,0,23100,23300
 JTK02,BUT-W0MP-W50ML/200,STD,LR15,BUT-W0MP-W50ML,,BUT-W0MP-BULK,Wardah Creamy Body Butter With Milk & Pearl 50 ml (pc(s)),,Milk & Pearl Body butter Bulk,NOMINAL_LINE,1,200,200,200,3657,3770
-JTK02,L-PVW06-MO/50,STD,LR04,L-PVW06-MO,,L-PVW06-BULK,MAKE OVER Powerstay Vivid Waterlite Lip Stain A06 Passion 5.5 g,,Lipstick Powerstay Vivid Waterlite Passion Bulk (Kg),SECONDARY_LINE,1,50,50,50,8560,8817
-JTK02,L-PVW06-MO/30,STD,LR04,L-PVW06-MO,,L-PVW06-BULK,MAKE OVER Powerstay Vivid Waterlite Lip Stain A06 Passion 5.5 g,,Lipstick Powerstay Vivid Waterlite Passion Bulk (Kg),NOMINAL_LINE,1,30,30,30,4923,5071
-JTK02,L-PVW06-MO/20,STD,LR04,L-PVW06-MO,,L-PVW06-BULK,MAKE OVER Powerstay Vivid Waterlite Lip Stain A06 Passion 5.5 g,,Lipstick Powerstay Vivid Waterlite Passion Bulk (Kg),SECONDARY_LINE,1,20,20,13,1716,1846
 JTK02,CUS-EFC02-W/50,STD,LR05,CUS-EFC02-W,,CUS-EFC02-BULK,Wardah Exclusive Flawless Cover Cushion 02 Honey Beige 15 g,,Exclusive flawless cover cushion 02,NOMINAL_LINE,1,50,50,50,2457,2557
+JTK04,"F-WODF-W4,5GR/15",MULTIPLEBULK,SR09,"F-WODF-W4,5GR",,F-WODF-CON01-BULK,"Wardah Double Function Kit 4,5 gr",,Double Function Kit (Concealer 01) bulk,NOMINAL_LINE,2,15,5,4.4,2436,2509
 JTK04,"F-WODF-W4,5GR/15",MULTIPLEBULK,SR09,"F-WODF-W4,5GR",,F-WODF-BES-BULK,"Wardah Double Function Kit 4,5 gr",,Double Function Kit (Base Eye Shadow) Bulk,NOMINAL_LINE,1,15,5,4.4,2436,2509
 JTK04,"F-WODF-W4,5GR/15",MULTIPLEBULK,SR09,"F-WODF-W4,5GR",,F-W2CLUN-BULK,"Wardah Double Function Kit 4,5 gr",,Creamy Foundation Natural Light Feel Bulk,NOMINAL_LINE,3,15,5,4.4,2436,2509
-JTK04,"F-WODF-W4,5GR/15",MULTIPLEBULK,SR09,"F-WODF-W4,5GR",,F-WODF-CON01-BULK,"Wardah Double Function Kit 4,5 gr",,Double Function Kit (Concealer 01) bulk,NOMINAL_LINE,2,15,5,4.4,2436,2509
 JTK02,LT-MPSM-EM5.5ML/50,STD,LR15,LT-MPSM-EM5.5ML,,LT-MPSM-BULK,Emina Magic Potion 03 Smitten 5.5 ml,,Magic Potion 03 Smitten,NOMINAL_LINE,1,50,50,50,8205,8452
 JTK02,LT-MPSM-EM5.5ML/30,STD,LR15,LT-MPSM-EM5.5ML,,LT-MPSM-BULK,Emina Magic Potion 03 Smitten 5.5 ml,,Magic Potion 03 Smitten,SECONDARY_LINE,1,30,30,29,4788,4932
 JTK06,FT-W2WSEL-W150ML/0,STD,RR01,FT-W2WSEL-W150ML,,,Wardah Tester White Secret Exfoliating Lotion 150 ml (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
@@ -4009,9 +3927,9 @@ JTK04,L-EMC09DP-W/200,,,L-EMC09DP-W,,L-EMC09-BULK,Wardah Exclusive Matte Lip Cre
 JTK01,TC-R2RE01-W/300,STD,PR01,TC-R2RE01-W,,TC-PC02-BULK,Wardah Refill Exclusive Two Way Cake 01 Sheer Pink 12 g,,PERFECT COVER TWC 02 CORAL,SECONDARY_LINE,1,300,300,300,23805,24519
 JTK01,TC-R2RE01-W/100,STD,PR01,TC-R2RE01-W,,TC-PC02-BULK,Wardah Refill Exclusive Two Way Cake 01 Sheer Pink 12 g,,PERFECT COVER TWC 02 CORAL,NOMINAL_LINE,1,100,100,100,7200,7416
 JTK01,BO-CPLP-W/13.5,MULTIPLEBULK,PR03,BO-CPLP-W,BO-CPLP-RP-W12G,BO-CPLP02-BULK,WARDAH CRYSTALLURE Precious Lustre Prism Blush 10 g,Refill Press Wardah CRYSTALLURE Precious Lustre Prism Blush,CRYSTALLURE Precious Lustre Prism Blush - 02,NOMINAL_LINE,2,13.5,4.5,4.5,576,593
-JTK01,BO-CPLP-W/13.5,MULTIPLEBULK,PR03,BO-CPLP-W,BO-CPLP-RP-W12G,BO-CPLP03-BULK,WARDAH CRYSTALLURE Precious Lustre Prism Blush 10 g,Refill Press Wardah CRYSTALLURE Precious Lustre Prism Blush,CRYSTALLURE Precious Lustre Prism Blush - 03,NOMINAL_LINE,3,13.5,3,3,576,593
 JTK01,BO-CPLP-W/13.5,MULTIPLEBULK,PR03,BO-CPLP-W,BO-CPLP-RP-W12G,BO-CPLP01-BULK,WARDAH CRYSTALLURE Precious Lustre Prism Blush 10 g,Refill Press Wardah CRYSTALLURE Precious Lustre Prism Blush,CRYSTALLURE Precious Lustre Prism Blush - 01,NOMINAL_LINE,1,13.5,3,3,576,593
 JTK01,BO-CPLP-W/13.5,MULTIPLEBULK,PR03,BO-CPLP-W,BO-CPLP-RP-W12G,BO-CPLP04-BULK,WARDAH CRYSTALLURE Precious Lustre Prism Blush 10 g,Refill Press Wardah CRYSTALLURE Precious Lustre Prism Blush,CRYSTALLURE Precious Lustre Prism Blush - 04,NOMINAL_LINE,4,13.5,3,3,576,593
+JTK01,BO-CPLP-W/13.5,MULTIPLEBULK,PR03,BO-CPLP-W,BO-CPLP-RP-W12G,BO-CPLP03-BULK,WARDAH CRYSTALLURE Precious Lustre Prism Blush 10 g,Refill Press Wardah CRYSTALLURE Precious Lustre Prism Blush,CRYSTALLURE Precious Lustre Prism Blush - 03,NOMINAL_LINE,3,13.5,3,3,576,593
 JTK04,L-NLCA-EM/80,STD,SR09,L-NLCA-EM,,L-NLCA-BULK,Emina Poppin’ Matte 04 Snatched 4.5 g,,Emina Poppin’ Matte 04 Snatched,SECONDARY_LINE,1,80,80,78,16992,17331
 JTK04,L-NLCA-EM/45,STD,SR09,L-NLCA-EM,,L-NLCA-BULK,Emina Poppin’ Matte 04 Snatched 4.5 g,,Emina Poppin’ Matte 04 Snatched,SECONDARY_LINE,1,45,45,43.25,8832,9273
 JTK04,L-NLCA-EM/15,STD,SR09,L-NLCA-EM,,L-NLCA-BULK,Emina Poppin’ Matte 04 Snatched 4.5 g,,Emina Poppin’ Matte 04 Snatched,NOMINAL_LINE,1,15,15,14,2856,2998
@@ -4111,9 +4029,9 @@ JTK02,S-P1SEL2-P450/30,STD,LR15,S-P1SEL2-P450,,S-SPAEL-BULK,Putri SPA Energizing
 JTK06,L-W2TNCB05-W3.9GR/0,STD,RR01,L-W2TNCB05-W3.9GR,,,Wardah Tester Nude Lipstick 05 Crimson Brown 3.9 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,LT-MP04-EM/100,STD,LR15,LT-MP04-EM,,LT-MP04-BULK,Emina Magic Potion 04 Sienna 5.5 ml,,Magic Potion 04 Sienna Bulk,SECONDARY_LINE,1,100,100,100,15025,15476
 JTK02,LT-MP04-EM/50,STD,LR15,LT-MP04-EM,,LT-MP04-BULK,Emina Magic Potion 04 Sienna 5.5 ml,,Magic Potion 04 Sienna Bulk,NOMINAL_LINE,1,50,50,47,7524,7901
-JTK06,L-W2BV-W6.5G/0,STD,RR01,L-W2BV-W6.5G,,,Wardah Tester Lipbalm Vanilla 6.5 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK04,L-UHPA002-MO2.3G/5,STD,SR09,L-UHPA002-MO2.3G,,L-LLW0C4-BULK,MAKE OVER Ultra Hi-Matte Lipstick 002 Pink Alcatraz 2.3 g (Pc(s)),,Lipstick Long Lasting New 04 Wardah Bulk (Kg),SECONDARY_LINE,1,5,5,4.75,1524,1554
 JTK04,L-UHPA002-MO2.3G/3,STD,SR09,L-UHPA002-MO2.3G,,L-LLW0C4-BULK,MAKE OVER Ultra Hi-Matte Lipstick 002 Pink Alcatraz 2.3 g (Pc(s)),,Lipstick Long Lasting New 04 Wardah Bulk (Kg),NOMINAL_LINE,1,3,3,2.75,1008,1038
+JTK06,L-W2BV-W6.5G/0,STD,RR01,L-W2BV-W6.5G,,,Wardah Tester Lipbalm Vanilla 6.5 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK04,L-PTMC04-MO/45,STD,SR09,L-PTMC04-MO,,L-PTMC04-BULK,MAKE OVER Powerstay Transferproof Matte Lip Cream B04 Fearless 7 g,,Make Over Powerstay Transferproof Matte Lip Cream B04 Fearless,SECONDARY_LINE,1,45,45,44,5744,5916
 JTK04,L-PTMC04-MO/15,STD,SR09,L-PTMC04-MO,,L-PTMC04-BULK,MAKE OVER Powerstay Transferproof Matte Lip Cream B04 Fearless 7 g,,Make Over Powerstay Transferproof Matte Lip Cream B04 Fearless,NOMINAL_LINE,1,15,15,14,1870,1964
 JTK04,LB-LMPR-EM/200,STD,SR13,LB-LMPR-EM,,LB-LMPR-BULK,Emina Lip Mask Vanilla Pretzel 9 g,,EMINA Lip Mask Vanilla Pretzel,SECONDARY_LINE,1,200,200,197,20928,21974
@@ -4130,7 +4048,6 @@ JTK01,"ES-W1F-W3,3GR/9",COPACKING,PR03,"ES-W1F-W3,3GR","ES-W1F-02-RP-W1,1GR",ES-
 JTK01,"ES-W1F-W3,3GR/9",COPACKING,PR17,"ES-W1F-W3,3GR","ES-W1F-01-RP-W1,1GR",ES-W1F-01 BULK,"Wardah Eye Shadow F 3,3 gr (pc(s))",Refill Press Eye Shadow Wardah F 01,EYE SHADOW F 01,NOMINAL_LINE,1,9,3,3,1800,1905
 JTK02,S-P1A2-P5/1000,STD,LR15,S-P1A2-P5,,S-A2L-BULK,Putri Pure Clean Shampoo Apple 5 L (Pc(s)),,Shampoo Apple Liter BULK (Kg),SECONDARY_LINE,1,1000,1000,980,194,224
 JTK02,S-P1A2-P5/500,STD,LR15,S-P1A2-P5,,S-A2L-BULK,Putri Pure Clean Shampoo Apple 5 L (Pc(s)),,Shampoo Apple Liter BULK (Kg),NOMINAL_LINE,1,500,500,500,96,100
-JTK02,PRM-PCCGR-MO/200,STD,LR20,PRM-PCCGR-MO,,PRM-PCCGR-BULK,MAKE OVER POWERSTAY Color Correcting Primer Green 25 ml,,Powerstay Color Correcting Primer Green,NOMINAL_LINE,1,200,200,200,0.001,0.001
 JTK06,"EB-PBL-MO1,14G/0",STD,RR03,"EB-PBL-MO1,14G",,,"MAKE OVER Eyebrow Pencil Black Lines 1,14 g (Pc(s))",,,NOMINAL_LINE,,0,0,0,1,1
 JTK04,LT-CR03-EM/45,STD,SR02,LT-CR03-EM,,LT-CR03-BULK,Emina Creamytint 03 Sunbeam 3.6 g,,Emina Creamytint 03 Sunbeam,SECONDARY_LINE,1,45,45,44,11500,11673
 JTK04,LT-CR03-EM/15,STD,SR09,LT-CR03-EM,,LT-CR03-BULK,Emina Creamytint 03 Sunbeam 3.6 g,,Emina Creamytint 03 Sunbeam,NOMINAL_LINE,1,15,15,14,3564,3670.92
@@ -4182,8 +4099,6 @@ JTK02,F-RVLPWC51-MO/50,STD,LR04,F-RVLPWC51-MO,,F-RVLPWC51-BULK,MAKE OVER Powerst
 JTK02,F-RVLPWC51-MO/15,STD,LR04,F-RVLPWC51-MO,,F-RVLPWC51-BULK,MAKE OVER Powerstay 24H Weightless Liquid Foundation C51 Cool Tan 33 ml,,MAKE OVER Powerstay 24H Weightless Liquid Foundation C51 Cool Tan,NOMINAL_LINE,1,15,15,14,175,180
 JTK06,MY-TMRLDC-W20ML/0,STD,RR01,MY-TMRLDC-W20ML,,,Malaysia Wardah Tester Lightening Day Cream 20 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,HBW-ETBWB-W/1000,STD,LR02,HBW-ETBWB-W,,HBW-ETBWB-BULK,Earth Love Life Javanese Moringa & Balinese Starfruit Body Wash 250 ml,,Earth Love Life Javanese Moringa & Balinese Starfruit Body Wash,NOMINAL_LINE,1,1000,1000,975,3768,3957
-JTK01,TWC-CLFTB-W/40,STD,PR01,TWC-CLFTB-W,,TWC-CLFTB-BULK,Wardah Colorfit Velvet Powder Foundation 22N Light Ivory 11 g,,Colorfit Velvet Powder Foundation 22N Light Ivory,NOMINAL_LINE,1,40,40,40,2916,3003
-JTK01,TWC-CLFTB-W/20,STD,PR01,TWC-CLFTB-W,,TWC-CLFTB-BULK,Wardah Colorfit Velvet Powder Foundation 22N Light Ivory 11 g,,Colorfit Velvet Powder Foundation 22N Light Ivory,SECONDARY_LINE,1,20,20,20,1458,1502
 JTK01,TC-R2RE02-W/300,STD,PR01,TC-R2RE02-W,,TC-PC08-BULK,Wardah Refill Exclusive Two Way Cake 02 Light Beige 12 g,,PERFECT COVER TWC 08 HONEY,SECONDARY_LINE,1,300,300,300,22050,22712
 JTK01,TC-R2RE02-W/100,STD,PR01,TC-R2RE02-W,,TC-PC08-BULK,Wardah Refill Exclusive Two Way Cake 02 Light Beige 12 g,,PERFECT COVER TWC 08 HONEY,NOMINAL_LINE,1,100,100,100,7650,7880
 JTK04,L-EMC15DP-W/100,,,L-EMC15DP-W,,L-EMC15-BULK,Wardah Exclusive Matte Lip Cream 15 Pinky Plumise 4g,,Lipstick Exclusive Matte Lip Cream 15 Pinky Plumise BULK,SECONDARY_LINE,1,100,100,97,23616,24064
@@ -4218,7 +4133,6 @@ JTK04,L-CM11-EM5.5GR/15,STD,SR09,L-CM11-EM5.5GR,,L-CM11-BULK,Emina Creamatte 11 
 JTK04,DUSS-EMLC13H-W/0,SFGPack,SR12,DUSS-EMLC13H-W,,,Dus Sticker Exclusive Matte Lip Cream 13 (Hologram) W,,,NOMINAL_LINE,1,0,0,0,18688,18688
 JTK04,L-EMC18DP-W/200,,,L-EMC18DP-W,,L-EMC18-BULK,Wardah Exclusive Matte Lip Cream 18 Saturdate Night 4g,,Exclusive Matte Lip Cream 18 Saturdate Night,SECONDARY_LINE,1,200,200,196,46080,46541
 JTK04,L-EMC18DP-W/45,,,L-EMC18DP-W,,L-EMC18-BULK,Wardah Exclusive Matte Lip Cream 18 Saturdate Night 4g,,Exclusive Matte Lip Cream 18 Saturdate Night,NOMINAL_LINE,1,45,45,43.25,9792,9890
-JTK01,B-R3L04N-W/100,STD,PR01,B-R3L04N-W,,B-R3L04N-BULK,Wardah Lightening Matte Powder 04 Natural 20 g,,Wardah Lightening Matte Powder 04 Natural,NOMINAL_LINE,1,100,100,100,4648,4787
 JTK02,SRM-H-MO33ML/1000,STD,LR15,SRM-H-MO33ML,,SRM-H-BULK,MAKE OVER Hydration Serum 33 ml (Pc(s)),,Bulk Hydration Serum Make Over,SECONDARY_LINE,1,1000,1000,970,29460,30344
 JTK02,SRM-H-MO33ML/300,STD,LR15,SRM-H-MO33ML,,SRM-H-BULK,MAKE OVER Hydration Serum 33 ml (Pc(s)),,Bulk Hydration Serum Make Over,NOMINAL_LINE,1,300,300,285,8300,8549
 JTK04,L-CM16-EM5.5GR/15,STD,SR09,L-CM16-EM5.5GR,,L-CM16-BULK,Emina Creamatte 16 Soda Gembira 5.5 gr,,Emina Creamatte 16 Soda Gembira,NOMINAL_LINE,1,15,15,14,2304,2373
@@ -4262,13 +4176,10 @@ JTK01,ES-TIS-MO6G/27,COPACKING,PR03,ES-TIS-MO6G,ES-SGT12GRNFS-MO,ES-T-BULK,MAKE 
 JTK01,ES-TIS-MO6G/9,COPACKING,PR03,ES-TIS-MO6G,ES-SGT12GRNFS-MO,ES-T-BULK,MAKE OVER Trivia Eye Shadow Indian Summer 6 g (Pc(s)),Eye Shadow Shiny Glam Toast 2gr Refill Not for Sal Make Over (Pc(s)),Shiny Glam Eye Shadow Toast,SECONDARY_LINE,1,9,3,3,972,1022
 JTK01,ES-TIS-MO6G/27,COPACKING,PR03,ES-TIS-MO6G,ES-SGRB2GRNFS-MO,ES-RB-MO-BULK,MAKE OVER Trivia Eye Shadow Indian Summer 6 g (Pc(s)),Eye Shadow Shiny Glam Rich Brown 2gr Refill Not fo Make Over (Pc(s)),Shiny Glam Eye Shadow Rich Brown,NOMINAL_LINE,2,27,9,9,3600,3725
 JTK01,ES-TIS-MO6G/9,COPACKING,PR03,ES-TIS-MO6G,ES-SGRB2GRNFS-MO,ES-RB-MO-BULK,MAKE OVER Trivia Eye Shadow Indian Summer 6 g (Pc(s)),Eye Shadow Shiny Glam Rich Brown 2gr Refill Not fo Make Over (Pc(s)),Shiny Glam Eye Shadow Rich Brown,SECONDARY_LINE,2,9,3,3,972,1022
-JTK01,TC-R3LEC01-W/40,STD,PR01,TC-R3LEC01-W,,TC-R3LEC01-BULK,Wardah Lightening Powder Foundation Extra Cover 01 Light Beige 10 g,,Wardah Lightening Powder Foundation Extra Cover 01 Light Beige,NOMINAL_LINE,1,40,40,40,2880,2966
 JTK06,MY-BOCLCVI-EM/0,STD,RR01,MY-BOCLCVI-EM,,,Malaysia Emina Cheek Lit Cream Blush Violet 10 ml,,,NOMINAL_LINE,,0,0,0,1,1
 JTK04,F-PTCMCN30-MO/15,STD,SR09,F-PTCMCN30-MO,,F-PTCMCN30-BULK,MAKE OVER Powerstay Total Cover Matte Cream Foundation N30 Natural Beige 12 g,,Powerstay Total Cover Matte Cream Foundation N30 Natural Beige,SECONDARY_LINE,1,15,15,14,1152,1176
 JTK04,F-PTCMCN30-MO/3,STD,SR09,F-PTCMCN30-MO,,F-PTCMCN30-BULK,MAKE OVER Powerstay Total Cover Matte Cream Foundation N30 Natural Beige 12 g,,Powerstay Total Cover Matte Cream Foundation N30 Natural Beige,NOMINAL_LINE,1,3,3,2.75,216,240
 JTK02,F-EXL04-MO/30,STD,LR10,F-EXL04-MO,,F-EXL04-BULK,MAKE OVER Expert Liquid Foundation 04 30 ml,,MAKE OVER Expert Liquid Foundation 04,NOMINAL_LINE,1,30,30,26,387,541
-JTK02,CON-PTCL01-MO/30,STD,LR16,CON-PTCL01-MO,,CON-PTCL01-BULK,MAKE OVER Powerstay Total Cover Liquid Concealer 01 Light 6.5 ml,,Powerstay Total Concealer Liquid 01 Bulk (Kg),SECONDARY_LINE,1,30,30,23,0.001,0.001
-JTK02,CON-PTCL01-MO/15,STD,LR16,CON-PTCL01-MO,,CON-PTCL01-BULK,MAKE OVER Powerstay Total Cover Liquid Concealer 01 Light 6.5 ml,,Powerstay Total Concealer Liquid 01 Bulk (Kg),NOMINAL_LINE,1,15,15,14,0.001,0.001
 JTK02,CUS-CLPGCRC-W/150,STD,LR05,CUS-CLPGCRC-W,,CUS-CLPGCC-BULK,Wardah Refill Colorfit Perfect Glow Cushion 23W Warm Ivory,,Wardah Colorfit Perfect Glow Cushion 23W Warm Ivory,NOMINAL_LINE,1,150,150,135,7687,7920
 JTK01,TC-R3LLF06-W/40,STD,PR01,TC-R3LLF06-W,,TC-R3LLF06-BULK,Wardah Lightening Powder Foundation Light Feel 06 Ivory 12 g,,Wardah Lightening Powder Foundation Light Feel 06 Ivory,NOMINAL_LINE,1,40,40,40,2880,2966
 JTK06,MY-FMCMSC-EM/0,STD,RR01,MY-FMCMSC-EM,,,Malaysia Emina Clay Mask Sebum Control 60 ml,,,NOMINAL_LINE,,0,0,0,1,1
@@ -4293,7 +4204,7 @@ JTK01,TC-LPGBB03-W11GR/60,STD,PR01,TC-LPGBB03-W11GR,,TC-LPGBB03-BULK,Wardah Ligh
 JTK04,L-HSLWA-MO/15,STD,SR09,L-HSLWA-MO,,L-HSLWA-BULK,Make Over Hydrastay Smooth Lip Whip C01 Grace 6.5 g,,Make Over Hydrastay Smooth Lip Whip C01 Grace,SECONDARY_LINE,1,15,15,14,2016,2076
 JTK04,L-HSLWA-MO/5,STD,SR09,L-HSLWA-MO,,L-HSLWA-BULK,Make Over Hydrastay Smooth Lip Whip C01 Grace 6.5 g,,Make Over Hydrastay Smooth Lip Whip C01 Grace,NOMINAL_LINE,1,5,5,4.5,672,684
 JTK04,L-HSLWA-MO/4,STD,SR09,L-HSLWA-MO,,L-HSLWA-BULK,Make Over Hydrastay Smooth Lip Whip C01 Grace 6.5 g,,Make Over Hydrastay Smooth Lip Whip C01 Grace,NOMINAL_LINE,1,4,4,3.75,504,524
-JTK02,FS-BSFS-EM/1000,STD,LR15,FS-BSFS-EM,,FS-BSFS-BULK,Emina Bright Stuff Face Scrub 50 ml,,EMINA Bright Stuff Face Scrub Bulk,NOMINAL_LINE,1,1000,1000,985,20038,20640
+JTK02,FS-BSFS-EM/1000,STD,LR15,FS-BSFS-EM,,FS-BSFS-BULK,Emina Bright Stuff Face Scrub 50 ml,,EMINA Bright Stuff Face Scrub Bulk,NOMINAL_LINE,1,1000,1000,985,0,0
 JTK02,BBC-EL-W15ML/800,STD,LR01,BBC-EL-W15ML,,BBC-EL-BULK,Wardah Everyday BB Cream Light 15 ml (pc(s)),,Everyday BB cream Light Bulk,NOMINAL_LINE,1,800,800,800,45216,46216
 JTK06,B-W2TELCP01-W14G/0,STD,RR01,B-W2TELCP01-W14G,,,Wardah Tester Container Evd Lum Compact Powder 01 Light Beige 14 g,,,NOMINAL_LINE,,0,0,0,1,1
 JTK04,MY-LSMULMC-EM/15,STD,SR09,MY-LSMULMC-EM,,L-SMULMC-BULK,Malaysia Emina Squeeze Me Up Lip Matte 03. City Cycling 6.5 g,,Emina Squeeze Me Up Lip Matte 03 City Cycling,NOMINAL_LINE,1,15,15,14,1968,2067
@@ -4374,9 +4285,9 @@ JTK01,DUSS-RCVPF22NR0-W/0,SFGPack,PR16,DUSS-RCVPF22NR0-W,,,Dus Sticker Colorfit 
 JTK06,P-CSLAW-W/0,STD,RR01,P-CSLAW-W,,,Wardah Bundling Colorfit Series Look A - Watson,,,NOMINAL_LINE,,0,0,0,912,912
 JTK06,EL-EDCPBL-EM0.2GR/0,STD,RR03,EL-EDCPBL-EM0.2GR,,,Emina Eye Do! Crayon Pour Les Yeux Black 0.2 gr (Pc(s)),,,NOMINAL_LINE,,0,0,0,1,1
 JTK02,FW-CFW-W/1000,STD,LR02,FW-CFW-W,,FW-CFW-BULK,Crystallure Moisture Rich Cleansing Foam 100 ml,,Wardah Crystallure Moisture Rich Cleansing Foam,SECONDARY_LINE,1,1000,1000,970,8500,9740
-JTK02,FW-CFW-W/600,STD,LR02,FW-CFW-W,,FW-CFW-BULK,Crystallure Moisture Rich Cleansing Foam 100 ml,,Wardah Crystallure Moisture Rich Cleansing Foam,SECONDARY_LINE,1,600,600,570,5240,5502
-JTK02,FW-CFW-W/200,STD,LR02,FW-CFW-W,,FW-CFW-BULK,Crystallure Moisture Rich Cleansing Foam 100 ml,,Wardah Crystallure Moisture Rich Cleansing Foam,NOMINAL_LINE,1,200,200,185,1777,1866
-JTK02,FW-CFW-W/200,STD,LR02,FW-CFW-W,,FW-CFW-BULK,Crystallure Moisture Rich Cleansing Foam 100 ml,,Wardah Crystallure Moisture Rich Cleansing Foam,NOMINAL_LINE,1,200,200,185,1777,1866
+JTK02,FW-CFW-W/600,STD,LR02,FW-CFW-W,,FW-CFW-BULK,Crystallure Moisture Rich Cleansing Foam 100 ml,,Wardah Crystallure Moisture Rich Cleansing Foam,SECONDARY_LINE,1,600,600,570,5288,5447
+JTK02,FW-CFW-W/200,STD,LR02,FW-CFW-W,,FW-CFW-BULK,Crystallure Moisture Rich Cleansing Foam 100 ml,,Wardah Crystallure Moisture Rich Cleansing Foam,NOMINAL_LINE,1,200,200,185,1615,1715
+JTK02,FW-CFW-W/200,STD,LR02,FW-CFW-W,,FW-CFW-BULK,Crystallure Moisture Rich Cleansing Foam 100 ml,,Wardah Crystallure Moisture Rich Cleansing Foam,NOMINAL_LINE,1,200,200,185,1615,1715
 JTK04,EB-IPB3M02-W5.5G/45,STD,SR09,EB-IPB3M02-W5.5G,,EB-IPB3M02-BULK,Wardah Instaperfect BROWFESSIONAL 3D Brow Mascara 02. DEEP GREY 5.5 g,,Wardah Instaperfect BROWFESSIONAL 3D Brow Mascara 02 DEEP,SECONDARY_LINE,1,45,45,44,7800,7956
 JTK04,EB-IPB3M02-W5.5G/15,STD,SR09,EB-IPB3M02-W5.5G,,EB-IPB3M02-BULK,Wardah Instaperfect BROWFESSIONAL 3D Brow Mascara 02. DEEP GREY 5.5 g,,Wardah Instaperfect BROWFESSIONAL 3D Brow Mascara 02 DEEP,NOMINAL_LINE,1,15,15,14,2456,2516
 JTK04,EB-IPB3M02-W5.5G/3,STD,SR09,EB-IPB3M02-W5.5G,,EB-IPB3M02-BULK,Wardah Instaperfect BROWFESSIONAL 3D Brow Mascara 02. DEEP GREY 5.5 g,,Wardah Instaperfect BROWFESSIONAL 3D Brow Mascara 02 DEEP,SECONDARY_LINE,1,3,3,2.5,432,453
