@@ -518,7 +518,6 @@ FM-NDASR-W,Wardah Nature Daily Alpine Apple Nutritive Gel Capsule Mask 10 ml
 FM-NDOES-W,Wardah Nature Daily Milky Oat Exfoliating Scrub Capsule Mask 10 ml
 FM-NDOPB-W,Wardah Nature Daily Orange Pomelo Brightening Wash Off Capsule Mask 10 ml
 FM-NDTOC-W,Wardah Nature Daily Tea Tree Oil Control Clay Capsule Mask 10 ml
-FM-PBTUWC-W,Wardah C-Defense Waterclay Mask 30 g
 FM-RLN2-W,Wardah Lightening Blue Clay Mask 50 g
 FM-SL-EM60ML,Emina Cranberry Juice Face Mask 60 ml
 FMI-AV-EM,Emina Aloe Vera Face Mist 60 ml
@@ -529,6 +528,7 @@ FMI-MS-KA,Kahf Everyday Multipurpose Refreshing Spray 100 ml
 FMI-US3IN1-TA,Tavi Urban Shield 3 in 1 Super Fine Mist 90 ml
 FS-AJ-EM60ML,Emina Apricot Jam Face Scrub 60 ml (Pc(s))
 FS-BSFS-EM,Emina Bright Stuff Face Scrub 50 ml
+FS-NFSGE-KA,Kahf NFS Gentle Exfoliating Face Scrub 8 ml
 FS-RLN2-W,Wardah Lightening Gentle Exfoliator 50 ml
 FS-SB-W60ML,Wardah Nature Daily Seaweed Balancing Facial Scrub 60 ml
 FT-AN1-EM,Emina Natura Pal Toner Essence 100 ml
@@ -582,7 +582,10 @@ FW-LWFN1-W,Wardah Lightening Whip Facial Foam 50 ml
 FW-LWFN2-W,Wardah Lightening Whip Facial Foam 100 ml
 FW-MCF-W100ML,Wardah Nature Daily Mineral+ Clarifying Facial Foam 100 ml
 FW-MCF-W60ML,Wardah Nature Daily Mineral+ Clarifying Facial Foam 60 ml
+FW-NFS3IN1PC-KA,Kahf NFS Triple Action Oil and Comedo Defense Face Wash 8 ml
 FW-NFSGS-L,LABORÉ Sensitive Skin Care NFS GentleBiome Mild Cleanser 15 ml
+FW-NFSPCSAC8-KA,Kahf NFS Skin Energizing and Brightening Face Wash 8 ml
+FW-NFSPCSRB8-KA,Kahf NFS Oil and Acne Care Face Wash 8 ml
 FW-PBCFLSN3-W,Wardah Perfect Bright Creamy Foam Brightening + Smoothing 6 x 20 ml
 FW-PBCFLSN3H-W,Wardah Perfect Bright Creamy Foam Brightening + Smoothing with Hanger 6 x 20 ml
 FW-PBNW100-W,Wardah Perfect Bright Cooling Bright Jelly Facial Foam 100 ml
@@ -669,7 +672,6 @@ HC-P1F-P200,Putri Pure Clean Hair Conditioner Floral 200 ML (Pc(s))
 HC-P1F-P450,Putri Pure Clean Hair Conditioner Floral 450 ML (Pc(s))
 HM-P1P-P720,Putri Platinum Hair Mask 720 ML (Pc(s))
 HM-P1SPA-P720,Putri SPA Series Hair Mask 720 ml (pc(s))
-HS-AVHGN2-EM,Emina Aloe Vera Hand Gel 50 ml
 HS-MHS-MO,Make Over All Purpose Sanitizer 200 ml
 HSP-P1N1B3N-P200,Putri Hair Spray Non Aerosol Normal (Biru) 200 ML (Pc(s))
 HSP-P1N1B3N-P450,Putri Hair Spray Non Aerosol Normal (Biru) 450 ML (Pc(s))
@@ -870,9 +872,6 @@ L-IPMC03-W3G,Wardah Instaperfect MATTECENTRIC Lip Crayon 03 Honor 3 g
 L-IPMC04-W3G,Wardah Instaperfect MATTECENTRIC Lip Crayon 04 Joy 3 g
 L-IPMC05-W3G,Wardah Instaperfect MATTECENTRIC Lip Crayon 05 Sense 3 g
 L-IPMC06-W3G,Wardah Instaperfect MATTECENTRIC Lip Crayon 06 Soul 3 g
-L-IPMLMP06-W,Wardah Instaperfect MATTESETTER Lip Matte Paint 06. FLAIR 5.5 g
-L-IPMLMP07-W,Wardah Instaperfect MATTESETTER Lip Matte Paint 07. DAZZLE 5.5 g
-L-IPMLMP08-W,Wardah Instaperfect MATTESETTER Lip Matte Paint 08. EDGE 5.5 g
 L-IPMLMP10-W,Instaperfect Mattesetter Lip Matte Paint 10 Mosaic
 L-IPMLMP11-W,Instaperfect Mattesetter Lip Matte Paint 11 Kaleidoscope
 L-IPMLMP12-W,Instaperfect Mattesetter Lip Matte Paint 12 The Voyage
@@ -928,7 +927,7 @@ L-NLCALE1REG-EM,Emina Poppin' Matte The 90's Edition 06 Roller Skate 4.5 g
 L-NLCB-EM,Emina Poppin’ Matte 02 To Be Honest
 L-NLCBLE2-EM,Emina Poppin' Matte The 90's Edition 07 Rubic Cubic 4.5 g
 L-NLCC-EM,Emina Poppin’ Matte 01 Lowkey
-L-NLCCLE3REG-EM,Emina Poppin' Matte The 90's Edition 08 Lovely Tamagochan 4.5 g
+L-NLCCLE3REG-EM,Emina Poppin' Matte The 90's Edition 08 Lovely Tamago 4.5 g
 L-NLCD-EM,Emina Poppin’ Matte 03 Game On
 L-NLCDLE4-EM,Emina Poppin' Matte The 90's Edition 09 Tossin' Tazos 4.5 g
 L-NLCE-EM,Emina Poppin’ Matte 05 Easy Peasy
@@ -937,14 +936,6 @@ L-NLCXCA-EM,Emina Poppin' Matte X Chatime 11 Chatime Milk Tea
 L-NLCXCB-EM,Emina Poppin' Matte X Chatime 12 Hazelnut Chocolate Milk Tea
 L-NLCXCC-EM,Emina Poppin' Matte X Chatime 13 Brown Sugar Milk Tea
 L-PGTC-MO,MAKE OVER Powerstay Glossy Lip Top Coat 6.2 g
-L-PS01-MO,MAKE OVER Powerstay Superlast Lip Cream 01 6 g
-L-PS02-MO,MAKE OVER Powerstay Superlast Lip Cream 02 6 g
-L-PS03-MO,MAKE OVER Powerstay Superlast Lip Cream 03 6 g
-L-PS04-MO,MAKE OVER Powerstay Superlast Lip Cream 04 6 g
-L-PS05-MO,MAKE OVER Powerstay Superlast Lip Cream 05 6 g
-L-PS06-MO,MAKE OVER Powerstay Superlast Lip Cream 06 6 g
-L-PS07-MO,MAKE OVER Powerstay Superlast Lip Cream 07 6 g
-L-PS08-MO,MAKE OVER Powerstay Superlast Lip Cream 08 6 g
 L-PTGL1-MO,Make Over Glassy Lip Lacquer 401 Edge 4.5 g
 L-PTGL2-MO,Make Over Glassy Lip Lacquer 402 Social 4.5 g
 L-PTGL3-MO,Make Over Glassy Lip Lacquer 403 Prime 4.5 g
@@ -1153,10 +1144,6 @@ MA-MSCD-W,Wardah C-Defense SuperSerum Mask 20 ml
 MA-MSL-W,Wardah Lightening SuperSerum Mask 20 ml
 MA-MSND-W,Wardah Nature Daily SuperSerum Mask 20 ml
 MA-MTRWS-W,Wardah Crystal Secret Radiance Serum Mask 20 ml
-MA-NDSAV-W,Wardah Nature Daily Sheet Mask Aloe Vera 20 ml
-MA-NDSGT-W,Wardah Nature Daily Sheet Mask Green Tea 20 ml
-MA-NDSRI-W,Wardah Nature Daily Sheet Mask Rice 20 ml
-MA-NDSRO-W,Wardah Nature Daily Sheet Mask Rose 20 ml
 MA-NDSVC-W,Wardah Nature Daily Sheet Mask Vitamin C 20 ml
 MASK-CLV-EM,Emina Cosmic Lash Volume Mascara 6 g
 MASK-EEAL-W6GR,Wardah EyeXpert Aqua Lash Mascara 6 gr (Pc(s))
@@ -1707,14 +1694,10 @@ P-BSFSBSFW-EM,Emina Bundling Bright Stuff Face Scrub 50 ml + Emina Bright Stuff 
 P-BSFSSBAT30-EM,Emina Bundling Bright Stuff Face Scrub 50 ml + Emina Sun Battle SPF 30 PA+++ 60 ml
 P-BSFTRRP-EM,Emina Bright Stuff Face Toner 50 ml isi 6 pcs
 P-BSFWRRP-EM,Emina Bright Stuff Face Wash 50 ml isi 6 pcs
-P-CD2-W,Festive Radiant Look Hampers
 P-CESR-W,Wardah Crystallure Essential Skincare Routine
 P-CGK-W,Wardah Crystallure Advanced Glow Kit
-P-CSC1-W,Ultimate Glow Essentials Hampers
 P-CSP-W,Wardah Crystal Skin Package
 P-CSTK-W,Wardah Crystal Secret Radiant Skin Starter Kit
-P-IPR1-W,Instaperfect Step Up Eyetension Hampers
-P-IPR3-W,Instaperfect Step Up Longlast Look Hampers
 P-MAA-W,Wardah SuperSerum Mask x2 - Lightening & Acnederm
 P-MAB-W,Wardah SuperSerum Mask x2 - C-defense & Perfect Bright
 P-RD-EM,Emina Happy Girls Are the Prettiest Makeup Box
