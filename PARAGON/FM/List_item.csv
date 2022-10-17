@@ -20,6 +20,7 @@ B-DMCP03-EM,Emina Daily Matte Compact Powder 03 Caramel 11 g
 B-DMCP04-EM,Emina Daily Matte Compact Powder 04 Mocca 11 g
 B-DMLP01-EM,Emina Daily Matte Loose Powder 01 Light Beige 20 g
 B-DMLP02-EM,Emina Daily Matte Loose Powder 02 Natural Beige 20 g
+B-EXLP-MO,MAKE OVER Expert Loose Powder 15 g
 B-HRFP-MO,MAKE OVER Hydrastay Radiant Finishing Powder 10 gr
 B-IPQSP11-W,Instaperfect QUICKMATTE Loose Powder 11 Fair Pink 9 g
 B-IPQSP12-W,Instaperfect QUICKMATTE Loose Powder 22 Light Ivory 9 g
@@ -48,6 +49,7 @@ B-RBMLP01-EM,Emina Bare With Me Mineral Loose Powder 01 Fair 8 g
 B-RBMLP02-EM,Emina Bare With Me Mineral Loose Powder 02 Light Beige 8 g
 B-RBMLP03-EM,Emina Bare With Me Mineral Loose Powder 03 Amber 8 g
 B-RBMLP04-EM,Emina Bare With Me Mineral Loose Powder 04 Ebony 8 g
+B-RBSLP-EM,Emina Bright Stuff Loose Powder 55 g
 B-SFLP-EM8G,Emina Sebum Fighter Loose Powder 8 g
 B-SPB-MO13GR,MAKE OVER Shimmering Powder Bronzed 13 gr
 B-SPC-MO13GR,MAKE OVER Shimmering Powder Chrystalist 13 gr
@@ -249,12 +251,6 @@ CUS-REFC01-W,Wardah Refill Exclusive Flawless Cover Cushion 01 Light Beige 15 g
 CUS-REFC02-W,Wardah Refill Exclusive Flawless Cover Cushion 02 Honey Beige 15 g
 CUS-REFC03-W,Wardah Refill Exclusive Flawless Cover Cushion 03 Sandy Beige 15 g
 CUS-REFC04-W,Wardah Refill Exclusive Flawless Cover Cushion 04 Natural 15 g
-CUS-REFIPRVA-W,Instaperfect Refill Skincover Air Cushion 11 Fair Pink 11 g
-CUS-REFIPRVB-W,Instaperfect Refill Skincover Air Cushion 22 Light Ivory 11 g
-CUS-REFIPRVC-W,Instaperfect Refill Skincover Air Cushion 32 True Beige 11 g
-CUS-REFIPRVD-W,Instaperfect Refill Skincover Air Cushion 33 Warm Olive 11 g
-CUS-REFIPRVE-W,Instaperfect Refill Skincover Air Cushion 43 Creme Sand 11 g
-CUS-REFIPRVF-W,Instaperfect Refill Skincover Air Cushion 52 Almond 11 g
 CUS-RIPMB11-W15G,Wardah Refill Instaperfect MINERALIGHT MATTE BB Cushion 11. FAIR 15 g
 CUS-RIPMB12-W15G,Wardah Refill Instaperfect MINERALIGHT MATTE BB Cushion 12. IVORY 15 g
 CUS-RIPMB13-W15G,Wardah Refill Instaperfect MINERALIGHT MATTE BB Cushion 13. BEIGE 15 g
@@ -298,12 +294,19 @@ EB-IPB3M01-W5.5G,Wardah Instaperfect BROWFESSIONAL 3D Brow Mascara 01. BROWN 5.5
 EB-IPB3M02-W5.5G,Wardah Instaperfect BROWFESSIONAL 3D Brow Mascara 02. DEEP GREY 5.5 g
 EB-IPEM01-W,Wardah Instaperfect BROWFLASH 3-in-1 Brow Perfector 01 True Brown 0.6 g
 EB-IPEM02-W,Wardah Instaperfect BROWFLASH 3-in-1 Brow Perfector 02 Ash Brown 0.6 g
+EB-IPEM03-W,Wardah Instaperfect BROWFLASH 3-in-1 Brow Perfector Ash Grey 0.6 g
+EB-IPEM04-W,Wardah Instaperfect BROWFLASH 3-in-1 Brow Perfector Natural Black 0.6 g
+EB-IPEM05-W,Wardah Instaperfect BROWFLASH 3-in-1 Brow Perfector Dark Brown 0.6 g
 "EB-PBE-MO1,14G","MAKE OVER Eyebrow Pencil Brown To Earth 1,14 g (Pc(s))"
 "EB-PBL-MO1,14G","MAKE OVER Eyebrow Pencil Black Lines 1,14 g (Pc(s))"
 EB-R2SEDA-MO,MAKE OVER Brow Styler Eye Definer Americano 0.13 g
 EB-R2SEDM-MO,MAKE OVER Brow Styler Eye Definer Mocha 0.13 g
 EB-REPBL-W,Wardah EyeXpert Eyebrow Pencil Black 1.14 g (Blister)
 EB-REPBR-W,Wardah EyeXpert Eyebrow Pencil Brown 1.14 g (Blister)
+EB-RIPB3M01-W,Wardah Instaperfect BROWFESSIONAL 3D Brow Mascara 01. BROWN 5.5 g (revamp)
+EB-RIPB3M02-W,Wardah Instaperfect BROWFESSIONAL 3D Brow Mascara 02. DEEP GREY 5.5 g (revamp)
+EB-RIPEM01-W,Wardah Instaperfect BROWFLASH 3-in-1 Brow Perfector 01 True Brown 0.6 g (revamp)
+EB-RIPEM02-W,Wardah Instaperfect BROWFLASH 3-in-1 Brow Perfector 02 Ash Brown 0.6 g (revamp)
 EB-SMUEMA-EM,Emina Squeeze Me Up Browcara Woody 8 g
 EB-SMUEMB-EM,Emina Squeeze Me Up Browcara Ashy 8 g
 EB-SMUEMC-EM,Emina Squeeze Me Up Browcara Clear
@@ -404,6 +407,16 @@ F-EVLLF01-W,Wardah Everyday Luminous Liquid Foundation – 01 Natural White
 F-EVLLF02-W,Wardah Everyday Luminous Liquid Foundation – 02 Light Beige
 F-EVLLF03-W,Wardah Everyday Luminous Liquid Foundation – 03 Beige
 F-EVLLF04-W,Wardah Everyday Luminous Liquid Foundation – 04 Natural
+F-EXL01-MO,MAKE OVER Expert Liquid Foundation 01 30 ml
+F-EXL02-MO,MAKE OVER Expert Liquid Foundation 02 30 ml
+F-EXL03-MO,MAKE OVER Expert Liquid Foundation 03 30 ml
+F-EXL04-MO,MAKE OVER Expert Liquid Foundation 04 30 ml
+F-EXL05-MO,MAKE OVER Expert Liquid Foundation 05 30 ml
+F-EXL06-MO,MAKE OVER Expert Liquid Foundation 06 30 ml
+F-EXL07-MO,MAKE OVER Expert Liquid Foundation 07 30 ml
+F-EXL08-MO,MAKE OVER Expert Liquid Foundation 08 30 ml
+F-EXL09-MO,MAKE OVER Expert Liquid Foundation 09 30 ml
+F-EXL10-MO,MAKE OVER Expert Liquid Foundation 10 30 ml
 F-HGFC21-MO,MAKE OVER Hydrastay Glow Fluid Foundation C21 Pink Ivory 34 ml
 F-HGFN10-MO,MAKE OVER Hydrastay Glow Fluid Foundation N10 Marble 34 ml
 F-HGFN30-MO,MAKE OVER Hydrastay Glow Fluid Foundation N30 Natural Beige 34 ml
@@ -582,7 +595,7 @@ FT-NFSGSEH30-L,LABORÉ Sensitive Skin Care NFS GentleBiome Hydration Toner 30 ml
 FT-PHASN1-EM,Emina Ms. Pimple Acne Solution Face Toner 50 ml
 FT-PHASN2-EM,Emina Ms. Pimple Acne Solution Face Toner 100 ml
 FT-PHPRA-TA,Tavi 2 Phase Pre Acne Toner 100 ml
-FT-PSTE-MO,Make Over Powerskin Toner Essence 100 ml
+FT-RBST-EM,Emina Bright Stuff Face Toner 100 ml
 FT-RIHT-W,Wardah Hydra Rose Petal Infused Toner 100 ml
 FT-RPHASN2-EM,Emina Ms. Pimple Acne Solution Face Toner 100 ml
 FT-RWSABHA-W,Wardah Crystal Secret Exfoliating Toner with Natural AHA+PHA 125 ml
@@ -626,6 +639,8 @@ FW-PBNW100-W,Wardah Perfect Bright Cooling Bright Jelly Facial Foam 100 ml
 FW-PCSAC-KA,Kahf Oil and Acne Care Face Wash 100 ml
 FW-PCSRB-KA,Kahf Skin Energizing and Brightening Face Wash 100 ml
 FW-PHAS-EM50ML,Emina Ms. Pimple Acne Solution Face Wash 50 ml
+FW-RBS-EM,Emina Bright Stuff Face Wash 50 ml
+FW-RBSN2-EM,Emina Bright Stuff Face Wash 100 ml
 FW-RHMF-W,Wardah Hydra Rose Gel to Foam cleanser 100 ml
 FW-RPBCFLO100-W,Wardah Perfect Bright Creamy Foam Bright + Oil Control 100 ml
 FW-RPBCFLO50-W,Wardah Perfect Bright Creamy Foam Bright + Oil Control 50 ml
@@ -633,6 +648,7 @@ FW-RPBCFLS100-W,Wardah Perfect Bright Creamy Foam Bright + Smooth Glow 100 ml
 FW-RPBCFLS50-W,Wardah Perfect Bright Creamy Foam Bright + Smooth Glow 50 ml
 FW-RPBCFLSN3-W,Wardah Perfect Bright Creamy Foam Bright + Smooth Glow 6 x 20 ml (Non Hanger)
 FW-RPBCFLSN3H-W,Wardah Perfect Bright Creamy Foam Bright + Smooth Glow 6 x 20 ml (Hanger)
+FW-RPHAS-EM,Emina Ms. Pimple Acne Solution Face Wash 50 ml
 FW-RRYAG-W,Wardah Renew You Facial Wash 100 ml (Pc(s))
 FW-RWSABHA-W,Wardah Crystal Secret Foaming Cleanser with Natural AHA+PHA 100 ml
 FW-SB-W60ML,Wardah Nature Daily Seaweed Balancing Facial Wash 60 ml
@@ -968,6 +984,10 @@ L-NLCXCA-EM,Emina Poppin' Matte X Chatime 11 Chatime Milk Tea
 L-NLCXCB-EM,Emina Poppin' Matte X Chatime 12 Hazelnut Chocolate Milk Tea
 L-NLCXCC-EM,Emina Poppin' Matte X Chatime 13 Brown Sugar Milk Tea
 L-PGTC-MO,MAKE OVER Powerstay Glossy Lip Top Coat 6.2 g
+L-PTG1-MO,MAKE OVER Glassy Lip Lacquer X Hian Tjen 401 Edge 4.5 g
+L-PTG2-MO,MAKE OVER Glassy Lip Lacquer X Hian Tjen 402 Social 4.5 g
+L-PTG3-MO,MAKE OVER Glassy Lip Lacquer X Hian Tjen 403 Prime 4.5 g
+L-PTG4-MO,MAKE OVER Glassy Lip Lacquer X Hian Tjen 404 A-List 4.5 g
 L-PTGL1-MO,Make Over Glassy Lip Lacquer 401 Edge 4.5 g
 L-PTGL2-MO,Make Over Glassy Lip Lacquer 402 Social 4.5 g
 L-PTGL3-MO,Make Over Glassy Lip Lacquer 403 Prime 4.5 g
@@ -1149,12 +1169,15 @@ M-PSRT20-MO,MAKE OVER Powerskin Radiant Tinted Moisturizer 20 Light Beige 40 ml
 M-PSRT30-MO,MAKE OVER Powerskin Radiant Tinted Moisturizer 30 Beige 40 ml
 M-PSRT40-MO,MAKE OVER Powerskin Radiant Tinted Moisturizer 40 Medium Beige 40 ml
 M-PSWC-MO,MAKE OVER Powerskin Water Charge Moisturizer 42 ml
+M-RBSC-EM,Emina Bright Stuff Moisturizing Cream 20 ml
+M-RBSTUC-EM,Emina Bright Stuff Tone Up Cream 20 ml
 M-RHDGN1-W,Wardah Hydra Rose Dewy Aqua Day Gel 40 g
 M-RHDGN2-W,Wardah Hydra Rose Dewy Aqua Day Gel 17 ml
 M-RHOVN1-W,Wardah Hydra Rose Moisture Rich Night Gel 40 g
 M-RHOVN2-W,Wardah Hydra Rose Moisture Rich Night Gel 17 ml
 M-RPBNS20-W,Wardah Perfect Bright Moisturizer Bright + Smooth Glow SPF 30 PA+++ 20 ml
 M-RPBSPF30-W,Wardah Perfect Bright Moisturizer Bright + Oil Control SPF 30 PA+++ 20 ml
+M-RPHAG-EM,Emina Ms. Pimple Acne Solution Moisturizing Gel 20 ml
 M-RRYDCN1-W,Wardah Renew You Day Cream 15 g (Pc(s))
 M-RRYDCN2-W,Wardah Renew You Day Cream 30 g (Pc(s))
 M-RRYDCN3-W,Wardah Renew You Day Cream 9 g (Pc(s))
@@ -1166,6 +1189,7 @@ M-RWSDCN3-W,Wardah Crystal Secret Brightening Day Cream 9 ml
 M-RWSNCN1-W,Wardah Crystal Secret Bright Activating Night Cream 15 ml
 M-RWSNCN2-W,Wardah Crystal Secret Bright Activating Night Cream 30 g
 M-SM01-KA,Kahf Triple Protection Sunscreen Moisturizer 30 ml
+M-SSSC01-B,Beyondly Collagen Serum Sunscreen SPF50 PA++++ 40ml
 M-WHPG-W40ML,Wardah Nature Daily Witch Hazel Purifying Moisturizer Gel 40 ml
 M-WSDGN1-W,Wardah Crystal Secret Refreshing Day Gel 15 ml
 M-WSDGN2-W,Wardah Crystal Secret Refreshing Day Gel 30 g
@@ -1186,6 +1210,7 @@ MASK-OMG-OMG,OMG Oh My Glam LASHTENTION Waterproof Mascara 6.5 g
 MASK-SLA-EM5GR,Emina Star Lash Aqua Mascara 5 gr (Pc(s))
 MASK-SMU-EM,Emina Squeeze Me Up Mascara 8 g
 MB-COTR01-B,Beyondly Carrier Oil Terra 100 ml
+MB-MBSG01-B,Beyondly Minyak Balur Sagala 100 ml
 MK-P1-P100,Putri Natural Candlenut Oil 100 ML (Pc(s))
 MSS-P1C-P1,Putri Massage Cream 1 KG (Pc(s))
 MUR-DIS-EM50ML,Emina Dirt-less In Sight Make Up Remover 50 ml (Pc(s))
@@ -1198,7 +1223,6 @@ MY-BDMCP01-EM,Malaysia Emina Daily Matte Compact Powder 01 Light 11 g
 MY-BDMCP02-EM,Malaysia Emina Daily Matte Compact Powder 02 Natural 11 g
 MY-BDMCP03-EM,Malaysia Emina Daily Matte Compact Powder 03 Caramel 11 g
 MY-BDMCP04-EM,Malaysia Emina Daily Matte Compact Powder 04 Mocca 11 g
-MY-BHRFP-MO,Malaysia MAKE OVER Hydrastay Radiant Finishing Powder 8 g
 MY-BIPQSP11-W,Malaysia Instaperfect QUICKMATTE Loose Powder 11 Fair Pink 9 g
 MY-BIPQSP12-W,Malaysia Instaperfect QUICKMATTE Loose Powder 22 Light Ivory 9 g
 MY-BIPQSP13-W,Malaysia Instaperfect QUICKMATTE Loose Powder 32 True Beige 9 g
@@ -1218,18 +1242,11 @@ MY-BOCLPPTVB-EM,Malaysia Emina Cheek Lit Pressed Blush Violet Berry 3.5 gr (Pc(s
 MY-BOCOCBMM-W,Malaysia Wardah Colorfit Cream Blush 02 MERRY MAUVE 3 g
 MY-BOCOCBSC-W,Malaysia Wardah Colorfit Cream Blush 01 SAND CORAL 3 g
 MY-BOCOCBSP-W,Malaysia Wardah Colorfit Cream Blush 03 SUMMER PEACH 3 g
-MY-BOHLT01-MO,Malaysia MAKE OVER Hydrastay Liquid Tint Blush 01 Flair 15 ml
-MY-BOHLT02-MO,Malaysia MAKE OVER Hydrastay Liquid Tint Blush 02 Gala 15 ml
-MY-BOHLT03-MO,Malaysia MAKE OVER Hydrastay Liquid Tint Blush 03 Solace 15 ml
-MY-BOHLT04-MO,Malaysia MAKE OVER Hydrastay Liquid Tint Blush 04 Dolce 15 ml
-MY-BOHLT05-MO,Malaysia MAKE OVER Hydrastay Liquid Tint Blush 05 Sun-Baked 15 ml
-MY-BOSKCS06-MO,Malaysia MAKE OVER BO Single 06 Caribbean Sunset 6 g (Pc(s))
-MY-BOSKPP10-MO,Malaysia MAKE OVER BO Single 10 Passion Pink 6 g (Pc(s))
-MY-BOSKPS03-MO,Malaysia MAKE OVER BO Single 03 Promiscious Peach 6g (Pc(s))
 MY-BPBBB-W,Malaysia Wardah Perfect Bright BB Powder 50 g
 MY-BPHREDT-KA,Malaysia Kahf Humbling Forest Eau de Toilette 35 ml
 MY-BPIWEDT-KA,Malaysia Kahf Invigorating Waterfall Eau de Toilette 35 ml
-MY-BPMT-MO,Malaysia MAKE OVER Powerstay Mattifying Transparent Powder 11 g
+MY-BPMOEDP-KA,Malaysia Kahf Saffron Oud Eau de Parfum 100 ml
+MY-BPRHEDP-KA,Malaysia Kahf Revered Oud Eau de Parfum 100 ml
 MY-BPRHEDT-KA,Malaysia Kahf Revered Oud Eau de Toilette 35 ml
 MY-BPT01-MO,Malaysia MAKE OVER Silky Smooth Translucent Powder 01 Porcelain 35 g (Pc(s))
 MY-BPT02-MO,Malaysia MAKE OVER Silky Smooth Translucent Powder 02 Rosy 35 g (Pc(s))
@@ -1254,9 +1271,6 @@ MY-CONIP05-W,Malaysia Wardah Instaperfect Concealer 05 5 ml
 MY-CONIP06-W,Malaysia Wardah Instaperfect Concealer 06 5 ml
 MY-CONLBBL01-W,Malaysia Wardah Lightening Liquid Concealer 01 Light 7 g (Blister)
 MY-CONLBBL02-W,Malaysia Wardah Lightening Liquid Concealer 02 Beige 7 g (Blister)
-MY-CONPTCL01-MO,Malaysia MAKE OVER Powerstay Total Cover Liquid Concealer 01 Light 6.5 ml
-MY-CONPTCL02-MO,Malaysia MAKE OVER Powerstay Total Cover Liquid Concealer 02 Light to Medium 6.5 ml
-MY-CONPTCL03-MO,Malaysia MAKE OVER Powerstay Total Cover Liquid Concealer 03 Medium 6.5 ml
 MY-CONSMULCA-EM,Malaysia Emina Squeeze Me Up Liquid Concealer Light 8 g
 MY-CONSMULCB-EM,Malaysia Emina Squeeze Me Up Liquid Concealer Natural 8 g
 MY-CONSMULCC-EM,Malaysia Emina Squeeze Me Up Liquid Concealer Caramel 8 g
@@ -1270,26 +1284,6 @@ MY-CUSCLCE-W,Malaysia Wardah Colorfit Perfect Glow Cushion 33W Olive Beige
 MY-CUSCLCF-W,Malaysia Wardah Colorfit Perfect Glow Cushion 43W Golden Sand
 MY-CUSCLCG-W,Malaysia Wardah Colorfit Perfect Glow Cushion 42N Neutral Sand
 MY-CUSCLCH-W,Malaysia Wardah Colorfit Perfect Glow Cushion 52N Almond
-MY-CUSHLGCC31-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion C31 Pink Beige 15 g
-MY-CUSHLGCC41-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion C41 Cool Sand 15 g
-MY-CUSHLGCC51-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion C51 Cool Tan 15 g
-MY-CUSHLGCC62-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion C62 Rich Cocoa 15 g
-MY-CUSHLGCN20-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion N20 Ivory 15 g
-MY-CUSHLGCN40-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion N40 Sand 15 g
-MY-CUSHLGCW12-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion W12 Warm Marble 15 g
-MY-CUSHLGCW21-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion W21 Coral Ivory 15 g
-MY-CUSHLGCW30-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion W30 Creme Beige 15 g
-MY-CUSHLGCW32-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion W32 Warm Beige 15 g
-MY-CUSHLGCW50-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion W50 Creme Tan 15 g
-MY-CUSHLGCW60-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion W60 Creme Cocoa 15 g
-MY-CUSHLGN10-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion N10 Marble 15 g
-MY-CUSHLGNC21-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion C21 Pink Ivory 15 g
-MY-CUSHLGNN30-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion N30 Natural Beige 15 g
-MY-CUSHLGNN50-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion N50 Tan 15 g
-MY-CUSHLGNW22-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion W22 Warm Ivory 15 g
-MY-CUSHLGNW33-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion W33 Honey Beige 15 g
-MY-CUSHLGNW41-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion W41 Coral Sand 15 g
-MY-CUSHLGNW42-MO,Malaysia MAKE OVER Hydrastay Lite Glow Cushion W42 Warm Sand 15 g
 MY-CUSIPA-W,Malaysia Instaperfect Skincover Air Cushion 11 Fair Pink 11 g
 MY-CUSIPC-W,Malaysia Instaperfect Skincover Air Cushion 32 True Beige 11 g
 MY-CUSIPE-W,Malaysia Instaperfect Skincover Air Cushion 43 Creme Sand 11 g
@@ -1320,22 +1314,13 @@ MY-CUSR2EFC03-W,Malaysia Wardah Exclusive Flawless Cover Cushion 03 Sandy Beige 
 MY-CUSR2EFC04-W,Malaysia Wardah Exclusive Flawless Cover Cushion 04 Natural 15 g
 MY-EBABBL-EM,Malaysia Emina Agent of Brow Black 1.2 gr (Pc(s))
 MY-EBABBR-EM,Malaysia Emina Agent of Brow Brown 1.2 gr (Pc(s))
-MY-EBDK01-MO,Malaysia MAKE OVER Eye Brow Definition Kit 01 Dark Brown 6.9 g
-MY-EBDK02-MO,Malaysia MAKE OVER Eye Brow Definition Kit 02 Grey Brown 6.9 g
-MY-EBDMCC-MO,Malaysia MAKE OVER Powerstay Brow Definer Mascara 03 Coffee Cream 6.5 g
-MY-EBDMCL-MO,Malaysia MAKE OVER Powerstay Brow Definer Mascara 02 Chocolate 6.5 g
-MY-EBDMLB-MO,Malaysia MAKE OVER Powerstay Brow Definer Mascara 01 Long Black 6.5 g
 MY-EBEXPMBD01-W,Malaysia Wardah Eyexpert Matic Brow Definer 01 LIGHT BROWN 0.25 g
 MY-EBEXPMBD02-W,Malaysia Wardah EyeXpert Matic Brow Definer 02 DARK BROWN 0.25 g
 MY-EBEXPMBD03-W,Malaysia Wardah EyeXpert Matic Brow Definer 03 DARK GREY 0.25 g
 MY-EBIPEM01-W,Malaysia Wardah Instaperfect BROWFLASH 3-in-1 Brow Perfector 01 True Brown 0.6 g
 MY-EBIPEM02-W,Malaysia Wardah Instaperfect BROWFLASH 3-in-1 Brow Perfector 02 Ash Brown 0.6 g
-MY-EBPBE-MO,"Malaysia MAKE OVER Eyebrow Pencil Brown To Earth 1,14 g (Pc(s))"
 MY-EBREPBL-W,Malaysia Wardah EyeXpert Eyebrow Pencil Black 1.14 g (Blister)
 MY-EBREPBR-W,Malaysia Wardah EyeXpert Eyebrow Pencil Brown 1.14 g (Blister)
-MY-EBSEDA-MO,Malaysia MAKE OVER Brow Styler Eye Definer Americano 0.13 g
-MY-EBSEDC-MO,Malaysia MAKE OVER Brow Styler Eye Definer Caffè Latte 0.13 g
-MY-EBSEDM-MO,Malaysia MAKE OVER Brow Styler Eye Definer Mocha 0.13 g
 MY-EBSMUEMA-EM,Malaysia Emina Squeeze Me Up Browcara Woody 8 g
 MY-EBSMUEMB-EM,Malaysia Emina Squeeze Me Up Browcara Ashy 8 g
 MY-EBSMUEMC-EM,Malaysia Emina Squeeze Me Up Browcara Clear
@@ -1345,7 +1330,6 @@ MY-ECRWSB-W,Malaysia Wardah Crystal Secret Eyes Dark Circle Corrector 10 ml
 MY-ELEDPBL-EM,Malaysia Emina Eye Do! Pencil Eye Liner Black 1 gr (Pc(s))
 MY-ELEDPBR-EM,Malaysia Emina Eye Do! Pencil Eye Liner Brown 1 gr (Pc(s))
 MY-ELHBS-MO,Malaysia MAKE OVER Hyperblack Superstay Liner 1 g
-MY-ELPBJ-MO,"Malaysia MAKE OVER Eye Liner Pencil Black Jack 1,2 g (Pc(s))"
 MY-ESCLPNB-W,Malaysia Wardah COLORFIT QUAD EYE PALETTE 01 BRUNETTE DAWN 1.8 g
 MY-ESCLPPB-W,Malaysia Wardah COLORFIT QUAD EYE PALETTE 02 ROSÉ AURORA 1.8 g
 MY-ESCLPWP-W,Malaysia Wardah COLORFIT QUAD EYE PALETTE 03 SUNLIT BLAZE 1.8 g
@@ -1357,16 +1341,12 @@ MY-ESPRPBK-EM,Malaysia Emina Pop Rouge Pressed Eye Shadow Brick 3.3 gr (Pc(s))
 MY-ESPRPGI-EM,Malaysia Emina Pop Rouge Pressed Eye Shadow Gelato 3.3 gr (Pc(s))
 MY-ESPRPNS-EM,Malaysia Emina Pop Rouge Pressed Eye Shadow Nude 3.3 gr (Pc(s))
 MY-ESPRPPH-EM,Malaysia Emina Pop Rouge Pressed Eye Shadow Posh 3.3 gr (Pc(s))
-MY-ESTEB-MO,Malaysia MAKE OVER Trivia Eye Shadow Emperor Brown 6 g (Pc(s))
-MY-ESTGE-MO,Malaysia MAKE OVER Trivia Eye Shadow Golden Espress 6 g (Pc(s))
-MY-ESTIS-MO,Malaysia MAKE OVER Trivia Eye Shadow Indian Summer 6 g (Pc(s))
 MY-FACLFLMHCP-W,Malaysia Wardah Colorfit Highlight Contour Palette 01 Light
 MY-FACLFMDHCP-W,Malaysia Wardah Colorfit Highlight Contour Palette 02 Medium
 MY-FAEGH-W,Malaysia Wardah Exclusive Glowing Highlighter 6.5 g
 MY-FAIPLGH01-W,Malaysia Instaperfect Hi Glow Fluid Highlighter Moonstone 6 g
 MY-FAIPLGH02-W,Malaysia Instaperfect Hi Glow Fluid Highlighter Rose Quartz 6 g
 MY-FAPFMS-MO,Malaysia MAKE OVER Powerstay Fix & Matte Makeup Setting Spray 50 ml
-MY-FAUGHP-MO,Malaysia MAKE OVER Powerstay Ultra Glow Highlighter 3 x 3.5 g
 MY-FBWMM01-EM,Malaysia Emina Bare with Me Mineral Mild Foundation 01 Light 30 ml
 MY-FBWMM02-EM,Malaysia Emina Bare with Me Mineral Mild Foundation 02 Natural 30 ml
 MY-FBWMM03-EM,Malaysia Emina Bare with Me Mineral Mild Foundation 03 Caramel 30 ml
@@ -1379,14 +1359,6 @@ MY-FCLCME-W,Malaysia Wardah Colorfit Matte Foundation 33W Olive Beige 25 ml
 MY-FCLCMF-W,Malaysia Wardah Colorfit Matte Foundation 43W Golden Sand 25 ml
 MY-FCLCMG-W,Malaysia Wardah Colorfit Matte Foundation 42N Neutral Sand 25 ml
 MY-FCLCMH-W,Malaysia Wardah Colorfit Matte Foundation 52N Almond 25 ml
-MY-FHGFC21-MO,Malaysia MAKE OVER Hydrastay Glow Fluid Foundation C21 Pink Ivory 35 ml
-MY-FHGFN10-MO,Malaysia MAKE OVER Hydrastay Glow Fluid Foundation N10 Marble 35 ml
-MY-FHGFN30-MO,Malaysia MAKE OVER Hydrastay Glow Fluid Foundation N30 Natural Beige 35 ml
-MY-FHGFW22-MO,Malaysia MAKE OVER Hydrastay Glow Fluid Foundation W22 Warm Ivory 35 ml
-MY-FHGFW33-MO,Malaysia MAKE OVER Hydrastay Glow Fluid Foundation W33 Honey Beige 35 ml
-MY-FHGFW41-MO,Malaysia MAKE OVER Hydrastay Glow Fluid Foundation W41 Coral Sand 35 ml
-MY-FHGFW42-MO,Malaysia MAKE OVER Hydrastay Glow Fluid Foundation W42 Warm Sand 35 ml
-MY-FHGFW50-MO,Malaysia MAKE OVER Hydrastay Glow Fluid Foundation N50 Tan 35 ml
 MY-FIPSF11-W,Malaysia Instaperfect SKINFOCUS Cover Foundation 11 Fair Pink 30 ml
 MY-FIPSF12-W,Malaysia Instaperfect SKINFOCUS Cover Foundation 22 Light Ivory 30 ml
 MY-FIPSF13-W,Malaysia Instaperfect SKINFOCUS Cover Foundation 32 True Beige 30 ml
@@ -1417,15 +1389,6 @@ MY-FLPWW41-MO,Malaysia MAKE OVER Powerstay Weightless Liquid Foundation W41 Cora
 MY-FLPWW42-MO,Malaysia MAKE OVER Powerstay Weightless Liquid Foundation W42 Warm Sand 33 ml
 MY-FLPWW50-MO,Malaysia MAKE OVER Powerstay Weightless Liquid Foundation W50 Creme Tan 33 ml
 MY-FLPWW60-MO,Malaysia MAKE OVER Powerstay Weightless Liquid Foundation W60 Creme Cocoa 33 ml
-MY-FLUC01-MO,Malaysia MAKE OVER Ultra Cover Liquid Matt Foundation 01 Ochre 33 ml (Pc(s))
-MY-FLUC02-MO,Malaysia MAKE OVER Ultra Cover Liquid Matt Foundation 02 Pink Shade 33 ml (pc(s))
-MY-FLUC03-MO,Malaysia MAKE OVER Ultra Cover Liquid Matt Foundation 03 Nude Silk 33 ml (pc(s))
-MY-FLUC04-MO,Malaysia MAKE OVER Ultra Cover Liquid Matt Foundation 04 Amber Rose 33 ml (Pc(s))
-MY-FLUC05-MO,Malaysia MAKE OVER Ultra Cover Liquid Matt Foundation 05 Velvet Nude 33 ml (pc(s))
-MY-FLUC06-MO,Malaysia MAKE OVER Ultra Cover Liquid Matt Foundation 06 Beige Blast 33 ml (pc(s))
-MY-FLUC07-MO,Malaysia MAKE OVER Ultra Cover Liquid Matt Foundation 07 Caramel 33 ml (pc(s))
-MY-FLUC08-MO,Malaysia MAKE OVER Ultra Cover Liquid Matt Foundation 08 Pearl 33 ml (Pc(s))
-MY-FLUC09-MO,Malaysia MAKE OVER Ultra Cover Liquid Matt Foundation 09 Crème Rose 33 ml (pc(s))
 MY-FMAIS-EM,Malaysia Emina Aqua Infused Sleeping Mask 30 g
 MY-FMCDS-W,Malaysia Wardah C-Defense Sleeping Mask 30 g
 MY-FMCMB-EM,Malaysia Emina Clay Mask Brightening 60 ml
@@ -1454,11 +1417,13 @@ MY-FTAN1-EM,Malaysia Emina Natura Pal Toner Essence 100 ml
 MY-FTBSE-EM,Malaysia Emina Bright Stuff Exfoliating Toner 100 ml
 MY-FTBST-EM,Malaysia Emina Bright Stuff Face Toner 100 ml
 MY-FTCHG-W,Malaysia Wardah Crystallure Holy Grail Toner 100 ml
+MY-FTKFT-KA,Malaysia Kahf All-in-One Power Toning Face Spray 100 ml
 MY-FTLFT-W,Malaysia Wardah Lightening Face Toner 125 ml
 MY-FTNDATE-W,Malaysia Wardah Nature Daily Aloe Hydramild Essence Toner 100 ml
 MY-FTRIHT-W,Malaysia Wardah Hydra Rose Petal Infused Toner 100 ml
 MY-FTRWSABHA-W,Malaysia Wardah Crystal Secret Exfoliating Toner with Natural AHA+PHA 125 ml
 MY-FTSBFT-EM,Malaysia Emina Skin Buddy Face Toner 100 ml
+MY-FW3IN1PC-KA,Malaysia Kahf Triple Action Oil and Comedo Defense Face Wash 100 ml
 MY-FWAN1-EM,Malaysia Emina Natura Pal Gel Cleanser 100 ml
 MY-FWBSACNE-EM,Malaysia Emina Bright Stuff for Acne Prone Skin Face Wash 100 ml
 MY-FWBSN2-EM,Malaysia Emina Bright Stuff Face Wash 100 ml
@@ -1481,6 +1446,8 @@ MY-FWRWSABHA-W,Malaysia Wardah Crystal Secret Foaming Cleanser with Natural AHA+
 MY-FWSBRDBL-EM,Malaysia Emina Skin Buddy Bubble Up Face Wash 60 ml
 MY-FWSBRDBR-EM,Malaysia Emina Skin Buddy Dot Burst Face Wash 60 ml
 MY-HBLAVG-EM,Malaysia Emina Aloe Vera Gel 60 ml
+MY-HBWEB-KA,Malaysia Kahf Brightening and Cooling Body Wash
+MY-HBWR-KA,Malaysia Kahf Acne Fight and Relaxing Body Wash
 MY-LBLMMC-EM,Malaysia Emina Lip Mask Milky Matcha 9 g
 MY-LBLMOR-EM,Malaysia Emina Lip Mask Orange Squash 9 g
 MY-LBLMPB-EM,Malaysia Emina Lip Mask Blister
@@ -1503,11 +1470,6 @@ MY-LCM12-EM,Malaysia Emina Creamatte 12 Perky Plum 5.5 gr
 MY-LCM13-EM,Malaysia Emina Creamatte 13 Beet Bites 5.5 gr
 MY-LCM14-EM,Malaysia Emina Creamatte 14 Gingerale 5.5 gr
 MY-LCM15-EM,Malaysia Emina Creamatte 15 Chocopuff 5.5 gr
-MY-LCSMC101-MO,Malaysia MAKE OVER Color Stick Matte Crayon 101 Brooklyn 2.6 g
-MY-LCSMC102-MO,Malaysia MAKE OVER Color Stick Matte Crayon 102 Iris 2.6 g
-MY-LCSMC103-MO,Malaysia MAKE OVER Color Stick Matte Crayon 103 Harper 2.6 g
-MY-LCSMC104-MO,Malaysia MAKE OVER Color Stick Matte Crayon 104 Blake 2.6 g
-MY-LCSMC105-MO,Malaysia MAKE OVER Color Stick Matte Crayon 105 Skye 2.6 g
 MY-LCUM01-W,Malaysia Wardah Colorfit Ultralight Matte Lipstick 01 Parfait Pink 3.6 g
 MY-LCUM02-W,Malaysia Wardah Colorfit Ultralight Matte Lipstick 02 Summer Peach 3.6 g
 MY-LCUM03-W,Malaysia Wardah Colorfit Ultralight Matte Lipstick 03 Caramel Nude 3.6 g
@@ -1555,28 +1517,6 @@ MY-LGS02-EM,Malaysia Emina Glossy Stain 02 Apple Shower 3 g
 MY-LGS03-EM,Malaysia Emina Glossy Stain 03 Candy Rain 3 g
 MY-LGS04-EM,Malaysia Emina Glossy Stain 04 Peach Sprinkles 3 g
 MY-LGS05-EM,Malaysia Emina Glossy Stain 05 Spring Dazzle 3 g
-MY-LHSLWA-MO,Malaysia Make Over Hydrastay Smooth Lip Whip C01 Grace 6.5 g
-MY-LHSLWB-MO,Malaysia Make Over Hydrastay Smooth Lip Whip C02 Ballad 6.5 g
-MY-LHSLWC-MO,Malaysia Make Over Hydrastay Smooth Lip Whip C03 Poetic 6.5 g
-MY-LHSLWD-MO,Malaysia Make Over Hydrastay Smooth Lip Whip C04 Real 6.5 g
-MY-LHSLWE-MO,Malaysia Make Over Hydrastay Smooth Lip Whip C05 Swift 6.5 g
-MY-LHSLWF-MO,Malaysia Make Over Hydrastay Smooth Lip Whip C06 Lively 6.5 g
-MY-LHSLWG-MO,Malaysia Make Over Hydrastay Smooth Lip Whip C07 Soirée 6.5 g
-MY-LHSLWH-MO,Malaysia Make Over Hydrastay Smooth Lip Whip C08 Devoted 6.5 g
-MY-LHSLWI-MO,Malaysia Make Over Hydrastay Smooth Lip Whip C09 Admire 6.5 g
-MY-LHSLWJ-MO,Malaysia Make Over Hydrastay Smooth Lip Whip C10 Vow 6.5 g
-MY-LHSLWK-MO,Malaysia Make Over Hydrastay Smooth Lip Whip C11 Suave 6.5 g
-MY-LHSLWL-MO,Malaysia Make Over Hydrastay Smooth Lip Whip C12 Detail 6.5 g
-MY-LIMC003-MO,"Malaysia MAKE OVER Intense Matte Lip Cream 003 Secret 6,5 g (Pc(s))"
-MY-LIMC004-MO,"Malaysia MAKE OVER Intense Matte Lip Cream 004 Vanity 6,5 g (Pc(s))"
-MY-LIMC005-MO,"Malaysia MAKE OVER Intense Matte Lip Cream 005 Impulse 6,5 g (Pc(s))"
-MY-LIMC008-MO,"Malaysia MAKE OVER Intense Matte Lip Cream 008 Libertine 6,5 g (Pc(s))"
-MY-LIMC009-MO,"Malaysia MAKE OVER Intense Matte Lip Cream 009 Posh 6,5 g (Pc(s))"
-MY-LIMC011-MO,"Malaysia MAKE OVER Intense Matte Lip Cream 011 Pompous 6,5 g (Pc(s))"
-MY-LIMC013-MO,"Malaysia MAKE OVER Intense Matte Lip Cream 013 Dainty 6,5 g (Pc(s))"
-MY-LIMC016-MO,"Malaysia MAKE OVER Intense Matte Lip Cream 016 Pixie 6,5 g (Pc(s))"
-MY-LIMC018-MO,"Malaysia MAKE OVER Intense Matte Lip Cream 018 Classic 6,5 g (Pc(s))"
-MY-LIMC019-MO,"Malaysia MAKE OVER Intense Matte Lip Cream 019 Vogue 6,5 g (Pc(s))"
 MY-LIPEI01-W,Malaysia Wardah Instaperfect Everlast Intense Matte Liquid 01 EXCEPTIONAL 4.2 g
 MY-LIPEI02-W,Malaysia Wardah Instaperfect Everlast Intense Matte Liquid 02 TIMELESS 4.2 g
 MY-LIPEI03-W,Malaysia Wardah Instaperfect Everlast Intense Matte Liquid 03 SURREAL 4.2 g
@@ -1585,9 +1525,6 @@ MY-LIPEI05-W,Malaysia Wardah Instaperfect Everlast Intense Matte Liquid 05 SPLEN
 MY-LIPEI06-W,Malaysia Wardah Instaperfect Everlast Intense Matte Liquid 06 AUTHENTIC 4.2 g
 MY-LIPEI07-W,Malaysia Wardah Instaperfect Everlast Intense Matte Liquid 07 EFFORTLESS 4.2 g
 MY-LIPEI08-W,Malaysia Wardah Instaperfect Everlast Intense Matte Liquid 08 DASHING 4.2 g
-MY-LLACL01-MO,Malaysia MAKE OVER Lip Amplify Contour Liner 01 Exposed 0.2 g
-MY-LLACL02-MO,Malaysia MAKE OVER Lip Amplify Contour Liner 02 Flatter 0.2 g
-MY-LLACL05-MO,Malaysia MAKE OVER Lip Amplify Contour Liner 05 Pin Up 0.2 g
 MY-LLLS01-EM,Malaysia Emina Watercolor Lip Serum 01 Dawn 2 g
 MY-LLLS02-EM,Malaysia Emina Watercolor Lip Serum 02 Mist 2 g
 MY-LLLS03-EM,Malaysia Emina Watercolor Lip Serum 03 Dusk 2 g
@@ -1605,12 +1542,6 @@ MY-LPTMC05-MO,Malaysia MAKE OVER Powerstay Transferproof Matte Lip Cream B05 Fir
 MY-LPTMC06-MO,Malaysia MAKE OVER Powerstay Transferproof Matte Lip Cream B06 Powerful 7 g
 MY-LPTMC07-MO,Malaysia MAKE OVER Powerstay Transferproof Matte Lip Cream B07 Amplify 7 g
 MY-LPTMC08-MO,Malaysia MAKE OVER Powerstay Transferproof Matte Lip Cream B08 Curious 7 g
-MY-LPTMCE-MO,Malaysia MAKE OVER Powerstay Transferproof Matte Lip Cream 10 Fabulous 7 g
-MY-LPTMCF-MO,Malaysia MAKE OVER Powerstay Transferproof Matte Lip Cream 20 Iconic 7 g
-MY-LPTMCG-MO,Malaysia MAKE OVER Powerstay Transferproof Matte Lip Cream 30 Fame 7 g
-MY-LPTMCH-MO,Malaysia MAKE OVER Powerstay Transferproof Matte Lip Cream 40 Authentic 7 g
-MY-LPTMCI-MO,Malaysia MAKE OVER Powerstay Transferproof Matte Lip Cream 50 Chosen 7 g
-MY-LPTMCJ-MO,Malaysia MAKE OVER Powerstay Transferproof Matte Lip Cream 60 VVIP 7 g
 MY-LRIPEI01-W,Malaysia Instaperfect Everlast Intense Matte Liquid 01 EXCEPTIONAL 4.2 g
 MY-LRIPEI02-W,Malaysia Instaperfect Everlast Intense Matte Liquid 02 TIMELESS 4.2 g
 MY-LRIPEI03-W,Malaysia Instaperfect Everlast Intense Matte Liquid 03 SURREAL 4.2 g
@@ -1679,7 +1610,6 @@ MY-MNFSAGNC3-W,Malaysia Wardah NFS Renew You Anti Aging Night Cream 3 ml (Pc(s))
 MY-MNFSPBNC-W,Malaysia Wardah NFS Perfect Bright Night Cream 3 ml
 MY-MPBNC20-W,Malaysia Wardah Perfect Bright Bright + Night Glow Night Moisturizer 20 ml
 MY-MPHAG-EM,Malaysia Emina Ms. Pimple Acne Solution Moisturizing Gel 20 ml
-MY-MPSWC-MO,Malaysia MAKE OVER Powerskin Water Charge Moisturizer 42 ml
 MY-MRHDGN1-W,Malaysia Wardah Hydra Rose Dewy Aqua Day Gel 40 g
 MY-MRHOVN1-W,Malaysia Wardah Hydra Rose Moisture Rich Night Gel 40 g
 MY-MRPBNS20-W,Malaysia Wardah Perfect Bright Moisturizer Bright + Smooth Glow SPF 30 PA+++ 20 ml
@@ -1696,10 +1626,6 @@ MY-PLHRM-W,Malaysia Wardah Lightening Hampers Ramadan Untuk Mencerahkan
 MY-PRFRELF01-W,Twin Pack Malaysia Wardah Exclusive Liquid Foundation 01 Light Beige 20 ml
 MY-PRFRELF02-W,Twin Pack Malaysia Wardah Exclusive Liquid Foundation 02 Sheer Pink 20 ml
 MY-PRHDSSK-W,"Malaysia Wardah Hydra Rose Dewy Skin Starter Kit (Facial Wash 20 ml, Toner 30 ml, Day Gel 8 ml)"
-MY-PRMPCCGR-MO,Malaysia MAKE OVER POWERSTAY Color Correcting Primer Green 25 ml
-MY-PRMPCCLC-MO,Malaysia MAKE OVER POWERSTAY Color Correcting Primer Lilac 25 ml
-MY-PRMPCCPC-MO,Malaysia MAKE OVER POWERSTAY Color Correcting Primer Peach 25 ml
-MY-PRMPCCYW-MO,Malaysia MAKE OVER POWERSTAY Color Correcting Primer Yellow 25 ml
 MY-PRMPR-EM,Malaysia Emina Pore Ranger 20 ml (Pc(s))
 MY-PRMRRIPSP-W,Malaysia Instaperfect Blur Mattifying Primer 20 ml
 MY-PRMVCPM-MO,Malaysia MAKE OVER Velvet Mattifying Primer 20 ml
@@ -1737,7 +1663,6 @@ MY-RELEOHB-W,Malaysia Wardah EyeXpert Optimum Hi-Black Liner 1 g
 MY-RELESL-W,Malaysia Wardah EyeXpert Staylast Liquid Eyeliner 3.5 g
 MY-RELIPHPB-W,Malaysia Wardah Instaperfect HYPERGETIC Precise Black Liner 1 g
 MY-REMCDAMG-W,Malaysia Wardah Crystallure Supreme Double Action Micellar Gel 150 ml
-MY-REMCO-MO,Malaysia Make Over Powerskin Ultra Deep Cleansing Oil 190 ml
 MY-REMLOIMWN2-W,Malaysia Wardah Lightening Oil-Infused Micellar Water 100 ml
 MY-REMOIMW-MO,Malaysia MAKE OVER POWERSKIN Bi-Phase Oil Micellar Water 200 ml
 MY-REMRBSMWN1-EM,Malaysia Emina Bright Stuff Micellar Water 100 ml
@@ -1833,6 +1758,7 @@ MY-SRMCDSI-W,Malaysia Wardah C-Defense Serum 17 ml
 MY-SRMCSAE-W,Malaysia Wardah Crystallure Supreme Advanced Eye Serum 15 ml
 MY-SRMCSRO-W,Malaysia Wardah Crystallure Supreme Revitalizing Oil Serum 30 ml
 MY-SRMELB-W,Malaysia Wardah Eyexpert Brow Lash Serum 10 ml
+MY-SRMFS-KA,Malaysia Kahf Brightening and Texture Refining Face Serum 30 ml
 MY-SRMH-MO,Malaysia MAKE OVER Hydration Serum 33 ml (Pc(s))
 MY-SRMNFSAGIS2-W,Malaysia Wardah NFS Renew You Anti Aging Intensive Serum 2 ml (Pc(s))
 MY-SRMRABS-KA,Malaysia Kahf Advancing Beard & Hair Serum 30 ml
@@ -1849,21 +1775,12 @@ MY-SSSB45-EM,Malaysia Emina Sun Battle SPF 45 PA+++
 MY-SSSBAT30-EM,Malaysia Emina Sun Battle SPF 30 PA+++
 MY-SSSBSP30-EM,Malaysia Emina Skin Buddy Sun Protection SPF 30 PA+++ 60 ml
 MY-SSUVSLMSN-W,Malaysia Wardah UV Shield Light Matte Sun Stick 22 g
-MY-TCFC-MO,Malaysia MAKE OVER Face Contour Kit 14 g (Pc(s))
 MY-TCIPPF01-W,Malaysia Instaperfect Matte Fit Powder Foundation 11 Fair Pink 13 g
 MY-TCIPPF02-W,Malaysia Instaperfect Matte Fit Powder Foundation 22 Light Ivory 13 g
 MY-TCIPPF03-W,Malaysia Instaperfect Matte Fit Powder Foundation 32 True Beige 13 g
 MY-TCIPPF04-W,Malaysia Instaperfect Matte Fit Powder Foundation 33 Warm Olive 13 g
 MY-TCIPPF05-W,Malaysia Instaperfect Matte Fit Powder Foundation 43 Creme Sand 13 g
 MY-TCIPPF06-W,Malaysia Instaperfect Matte Fit Powder Foundation 52 Almond 13 g
-MY-TCPC01-MO,Malaysia MAKE OVER Perfect Cover TWC 01 Lace 12 g (Pc(s))
-MY-TCPC02-MO,Malaysia MAKE OVER Perfect Cover TWC 02 Coral 12 g (Pc(s))
-MY-TCPC03-MO,Malaysia MAKE OVER Perfect Cover TWC 03 Maple 12 g (Pc(s))
-MY-TCPC04-MO,Malaysia MAKE OVER Perfect Cover TWC 04 Desert 12 g (Pc(s))
-MY-TCPC05-MO,Malaysia MAKE OVER Perfect Cover TWC 05 Cinnamon 12 g (Pc(s))
-MY-TCPC06-MO,Malaysia MAKE OVER Perfect Cover TWC 06 Cappuccino 12 g (Pc(s))
-MY-TCPC07-MO,Malaysia MAKE OVER Perfect Cover TWC 07 Espresso 12 g (Pc(s))
-MY-TCPC08-MO,Malaysia MAKE OVER Perfect Cover TWC 08 Honey 12 g (Pc(s))
 MY-TCPMC21-MO,Malaysia MAKE OVER Powerstay Matte Powder Foundation C21 Pink Ivory 12 g
 MY-TCPMC31-MO,Malaysia MAKE OVER Powerstay Matte Powder Foundation C31 Pink Beige 12 g
 MY-TCPMC41-MO,Malaysia MAKE OVER Powerstay Matte Powder Foundation C41 Cool Sand 12 g
@@ -1969,6 +1886,8 @@ REM-RBSMWN2-EM,Emina Bright Stuff Micellar Water 50 ml
 REM-RLOIMWN1-W,Wardah Lightening Oil-Infused Micellar Water 55 ml Revamp
 REM-RLOIMWN2-W,Wardah Lightening Oil-Infused Micellar Water 100 ml Revamp
 REM-RPBTUMW-W,Wardah Perfect Bright Bright + Tone Up Micellar Water 100 ml
+REM-RRBSMWN1-EM,Emina Bright Stuff Micellar Water 100 ml
+REM-RRBSMWN2-EM,Emina Bright Stuff Micellar Water 50 ml
 REM-SBMW-W100ML,Wardah Nature Daily Seaweed Cleansing Micellar Water 100 ml
 REM-SBMW-W240ML,Wardah Nature Daily Seaweed Cleansing Micellar Water 240 ml
 REM-SBRMW-EM,Emina Skin Buddy Micellar Water 100 ml
@@ -2016,11 +1935,10 @@ SRM-NS-TA,Tavi 10% Niacinamide + Zinc Acne Solution Serum 30 ml
 SRM-PB-W,Wardah Perfect Bright Super-Glow Berry Serum 8 ml
 SRM-PGN1-OMG,OMG Oh My Glow Peach Glowing Serum 20 ml
 SRM-PGN2-OMG,OMG Oh My Glow Peach Glowing Serum 7.5 ml
-SRM-PSDS-MO,Make Over Powerskin Dark Spot Serum 30 ml
-SRM-PSHS-MO,Make Over Powerskin Hydrating Serum 30 ml
-SRM-PSOC-MO,Make Over Powerskin Oil Control Serum 30 ml
 SRM-RABS-KA,Kahf Advancing Beard & Hair Serum 30 ml
 SRM-RAGIS-W,Wardah Renew You Anti Aging Intensive Serum 17 ml (New Pack)
+SRM-RBSS-EM,Emina Bright Stuff Face Serum 30 ml
+SRM-RBSSN2-EM,Emina Bright Stuff Face Serum 7.5 ml
 SRM-RIH-W,Wardah Hydra Rose Micro Gel Serum 30 ml
 SRM-RLSAN1-W,Wardah Lightening Serum Ampoule 30 ml
 SRM-RLSAN2-W,Wardah Lightening Serum Ampoule 8 ml
