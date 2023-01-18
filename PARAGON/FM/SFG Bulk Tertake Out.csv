@@ -1,4 +1,5 @@
 "Korporat Code","Material Type","General Subcategory","General Accountable State","General State","Rnd Process State","Ppc State","Rnd State","Lifecycle State"
+"T-CSHT-BULK","Semi Finished Goods","Bulk","Confirmed","Confirmed","Draft","Draft","Draft","Confirmed"
 "M-CSGN-BULK","Semi Finished Goods","Bulk","Confirmed","Confirmed","Draft","Draft","Draft","Confirmed"
 "LD-CDFB-BULK","Semi Finished Goods","Bulk","Confirmed","Confirmed","Draft","Draft","Draft","Draft"
 "FT-RCHG-BULK","Semi Finished Goods","Bulk","Confirmed","Confirmed","Draft","Draft","Draft","Draft"
